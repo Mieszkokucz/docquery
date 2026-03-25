@@ -1,3 +1,5 @@
+import re
+
 from fastapi import APIRouter
 
 from backend.app.api.models import ChatRequest, ChatResponse, Source
@@ -24,5 +26,10 @@ def chat(request: ChatRequest):
     add_message(request.session_id, "user", request.question)
     add_message(request.session_id, "assistant", answer)
 
-    sources = [Source(page=c["page"], text=c["text"]) for c in chunks]
+    cited_pages = set(map(int, re.findall(r"\[Strona (\d+)\]", answer)))
+    sources = [
+        Source(page=c["page"], text=c["text"])
+        for c in chunks
+        if c["page"] in cited_pages
+    ]
     return ChatResponse(answer=answer, sources=sources)
