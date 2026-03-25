@@ -7,9 +7,7 @@ from backend.app.api.routes import router
 from backend.app.document.naive_processor import chunk_pages, extract_pages
 from backend.app.retrieval.vector_store import index_chunks
 
-PDF_PATH = (
-    Path(__file__).resolve().parents[2] / "data" / "raport_2024_wybrane_strony.pdf"
-)
+PDF_PATH = Path(__file__).resolve().parents[2] / "data" / "raport_2024_pl 1.pdf"
 
 
 @asynccontextmanager
