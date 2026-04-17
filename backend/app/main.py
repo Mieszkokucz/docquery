@@ -1,19 +1,17 @@
 from contextlib import asynccontextmanager
-from pathlib import Path
 
 from fastapi import FastAPI
 
 from backend.app.api.routes import router
+from backend.app.config import CHUNK_OVERLAP, CHUNK_SIZE, PDF_PATH
 from backend.app.document.naive_processor import chunk_pages, extract_pages
 from backend.app.retrieval.vector_store import index_chunks
-
-PDF_PATH = Path(__file__).resolve().parents[2] / "data" / "raport_2024_pl 1.pdf"
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     pages = extract_pages(str(PDF_PATH))
-    chunks = chunk_pages(pages, chunk_size=999999)
+    chunks = chunk_pages(pages, chunk_size=CHUNK_SIZE, overlap=CHUNK_OVERLAP)
     index_chunks(chunks)
     yield
 

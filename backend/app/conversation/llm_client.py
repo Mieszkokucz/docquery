@@ -1,16 +1,16 @@
 import anthropic
 from dotenv import load_dotenv
 
-load_dotenv()
+from backend.app.config import CHAT_MODEL
 
-MODEL = "claude-sonnet-4-20250514"
+load_dotenv()
 
 
 def ask(messages: list[dict], system: str) -> str:
     """Send messages to Anthropic API and return the text response."""
     client = anthropic.Anthropic()
     response = client.messages.create(
-        model=MODEL,
+        model=CHAT_MODEL,
         max_tokens=1024,
         system=system,
         messages=messages,

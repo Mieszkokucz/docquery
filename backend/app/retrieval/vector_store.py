@@ -1,11 +1,11 @@
 import chromadb
 from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
 
+from backend.app.config import EMBEDDING_MODEL, TOP_K
+
 # Module-level — initialized once
 _client = chromadb.Client()
-_embedding_fn = SentenceTransformerEmbeddingFunction(
-    model_name="intfloat/multilingual-e5-small"
-)
+_embedding_fn = SentenceTransformerEmbeddingFunction(model_name=EMBEDDING_MODEL)
 _collection = _client.get_or_create_collection(
     "documents", embedding_function=_embedding_fn
 )
@@ -22,15 +22,17 @@ def index_chunks(chunks: list[dict]) -> None:
     )
 
 
-def search(query: str, top_k: int = 5) -> list[dict]:
+def search(query: str, top_k: int = TOP_K) -> list[dict]:
     """Query vector store, return top_k results with text, metadata, distance."""
     results = _collection.query(query_texts=[query], n_results=top_k)
     output = []
     for i in range(len(results["documents"][0])):
-        output.append({
-            "text": results["documents"][0][i],
-            "page": results["metadatas"][0][i]["page"],
-            "chunk_index": results["metadatas"][0][i]["chunk_index"],
-            "distance": results["distances"][0][i],
-        })
+        output.append(
+            {
+                "text": results["documents"][0][i],
+                "page": results["metadatas"][0][i]["page"],
+                "chunk_index": results["metadatas"][0][i]["chunk_index"],
+                "distance": results["distances"][0][i],
+            }
+        )
     return output
