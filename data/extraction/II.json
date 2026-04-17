@@ -1,0 +1,3108 @@
+{
+  "chapter_id": "II",
+  "title": "II Tworzenie wartości",
+  "page_start": 14,
+  "page_end": 28,
+  "pages": [
+    {
+      "page_num": 14,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": []
+    },
+    {
+      "page_num": 15,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [
+        "Strategia, czyli co nas wyróżnia",
+        "Programy modelu biznesowego jako odpowiedź na potrzeby rynku"
+      ],
+      "blocks": [
+        {
+          "block_id": "p15_b0",
+          "page": 15,
+          "element_type": "section-header",
+          "text": "1. Strategia, czyli co nas wyróżnia",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p15_b1",
+          "page": 15,
+          "element_type": "text",
+          "text": "W BGK koncentrujemy się na zrównoważonym rozwoju społeczno-gospodarczym Polski. Łączymy różne sektory gospodarki, by wspólnie realizować strategiczne cele i wspierać stabilny wzrost. Działamy antycyklicznie - wspieramy inwestycje, rozwój niskoniskupych gospodarki oraz spójność ekonomiczną wszystkich regionów kraju. Aktywnie wykorzystujemy potencjał funduszy unijnych. Uważnie obserwujemy zmieniające się otoczenie gospodarcze, reagujemy elastycznie i wzmacniamy fundamenty polskiego rynku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p15_b2",
+          "page": 15,
+          "element_type": "text",
+          "text": "W 2024 roku przeprowadziliśmy badanie kluczowych obszarów i zdiagnozowaliśmy stan działalności organizacji, w szczególności w horyzoncie strategii 2021-2025. W odpowiedzi na dynamicznie zmieniające się otoczenie gospodarcze, społeczne i polityczne, opracowaliśmy nową strategię banku do 2030 roku. Więcej na ten temat w rozdziale VIII.2 Nowa perspektywa: strategia 2025-2030.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p15_b3",
+          "page": 15,
+          "element_type": "text",
+          "text": "Kontynuujemy realizację naszej misji zachowując wszystkie kluczowe parametry finansowe, co potwierdzą naszą stabilność i bezpieczeństwo jako istotnego podmiotu systemu finansowego. Wzmacniamy pozycję BGK i polskiej gospodarki na arenie międzynarodowej, ale jako bank nie rywalizujemy z rynkiem. Wypełniamy lukę gospodarcza oraz kierujemy narzędzią tam, gdzie oferta rynku komercyjnego jest niewystaczająca.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p15_b4",
+          "page": 15,
+          "element_type": "picture",
+          "text": "Czarno-biała fotografia przedstawiająca wnętrze hali lub budynku użyteczności publicznej, kilka osób stoi lub siedzi w przestrzeni.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p15_b5",
+          "page": 15,
+          "element_type": "other",
+          "text": "Brązowy prostokątny element informacyjny z tekstem i liczbą 2 041 MW",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p15_b6",
+          "page": 15,
+          "element_type": "text",
+          "text": "Pod koniec 2023 r. w Polsce było 26 GW mocy osiągnąłej OZE. Aby spełnić ambicje Scenariusz Aktywnej Transformacji (KPEiK) moc osiągnąła OZE powinna zwiększyć się o 7.4 GW do 2025 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p15_b7",
+          "page": 15,
+          "element_type": "section-header",
+          "text": "2. Programy modelu biznesowego jako odpowiedź na potrzeby rynku",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p15_b8",
+          "page": 15,
+          "element_type": "text",
+          "text": "W 2024 r. funkcjonowaliśmy w oparciu o osiem programów, które stanowiły kluczowy element naszego modelu biznesowego i pozwalały nam odpowiadać na potrzeby rynku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p15_b9",
+          "page": 15,
+          "element_type": "picture",
+          "text": "Sześć ikon reprezentujących różne obszary biznesu: Rozwój przemysłu (budynek przemysłowy), Infrastruktura, transport i logistyka (ciężarówka), Rozwój przedsiębiorczości (żarówka), Bezpieczeństwo strategiczne (tarcza), Ochrona zdrowia (symbol medyczny), Finanse publiczne (banknoty), Spójność społeczna i terytorialna (globus z postaciami), Mieszkalnictwo (dom).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p15_b10",
+          "page": 15,
+          "element_type": "text",
+          "text": "Dzięki udzielonym finansowaniom kredytowym i gwarancyjnym, działalności zleconeej oraz zmobilizowemu kapitałowi wsparliliśmy polską gospodarkę w 2024 r. kwota 389 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p15_b11",
+          "page": 15,
+          "element_type": "footnote",
+          "text": "[2] Źródło: https://www.pse.pl/dane-systemowe/funkcjonowanie-kse/raporty-roczne-z-funkcjonowania-kse-zo-rok/raporty-zo-rok-2023 https://www.gov.pl/web/klimat/projekt-krajowego-planu-w-dziedzinie-energii-klimatu-do-2030-r-wersja-do-konsultacji-publicznych-z-102024-r",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 16,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p16_b0",
+          "page": 16,
+          "element_type": "other",
+          "text": "Wskaźnik własny 1, 2, 3, 4 — oznaczenie numeryczne.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p16_b1",
+          "page": 16,
+          "element_type": "caption",
+          "text": "Tabela 3. Wsparcie gospodarki według programów modelu biznesowego (w mld zł)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p16_b2",
+          "page": 16,
+          "element_type": "table",
+          "text": "Wsparcie gospodarki według programów modelu biznesowego w latach 2023 i 2024 wyrażone w miliardach złotych.\n\n| Program | 2024 | 2023 |\n|---|---|---|\n| Bezpieczeństwo strategiczne | 105 | 54 |\n| Rozwój przemysłu | 74 | 41 |\n| Rozwój przedsiębiorczości | 69 | 106 |\n| Infrastruktura, transport i logistyka | 56 | 45 |\n| Spójność społeczna i terytorialna | 41 | 51 |\n| Finanse publiczne | 32 | 50 |\n| Mieszkalnictwo | 11 | 8 |\n| Ochrona zdrowia | 2 | 1 |\n| Suma | 389 | 356 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p16_b3",
+          "page": 16,
+          "element_type": "text",
+          "text": "W 2024 roku struktura wsparcia gospodarki w poszczególnych programach modelu biznesowego kształtowała się inaczej niż w poprzednim roku. Istotny wzrost kwoty wsparcia gospodarki w programie Bezpieczeństwo strategiczne jest przede wszystkim naszym wkładem w transformację energetyczną Polski. Udzieliliśmy dwóch pożyczek z KPO (na budowę morskich farm wiatrowych i na sieć elektroenergetyczną) i tym samym wsparlliśmy polską gospodarkę kwotą niemał 73 mld zł, a to nie wszystko, co zdzialaliśmy w tym obszarze.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p16_b4",
+          "page": 16,
+          "element_type": "text",
+          "text": "Największy spadek zanotował program Rozwój przedsiębiorczości. Był to efekt zmiany oferty produktowej w ramach działalności zielonej. Z końcem 2023 r. zakończyliśmy udzielanie gwarancji ze środków Funduszu Gwarancji Kryzysowych. Ponadto zapotzebowanie przedsiębiorców na gwarancje udzielane w ramach portfelowych linii gwarancyjnych było niższe, a popyt na nowe produkty finansowane z funduszy unijnych dopiero zaczyna rosnąć.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p16_b5",
+          "page": 16,
+          "element_type": "subsection-header",
+          "text": "Mieszenie i raportowanie wpływu",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p16_b6",
+          "page": 16,
+          "element_type": "text",
+          "text": "Od 2023 roku mierzymy i raportujemy wpływ udzielonych finansowań na zrównoważony rozwój Polski sprawdzając, jakie są niefinansowe rezultaty transakcji zawieranych w ramach programów modelu biznesowego. Mieszenie efekty odpowiadają na zidentyfikowane przez nas wyzwania rynkowe i wynikające z nich cele. Metodologia zbierania i prezentowania efektów opiera się na opracowanych w banku zasadach:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p16_b7",
+          "page": 16,
+          "element_type": "list",
+          "text": "- Dane zbierane i raportowane są w momencie zawarcia transakcji na podstawie założeń udzielonego finansowania i prezentują spodziewany pozytywny efekt.\n- Niezależenie od wielkości przedmiotowania w projekcie, prezentujemy całość efektu osiągniętego przy naszym udziale.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p16_b8",
+          "page": 16,
+          "element_type": "text",
+          "text": "Zasady te stosujemy zarówno w przypadku finansowań własnych, jak i działalności zielonej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p16_b9",
+          "page": 16,
+          "element_type": "picture",
+          "text": "Cztery czarno-białe fotografie przedstawiające bibliotekę — półki z książkami, osoby pracujące wśród zbiorów bibliotecznych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p16_b10",
+          "page": 16,
+          "element_type": "other",
+          "text": "Prostokątny element graficzny w kolorze brązowym z tekstem i liczbą 88 580, zawierający informacje o gwarancjach kredytowych dla małych i średnich przedsiębiorstw.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p16_b11",
+          "page": 16,
+          "element_type": "footnote",
+          "text": "* Źródło: na podstawie danych NBP o sytuacji na rynku kredytowym (https://nbp.pl/system-finansowy/sytuacja-na-rynku-kredytowym/)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 17,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p17_b0",
+          "page": 17,
+          "element_type": "text",
+          "text": "Podsumowanie działań programów za 2024 rok",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b1",
+          "page": 17,
+          "element_type": "subsection-header",
+          "text": "Rozwój przemysłu",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p17_b2",
+          "page": 17,
+          "element_type": "list",
+          "text": "- GRI 3-3 temat: Rozwój przemysłu i infrastruktury\n- Wskaźnik własny 4\n- SDG 9",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b3",
+          "page": 17,
+          "element_type": "text",
+          "text": "Ambicją programu jest wzrost konkurencyjności polskiego przemysłu (niskoemisyjna gospodarka, rosnąca produktywność, Przemysł 4.0, gospodarka o obiegu zamkniętym, bezpieczeństwo fizyczne Polski).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b4",
+          "page": 17,
+          "element_type": "subsection-header",
+          "text": "Najważniejsze działania w ramach programu w 2024 r.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p17_b5",
+          "page": 17,
+          "element_type": "list",
+          "text": "- W ramach Funduszu Wsparcia SIL zbrojnych sfinansowano zadania określone w programie rozwoju SIL Zbrojnych na kwotę blisko 30 mld zł.\n- Przeanalizowano zagadnienie local content dla energetyki jądrowej w szczególności w zakresie finansowania. Określono możliwość wykorzystania dotychczasowych produktów finansowych oraz uzasadze obszary z oczekiwanym wsparciem.\n- Opracowano analizę regionalne w zakresie branz perspektywicznych w celu lepszego doposażenia działań na rzecz wsparcia przemysłu (w tym twin transition - transformacja post-dochodowa i cyfrowa).\n- Objęto partnerstwem Test Dojrzałości Cyfrowej (narzędzie opracowane przez PFR i Fundacje Digital Poland) dla przedsiębiorców, który ma na celu wspieranie ich rozwoju cyfrowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b6",
+          "page": 17,
+          "element_type": "text",
+          "text": "Wsparcie gospodarki w ramach programu w 2024 r. wyniosło 73,9 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b7",
+          "page": 17,
+          "element_type": "picture",
+          "text": "Zdjęcie nowoczesnego budynku biurowego z szklano-metalową fasadą i otoczeniem miejskim.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b8",
+          "page": 17,
+          "element_type": "other",
+          "text": "Infografika z liczbą 7 914 oraz opisem: mieszkań komunalnych, socjalnych i umiarkowanie wanych czinszu powstanie dzięki rozpoczetyem w 2024 r. finansowaniem z udziałem BGK. Obok tekst 'Na rynku brakuje ok. 123.8 tys. mieszkań dla osób niepełnosprawnych i zagrożonych wykluczeniem społecznym'.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b9",
+          "page": 17,
+          "element_type": "footnote",
+          "text": "² Źródło: GUS, liczba gospodarstw domowych oczkupjących na igiem lokalu komunalnego od gminy, dane za 2023 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b10",
+          "page": 17,
+          "element_type": "subsection-header",
+          "text": "Infrastruktura, transport i logistyka",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p17_b11",
+          "page": 17,
+          "element_type": "list",
+          "text": "- SDG 9",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b12",
+          "page": 17,
+          "element_type": "text",
+          "text": "Ambicją programu jest rozwój zintegrowanego i zrównoważonego systemu transportowego w Polsce.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b13",
+          "page": 17,
+          "element_type": "subsection-header",
+          "text": "Najważniejsze działania w ramach programu w 2024 r.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p17_b14",
+          "page": 17,
+          "element_type": "list",
+          "text": "- WSparcie transformacji transportu w niskoemisyjny (poprzez m.in. współfinansowanie zakupu taboru kolejowego na kwotę blisko 2 mld zł) i wykorzystania środków z programu Wiedeńskiego.\n- Zwiększenie efektywności operacyjnej banku w finansowaniu sektora budowlanego poprzez dostosowanie warunków finansowania branży oraz rozpoczęcie automatyzacji procesów.\n- Doskonalenie procesów zarządzania funduszami celowymi, w tym zmiana warunków finansowania w ramach Funduszu Zjugłu Srodkowego oraz duższa cyfryzacja i standardyzacja usługi funduszy infrastrukturalnych.\n- Monitorowanie sytuacji rynkowej oraz diagnoza wyzwań poszczególnych obszarów szeroko pojętej infrastruktury transportu w celu dostosowania działań banku do wymogów rynkowych, tym przygotowanie raportów: Polska-Ukraina: Sektor transportu, Konkurencja i współpraca oraz Analiza potencjału rozwoju infrastruktury intermodalnej oraz małych i średnich portów morskich w poszczególnych regionach.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b15",
+          "page": 17,
+          "element_type": "text",
+          "text": "Wsparcie gospodarki w ramach programu w 2024 r. wyniosło 56,0 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b16",
+          "page": 17,
+          "element_type": "picture",
+          "text": "Zdjęcie korytarza w nowoczesnym budynku szpitala z oświetleniem LED i czystymi, białymi ścianami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b17",
+          "page": 17,
+          "element_type": "other",
+          "text": "Infografika z liczbą 1 206 oraz opisem: studentów medycyny umożliwiliśmy dostęp do edukacji w 2024 r. w ramach Funduszu Kredytowania Studiów Medycznych. Obok tekst 'W 2022 r. liczba lekarzy na 1000 mieszkańców wyniosła w Polsce 3.5 przy średniej dla UE27 wynoszącej 4.2'.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p17_b18",
+          "page": 17,
+          "element_type": "footnote",
+          "text": "10 Źródło: OECD Health Statistics 2024 (https://www.oecd.org/en/publications/health-at-a-glance-europe-2024-b3704e14-en.html)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 18,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p18_b0",
+          "page": 18,
+          "element_type": "picture",
+          "text": "Logo firmy w lewym górnym rogu, zawierające stylizowaną postać i napis 'Rozwój przedsiębiorczości'",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b1",
+          "page": 18,
+          "element_type": "subsection-header",
+          "text": "Rozwój przedsiębiorczości",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p18_b2",
+          "page": 18,
+          "element_type": "text",
+          "text": "SDG 8",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b3",
+          "page": 18,
+          "element_type": "text",
+          "text": "Ambicją programu jest zapewnienie przedsiębiorstwom kompleksowej oferty finansowania ukierunkowanej na potrzeby rozwojowe i płynnościowe.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b4",
+          "page": 18,
+          "element_type": "text",
+          "text": "Najważniejsze działania w ramach programu w 2024 r.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b5",
+          "page": 18,
+          "element_type": "list",
+          "text": "- Zrealizowano założone cele pozwalające na większe stymulowanie inwestycji w sektorze przedsiębiorstw mikro, małych i średnich (w tym transition). Ponad 1200 przedsiębiorców skorzystało z oferty BGK na cyfryzację (kurs „MSP 4.0 - wyzwania transformacji cyfrowej",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b6",
+          "page": 18,
+          "element_type": "text",
+          "text": "Wsparcie gospodarki w ramach programu w 2024 r. wyniosło 69,0 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b7",
+          "page": 18,
+          "element_type": "picture",
+          "text": "Logo tarczy w górnym prawym rogu, zawierające napis 'Bezpieczeństwo strategiczne'",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b8",
+          "page": 18,
+          "element_type": "subsection-header",
+          "text": "Bezpieczeństwo strategiczne",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p18_b9",
+          "page": 18,
+          "element_type": "text",
+          "text": "GRI 3-3 temat: Bezpieczeństwo     Wskaźnik własny 1     SDG 7, SDG 9",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b10",
+          "page": 18,
+          "element_type": "text",
+          "text": "Ambicją programu jest zwiększenie potencjału sektora energetycznego i jego transformacja wspierająca zrównoważony rozwój społeczno-gospodarczy Polski.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b11",
+          "page": 18,
+          "element_type": "text",
+          "text": "Najważniejsze działania w ramach programu w 2024 r.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b12",
+          "page": 18,
+          "element_type": "list",
+          "text": "- W naszej działalności własnej (tj. w oparciu o kapitały własne BGK) udzieliliśmy ponad 22,5 mld zł finansowania dla sektora energetycznego i elektroenergetyki, paliwowy, ciepłowniczy), mobilizując jednocześnie rynek na łączną kwotę 10,9 mld zł.\n- W działalności zleceni (tj. realizowanej w oparciu o środki powierzone) bank udzielił na rynek kwote 12,3 mld zł mobilizując jednocześnie ponad 60 mld finansowania pochodzącego z innych źródeł.\n- W ramach finansowania projektów OZE, BGK udzielił łącznie ok 5,6 mld zł finansowania.co dzięki mobilizacji kapitału prywatnego, przybylizie się na łączne wspieranie gospodarki w kwocje ponad 6,5 mld zł.\n- W ramach Funduszu Wsparcia Energetyki w 2024 r. bank podpisał umowe pożyczki na kwotę 11 mld zł z przeznaczeniem na rozbudowę sieci dystrybucyjnej oraz umowe pożyczki do kwoty 750 mln zł na rozwój morskiej energetyki wiatrowej. Bank zrealizował równiież wszystkie wyznaczone cele związane z dystrybucją KPO.\n- W ramach działalności własnej dominujnym instrumentem jest kredyt obrotowy, do wynika z preferencji dużych koncernów energetycznych dot. pozyskiwania krótkotermowego finansowania ogólnokorporacyjnego, które równiież dopuszczam finansowanie inwestycji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b13",
+          "page": 18,
+          "element_type": "text",
+          "text": "Wsparcie gospodarki w ramach programu w 2024 r. wyniosło 105,0 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b14",
+          "page": 18,
+          "element_type": "picture",
+          "text": "Infografika pokazująca potencjał mocy przyłączeniowej sieci elektroenergetycznej, z tekstem '5 700 MW to potencjalna moc przyłączeniowa sieci elektroenergetycznej, której dostosowanie wspołfinansował BGK w 2024 r.' oraz zdjęciem elektrowni lub infrastruktury energetycznej",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p18_b15",
+          "page": 18,
+          "element_type": "footnote",
+          "text": "Źródło: https://www.ure.gov.pl/pl/urzedzinformacje-ogolne/aktualnosci/11948.Sprowadzenie-z-dzialalnosci-Prezesa-URE-w-2023-r-jak-realnie-wyglosia-kwesija-odm.html",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 19,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p19_b0",
+          "page": 19,
+          "element_type": "subsection-header",
+          "text": "Ochrona zdrowia",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p19_b1",
+          "page": 19,
+          "element_type": "text",
+          "text": "GRI 3-3 temat: Zdrowie i jakość życia     Wskaźnik własny 3     SDG 3, SDG 4",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b2",
+          "page": 19,
+          "element_type": "text",
+          "text": "Ambicją programu jest usprawnienie systemu ochrony zdrowia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b3",
+          "page": 19,
+          "element_type": "text",
+          "text": "Najważniejsze działania w ramach programu w 2024 r.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b4",
+          "page": 19,
+          "element_type": "list",
+          "text": "- Propozycja nowego modelu finansowania szpitali na działania restrukturyzacyjne, wsparcie płynnościowe i inwestycyjne. W celu zwiększenia znaczenia roli BGK w finansowaniu sektora oraz realizacji polityki transformacji.\n- Rozpoczęcie dialogu z KNF o dostosowaniu katalogu dowodu utraty wartości dla szpitali, co ma wpływ na możliwość zwiększenia skali ich finansowania przez BGK. W 2024 r. udzielono BGK udzielił 95 pożyczek medycznych.\n- Rozszerzenie o sektor farmaceutyczny działań w zakresie suerenności lekowej.\n- Edukacja szpitali w zakresie działań ESG i konieczności przygotowania się sektora na nadchodzące wymogi. Dwa cykle wydarzeń dotarły łącznie do 94 szpitali.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b5",
+          "page": 19,
+          "element_type": "text",
+          "text": "Wsparcie gospodarki w ramach programu w 2024 r. wyniosło 1,7 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b6",
+          "page": 19,
+          "element_type": "picture",
+          "text": "Zdjęcie wnętrza szpitala przedstawiające korytarz z oknami, schodami i białymi kolumnami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b7",
+          "page": 19,
+          "element_type": "text",
+          "text": "W połowie 2023 r. z problemem zakupowych więzień borykało się 235 szpitali (56% samodzielnych zakładów opieki zdrowotnej).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b8",
+          "page": 19,
+          "element_type": "other",
+          "text": "Prostokątny element graficzny z brązowym tłem zawierający liczbę 184 i tekst opisujący transakcje zawarte przez BGK w 2024 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b9",
+          "page": 19,
+          "element_type": "subsection-header",
+          "text": "Finanse publiczne",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p19_b10",
+          "page": 19,
+          "element_type": "text",
+          "text": "Ambicją programu jest efektywna obsługa bankowa sektora publicznego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b11",
+          "page": 19,
+          "element_type": "text",
+          "text": "Najważniejsze działania w ramach programu w 2024 r.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b12",
+          "page": 19,
+          "element_type": "list",
+          "text": "- Zwiększyliśmy transparentność informującą funduszy powierzonch BGK do obsługi poprzez publikacje na stronie BIP BGK planów finansowych funduszy oraz sprawozdań z ich realizacji.\n- Zwiększyliśmy skalę działania rozliczeń cyfrowych płatności publiczno-prawnych w aplikacji mObyватель 2.0 W 2024 r. z aplikacji korzystały 63 jednostki samorządowe (JST), a w mObyватель 2.0. rozliczylismy 88 tys. transakcji na kwotę 12 mln zł.\n- Jako agent rozliczeniowy i dzięki wdrożonym rozwiązaniom cyfrowym, rozliczylismy dla partnerów banku transakcje w kwocie ponad 336 mln zł, co oznacza wzrost o ponad o ponad 132% w stosunku do 2023 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b13",
+          "page": 19,
+          "element_type": "text",
+          "text": "Wsparcie gospodarki w ramach programu w 2024 r. wyniosło 31,7 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b14",
+          "page": 19,
+          "element_type": "picture",
+          "text": "Zdjęcie wnętrza nowoczesnego biura z dużymi oknami i minimalistycznym wyposażeniem.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b15",
+          "page": 19,
+          "element_type": "text",
+          "text": "Środki europejskie wraz z krajowym współfinansowaniem odgrywają kluczową rolę w procesach transformacyjnych polskiej gospodarki. Istotnym wyzwaniem jest efektywne zarządzanie tym środkami, wysoki standard prowadzonej obsługi oraz zachowanie standardów bezpieczeństwa.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b16",
+          "page": 19,
+          "element_type": "other",
+          "text": "Prostokątny element graficzny z brązowym tłem zawierający liczbę 11 867 i tekst opisujący unikalne podmioty obsługiwane w 2024 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p19_b17",
+          "page": 19,
+          "element_type": "footnote",
+          "text": "Źródło: https://www.cwzdrowie.pl/aktualnosci/post/szpitale-ponod-polowo-ma-zobowiazania-wymagalne.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 20,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p20_b0",
+          "page": 20,
+          "element_type": "subsection-header",
+          "text": "Spójność społeczna i terytorialna",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p20_b1",
+          "page": 20,
+          "element_type": "text",
+          "text": "GRI 3-3 temat: Rozwój lokalnych społeczności     Wskaźnik własny 2",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b2",
+          "page": 20,
+          "element_type": "text",
+          "text": "SDG 8, SDG 10, SDG 11",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b3",
+          "page": 20,
+          "element_type": "text",
+          "text": "Ambicją programu jest wyrównywanie szans grup i obszarów defaworyzowanych, rozwój miast oraz wsparcie realizacji zadań własnych samorządów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b4",
+          "page": 20,
+          "element_type": "text",
+          "text": "Najważniejsze działania w ramach programu w 2024 r.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b5",
+          "page": 20,
+          "element_type": "list",
+          "text": "- Podpisaliśmy 430 umów na finansowanie i refinansowanie projektów zielonej transformacji miast z KPO, co pozwoliło zrealizować wyznaczony cel (214³; planu).\n- Operacyjnie uruchomiliśmy nowe instrumenty społeczne z obszaru samozatrudnienia, kształcenia ustawicznego oraz ekonomii społecznej i dostępności.\n- Regularnie pojawiamy się z ofertą finansowania w ok. 50% postępowań przetargowych lub konkursowych prowadzonych przez jednostki samorządu terytorialnego. Dzięki temu skal aktywności zapewniamy finansowanie tam, gdzie brukuje zainteresowania innych banków oraz oddziaływemy równoważąco na oczekiwania cenowe ofertantów. Bank udzielił finansowania podmiotom wszystkich szczebli struktury samorządowej, od gmin wiejskich po województwom. Aktualnie finansuje się w BGK co trzeci samorząd w kraju, z tego aż 80% miast na prawach powiatu.\n- W 2024 r. w ramach działalności własnej udzieliliśmy finansowania 287 samorządom na łączną kwotę ponad 5,5 mld zł. Samorządy korzystały z pełnej palety produktowej instrumentów długich, w tym – coraz chętniej - z nowego rozwiązania, czyli pożyczki (trzykrotny wzrost r/r).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b6",
+          "page": 20,
+          "element_type": "text",
+          "text": "Wsparcie gospodarki w ramach programu w 2024 r. wyniosło 41,1 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b7",
+          "page": 20,
+          "element_type": "other",
+          "text": "Element z ikoną dokumentu i tekstem 'ZOBACZ WIĘCEJ' oraz listą odnośników do dodatkowych informacji",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b8",
+          "page": 20,
+          "element_type": "text",
+          "text": "Więcej informacji na temat naszych działań w zakresie:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b9",
+          "page": 20,
+          "element_type": "list",
+          "text": "- KPO w rozdziale V.2. Krajowy Plan Odbudowy i Zwiększania Odporności.\n- pomocy dla powodzian w rozdziale V.3.2 Wsparcie poszkodowanych podczas powodzi.\n- mieszkalnictwa w rozdziale V.3.1. Rozwój mieszkalnictwa.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b10",
+          "page": 20,
+          "element_type": "subsection-header",
+          "text": "Mieszkalnictwo",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p20_b11",
+          "page": 20,
+          "element_type": "text",
+          "text": "GRI 3-3 temat: Rozwój lokalnych społeczności     SDG 10, SDG 11, SDG 13",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b12",
+          "page": 20,
+          "element_type": "text",
+          "text": "Ambicją programu jest zwiększenie dostępności mieszkań dla osób o niskich i średnich dochodach oraz poprawa stanu technicznego zasobów mieszkaniowych, w tym wzrost efektywności energetycznej budynków.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b13",
+          "page": 20,
+          "element_type": "text",
+          "text": "Najważniejsze działania w ramach programu w 2024 r.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b14",
+          "page": 20,
+          "element_type": "list",
+          "text": "- Sfinansowaliśmy modernizację budynków mieszkalnych, która przyczyni się do redukcji emisji o 70 tys. ton CO₂¹³.\n- Współpracowaliśmy z Ministerstwem Rozwoju i Technologii w zakresie zmian wprowadzanych w instrumentach programu Mieszkalnictwo, między innymi wprowadziliśmy nowe instrumenty wsparcia w przypadku powodzi, które pokrywają do 100% kosztu przedsięwzięcia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b15",
+          "page": 20,
+          "element_type": "text",
+          "text": "Wsparcie gospodarki w ramach programu w 2024 r. wyniosło 10,8 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b16",
+          "page": 20,
+          "element_type": "picture",
+          "text": "Wnętrze nowoczesnego budynku mieszkalnego z przestronnym helem, światłem naturalnym wpadającym przez duże okna oraz wyposażeniem w meble i przedmioty codziennego użytku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b17",
+          "page": 20,
+          "element_type": "other",
+          "text": "Brązowy prostokątny element infograficzny z białym tekstem zawierającym statystykę: '33 256 mieszkań zyskało lepszą charakterystykę energetyczną dzięki finansowaniu inwestycji termomodernizacyjnych lub remontowych z programu TERMO w 2024 r.'",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b18",
+          "page": 20,
+          "element_type": "text",
+          "text": "14,6% gospodarstw domowych zamieszkujących budynki wielorodzinne oraz 23,3% gospodarstw domowych mieszkających w domach jednorodzinnych mieszka w nieocieplonych budynkach¹⁴.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b19",
+          "page": 20,
+          "element_type": "footnote",
+          "text": "¹³ Źródło: audyty energetyczne budynków",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p20_b20",
+          "page": 20,
+          "element_type": "footnote",
+          "text": "¹⁴ Źródło: badanie EGD GUS za 2021 r. za. Zielkowskie K. Czysta i tania energia w polskich domach. Jakich zmion potrzebujemy? Forum Energii, 2024",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 21,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [
+        "Model tworzenia wartości"
+      ],
+      "blocks": [
+        {
+          "block_id": "p21_b0",
+          "page": 21,
+          "element_type": "section-header",
+          "text": "3. Model tworzenia wartości",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p21_b1",
+          "page": 21,
+          "element_type": "text",
+          "text": "Wykorzystując dostępne zasoby, tworzymy wartość dla naszych interesariuszy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p21_b2",
+          "page": 21,
+          "element_type": "subsection-header",
+          "text": "KAPITAŁ",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p21_b3",
+          "page": 21,
+          "element_type": "list",
+          "text": "- INSTYTUCJONALNY\n- FINANSOWY\n- LUDZKI\n- INTELEKTUALNY\n- SPOŁECZNY I RELACYJNY\n- INFRASTRUKTURALNY\n- NATURALNY",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p21_b4",
+          "page": 21,
+          "element_type": "picture",
+          "text": "Model biznesowy w postaci drzewa ze stanowiącymi go elementami: u podstawy trzy pierwiastki (Otwartość, Zespołowość, Odpowiedzialność), pień z opisem Ryzyka i Szansy, korona z ikonami (Zrównoważony rozwój, Zaangażowanie społeczne, Współpraca i biznes międzynarodowy, Transformacja cyfrowa, Efektywny model zarządzania), oraz gałęzie z Wizją i Misją.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p21_b5",
+          "page": 21,
+          "element_type": "subsection-header",
+          "text": "W REZULTACIE",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p21_b6",
+          "page": 21,
+          "element_type": "text",
+          "text": "389 mld zł wygenerowanego wsparcia dla gospodarki poprzez udzielone finansowania własne, działalność złeconą oraz zmobilizowany kapitał. w tym 54 mld zł w ramach programu gwarancji de minimis",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p21_b7",
+          "page": 21,
+          "element_type": "text",
+          "text": "55.4 mld zł udzielonych kredytów i finansowań leasingowych, dzięki gwarancjom z Funduszu KFG",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p21_b8",
+          "page": 21,
+          "element_type": "text",
+          "text": "kluczowa rola w dystrybucji środków KPO - zrealizowane wszystkie wyznaczone cele - podpisane umowy o pożyczki na ponad 13 mld zł, w tym 430 umów o pożyczkę wspierającą zieloną transformację miast oraz 2 umowy na wsparcie systemu energetycznego i morskiej energetyki wiatrowej",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p21_b9",
+          "page": 21,
+          "element_type": "text",
+          "text": "aktywne zaangażowanie w pomoc dla powodzian poprzez różne instrumenty finansowe (224 mln zł udzielonych finansowań), oddolne zaangażowanie pracowników (zbiórka prawie 900 potrzebnych produktów dla powodzian) i przekazanie 15 agregatów prądotwórczych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p21_b10",
+          "page": 21,
+          "element_type": "text",
+          "text": "666 tys. płatności BLIK rozliczonych przez BGK w mObywatel i eUrząd Skarbowy na łączną kwotę ponad 336 mln zł",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p21_b11",
+          "page": 21,
+          "element_type": "text",
+          "text": "20 tys. beneficjentów programu 'Wolontariat jest super'",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p21_b12",
+          "page": 21,
+          "element_type": "text",
+          "text": "3. miejsce w polskim rankingu międzynarodowej instytucji badawczej Top Employer 2024",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p21_b13",
+          "page": 21,
+          "element_type": "text",
+          "text": "zaktualizowany rating na poziomie .2' od Sustainable Fitch (w skali 1-5, gdzie .1' to ocenę najwyższą z punktacją podniesioną do 64 oraz nowy rating ESG od Sustainalytics na poziomie low risk (16.7) w kategorii core, ratinqi kredytowe zewnętrznych agencji to zsame z ratingiem Polski",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 22,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [
+        "Kapitały wykorzystywane przez BGK"
+      ],
+      "blocks": [
+        {
+          "block_id": "p22_b0",
+          "page": 22,
+          "element_type": "section-header",
+          "text": "4. Kapitały wykorzystywane przez BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p22_b1",
+          "page": 22,
+          "element_type": "subsection-header",
+          "text": "Kapitał instytucjonalny",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p22_b2",
+          "page": 22,
+          "element_type": "subsection-header",
+          "text": "Zasoby:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p22_b3",
+          "page": 22,
+          "element_type": "text",
+          "text": "Kapitał instytucjonalny gwarantuje nam stabilność i definiuje naszą działalność.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p22_b4",
+          "page": 22,
+          "element_type": "list",
+          "text": "- 100-letnia historia i misja banku rozwoju\n- Mandat rządowy i działalność uregulowana Ustawą o BGK\n- Akredytacja KE dla partnera wdrażającego środki UE",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p22_b5",
+          "page": 22,
+          "element_type": "subsection-header",
+          "text": "Zarządzanie kapitałem",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p22_b6",
+          "page": 22,
+          "element_type": "text",
+          "text": "Realizujemy misję BGK poprzez współpracę z wieloma partnerami krajowymi i międzynarodowymi, przy wsparciu Skarbu Państwa.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p22_b7",
+          "page": 22,
+          "element_type": "subsection-header",
+          "text": "Wynik przetworzenia kapitału",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p22_b8",
+          "page": 22,
+          "element_type": "text",
+          "text": "Kapitał instytucjonalny jako uzupełnienie pozostałych kapitałów wykorzystywanych przez bank, wspiera rozwój społeczno-gospodarczy Polski.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p22_b9",
+          "page": 22,
+          "element_type": "list",
+          "text": "- 19 funduszy przepływowych obsługiwanych przez bank\n- 268,1 mld zł obligacji wyemitowanych na rzecz funduszy przepływowych\n- Środki z międzynarodowych instytucji finansowych i funduszy UE dla podmiotów w luce finansowej\n- Sieć ponad 100 instytucji współpracujących (banki i niebankowe instytucje finansujące)\n- ponad 140 mld zł powierzonych środków w ramach KPO (instrumenty pożyczkowe)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p22_b10",
+          "page": 22,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na interesariuszy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p22_b11",
+          "page": 22,
+          "element_type": "picture",
+          "text": "Trzy ikony przedstawiające wpływ na interesariuszy: ikona społeczeństwa (grupa ludzi), ikona partnerów i klientów (dwa budynki), ikona pracowników (grupa ludzi w kole). Każda ikona ma trzy plusy obok siebie w kolorze zielonym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p22_b12",
+          "page": 22,
+          "element_type": "text",
+          "text": "Społeczeństwo",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p22_b13",
+          "page": 22,
+          "element_type": "text",
+          "text": "Partnerzy i klienci",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p22_b14",
+          "page": 22,
+          "element_type": "text",
+          "text": "Pracownicy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p22_b15",
+          "page": 22,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na inne kapitały",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p22_b16",
+          "page": 22,
+          "element_type": "list",
+          "text": "- Wpływ na kapitał ludzki poprzez zwiększanie poczucia bezpieczeństwa pracowników i prestiżu pracodawcy.\n- Wpływ na kapitał intelektualny poprzez współpracę z wieloma instytucjami krajowymi i międzynarodowymi.\n- Wpływ na kapitał finansowy m.in. poprzez środki pozyskane z funduszy UE i programów rządowych oraz międzynarodowych instytucji finansowych.\n- Wpływ na kapitał społeczny i infrastrukturalny poprzez finansowanie i wspieranie zrównoważonego rozwoju społeczno-gospodarczego kraju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 23,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p23_b0",
+          "page": 23,
+          "element_type": "other",
+          "text": "Ikona portfela w lewym górnym rogu strony.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p23_b1",
+          "page": 23,
+          "element_type": "subsection-header",
+          "text": "Kapitał finansowy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p23_b2",
+          "page": 23,
+          "element_type": "subsection-header",
+          "text": "Zasoby",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p23_b3",
+          "page": 23,
+          "element_type": "text",
+          "text": "Środki, którymi dysponuje BGK, pochodzą z finansowania zewnętrznego, kapitału własnego i dotacji oraz wyewidencjonane w wyniku inwestycji i w ramach działalności operacyjnej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p23_b4",
+          "page": 23,
+          "element_type": "list",
+          "text": "- 203,8 mld zł depozytów na koniec 2024 r.\n- 40,9 mld zł funduszy własnych i wyemitowane obligacje własne o łącznej wartości nominalnej 1,8 mld zł, ponadto w 2024 r. wyemitowaliśmy na rzecz funduszy przepływowych obligacje o wartości nominnej 55,4 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p23_b5",
+          "page": 23,
+          "element_type": "subsection-header",
+          "text": "Zarządzanie kapitałem",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p23_b6",
+          "page": 23,
+          "element_type": "text",
+          "text": "W zarządzaniu kapitałem finansowym kierujemy się dążeniem do jego efektywnego wykorzystania w celu wsparcja rozwoju społeczno - gospodarczego, a nie maksymalizacji zysku. przy zachowaniu najwyższej troski o bezpieczeństwo środków, które zostały nam powierzone. Robimy to w taki sposób, aby kreować wartość dla interesariuszy i uwzględniać ustalone przez nas ryzyka. Zgodnie z naszą strategią i programem modelowania biznesowego zarządzamy kapitałem finansowym tak, aby wzmocnił nasze pozostałe kapitały.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p23_b7",
+          "page": 23,
+          "element_type": "subsection-header",
+          "text": "Wynik przetworzenia kapitału",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p23_b8",
+          "page": 23,
+          "element_type": "text",
+          "text": "Specyficzna rola i misja BGK jako banku rozwoju, mandat rządowy oraz zaufanie publiczne pomagają umocnić kapitał finansowy. Dzięki tym środkom wspieramy rozwój gospodarczy Polski i sprawnie reagujemy na zmieniające się potrzeby gospodarki i społeczeństwa.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p23_b9",
+          "page": 23,
+          "element_type": "list",
+          "text": "- 231 mld zł finansowań udzielonych w 2024 r.: w ramach działalności własnej (52 mld zł) oraz zleconej (179 mld zł), w tym funduszy przepływowych\n- 10 mld zł kosztów odsetkowych\n- 1 060 mln zł łącznego obciążenia podatkowego (tzw. Total Tax Contribution) banku na terytoriom Polski\n- Utrzymany rating emitenta na poziomie „A2\" w ulacie obcej i krajowej od agencji Moody's oraz potwierdzone stopniowy rating od agencji Fitch na poziomie „AAA(pol)\" z perspektywą stabilną oraz rating międzynarodowy długotermionowy na poziomie „A-\" z perspektywą stabilną\n- Łączny współfinansownik kapitałowy na wysokim poziomie, dający potencjał do dalszego finansowania gospodarki Polski",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p23_b10",
+          "page": 23,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na interesariuszy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p23_b11",
+          "page": 23,
+          "element_type": "picture",
+          "text": "Trzy ikony z symbolami wpływu przetworzenia kapitału: ikona społeczeństwa (ludzie w kole), ikona partnerów i klientów (dwie osoby), ikona pracowników (grupa ludzi). Każda ikona zawiera znaki plus i minus wskazujące pozytywny i negatywny wpływ.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p23_b12",
+          "page": 23,
+          "element_type": "text",
+          "text": "Społeczeństwo",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p23_b13",
+          "page": 23,
+          "element_type": "text",
+          "text": "Partnerzy i klienci",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p23_b14",
+          "page": 23,
+          "element_type": "text",
+          "text": "Pracownicy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p23_b15",
+          "page": 23,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na inne kapitały",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p23_b16",
+          "page": 23,
+          "element_type": "list",
+          "text": "+ Wpływ na kapitał ludzi m.in. poprzez wypłate wynagrodzeń i innych świadczeń pracownikom, jak również wpływ na tworzenie i utrzymywanie miejsc pracy u naszych partnerów biznesowych.\n+ Wpływ na kapitał intelektualny oraz ludzi m.in. poprzez wydatki na szkolenia, działania edukacyjne i budujące kulturę organizacji.\n+ – Pozytywny wpływ na kapitał naturalny poprzez finansowanie udzielone m.in. ze środków Ekologicznego Funduszu Poręczeń i Gwarancji oraz Funduszu Termomodernizacji i Remontów, pożyczek na zieloną transformację miast, jak również w formie kredytów na inwestycje wspierające środowisko lub klimat (np. OZE, obniżenie emisyjności, inwestycje wodno-kanalizacyjne i inne). jednocześnie wpływ negatywny, m.in. posprzez finansowanie udzielane sektorowi paliwowemu i węglowemu.\n+ Wpływ na kapitał społeczny m.in. poprzez finansowanie udzielane na cele społeczne (w tym finansowanie podmiotów ekonomii społecznej).\n+ Wpływ na kapitał infrastrukturalny m.in. poprzez finansowanie projektów infrastrukturalnych, rozbudowy architektury IT banku i remontu jego historycznej siedziby.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 24,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p24_b0",
+          "page": 24,
+          "element_type": "picture",
+          "text": "Logo firmy w lewym górnym rogu – brązowa ikoniczna grafika przypominająca geometryczne kształty.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p24_b1",
+          "page": 24,
+          "element_type": "subsection-header",
+          "text": "Kapitał ludzki",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p24_b2",
+          "page": 24,
+          "element_type": "subsection-header",
+          "text": "Zasoby",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p24_b3",
+          "page": 24,
+          "element_type": "text",
+          "text": "Kompetencje i doświadczenie pracowników oraz ich podejście do zarządzania organizacją i ryzykiem, wartości etyczne, lojdność i dziewianie do ulepszania procesów i usług.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p24_b4",
+          "page": 24,
+          "element_type": "list",
+          "text": "- 2 465 pracowników na koniec 2024 r.\n- 10 mln zł zainwestowanych w szkolenia - średnio 4 tys. zł na pracownika\n- 433 pracowników ukończyło program rozwoju kompetencji przyszłości w 2024 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p24_b5",
+          "page": 24,
+          "element_type": "subsection-header",
+          "text": "Zarządzanie kapitałem",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p24_b6",
+          "page": 24,
+          "element_type": "text",
+          "text": "Działamy na rzecz rozwoju kompetencji pracowników, dbając jednocześnie o ich dobrostan i efektywną współpracę. Budujemy kulturę organizacyjną BGK w oparciu o nasze wartości zgodnie z misją wspierania zrównoważonego rozwoju społeczno-gospodarczego. Programy stażowe i stypendiale wspierają rozwój kompetencji użytecznych dla przyszłości społeczeństwa.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p24_b7",
+          "page": 24,
+          "element_type": "text",
+          "text": "Dbamy o dobrostan psychiczny pracowników poprzez ofertę bezpłatnej anonimowej infolinii Employee Assistance Program oraz webinary o tematyce psychologicznej. Edukujemy również pracowników w kwestiach finansowych, zwracając uwagę na dostępność, neuroróżnorodność.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p24_b8",
+          "page": 24,
+          "element_type": "subsection-header",
+          "text": "Wyniki przetworzenia kapitału",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p24_b9",
+          "page": 24,
+          "element_type": "text",
+          "text": "Budujemy kapitał ludzki poprzez rozwój kompetencji i dzielenie się wiedzą, m.in. w ramach Letniej Akademii BGK. Potwierdzeniem skuteczności naszych działań są czołowe miejsca w rankingach pracodawców.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p24_b10",
+          "page": 24,
+          "element_type": "list",
+          "text": "- Nagrody: TOP Employer 2024, HR Najwyższej Jakości 2024 oraz Dream Employer Hub za Letnią Akademie BGK i program Kultura feedbacku\n- 10 lat to średni staż pracy w banku pracowników na stanowiskach menedżerskich\n- 33 awanse wewnętrzne w 2024 r. na stanowiska menedżerskie ze stanowisk eksperckich",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p24_b11",
+          "page": 24,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na interesariuszy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p24_b12",
+          "page": 24,
+          "element_type": "picture",
+          "text": "Trzy ikony reprezentujące: Społeczeństwo (ikona grupy osób), Partnerzy i klienci (ikona handshake), Pracownicy (ikona zespołu). Każda ikona połączona jest znakami plus (+).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p24_b13",
+          "page": 24,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na inne kapitały",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p24_b14",
+          "page": 24,
+          "element_type": "list",
+          "text": "+ – Wpływ na kapitał finansowy poprzez budowanie długoterminowej wartości banku, a także pokrywanie kosztów wynagrodzeń i świadczeń pracowniczych.\n+ Wpływ na kapitał intelektualny poprzez szkolenia dla naszych pracowników oraz rozwój kompetencji, a także dzielenie się wiedzą i doświadczeniem w ramach udziału w konferencjach i członkowstwa w organizacjach.\n+ Wpływ na kapitał naturalny poprzez wewnętrzne kampanie zwiększające świadomość pracowników na temat ochrony środowiska i zrównoważonego rozwoju.\n+ Wpływ na kapitał społeczny i relacyjny poprzez programy wolontariackie (\"Wolontariat jest super!\").",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 25,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p25_b0",
+          "page": 25,
+          "element_type": "picture",
+          "text": "Logo głowy człowieka z symbolem mózgu w lewym górnym rogu, w kolorze brązowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p25_b1",
+          "page": 25,
+          "element_type": "subsection-header",
+          "text": "Kapitał intelektualny",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p25_b2",
+          "page": 25,
+          "element_type": "subsection-header",
+          "text": "Zasoby",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p25_b3",
+          "page": 25,
+          "element_type": "text",
+          "text": "Nasza własność intelektualna, licencje, zarządzanie bezpieczeństwem danych oraz kapitał organizacyjny, taki jak wiedza ukryta, systemy, procedury i protokoły.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p25_b4",
+          "page": 25,
+          "element_type": "list",
+          "text": "- Unikalna wiedza pracowników BGK\n- Transformacja procesowa i cyfrowa jako wewnętrzny filar strategii BGK\n- Dzielenie się wiedzą: Letnia Akademia BGK, Bankowe Horyzonty, program rozwojowy Bank Staży, kursy online dla przedsiębiorców realizowane we współpracy z PARP, #CyberAkademiaBGK, Program Ambasadorski Zrównoważony Rozwój, cykl webinacyjnych spotkań Rozvojowe Pytki",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p25_b5",
+          "page": 25,
+          "element_type": "subsection-header",
+          "text": "Zarządzanie kapitałem",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p25_b6",
+          "page": 25,
+          "element_type": "text",
+          "text": "Tworzymy produkty i usługi z uwzględnieniem potrzeb społecznych. Wykorzystujemy unikalne kompetencje i wiedzę do realizacji misji banku rozwoju, dystrybucji środków europejskich i zarządzania funduszami celowymi. Rozwijamy kapitał intelektualny inwestując w technologie, aby sprawnie dostarczać produkty i usługi.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p25_b7",
+          "page": 25,
+          "element_type": "subsection-header",
+          "text": "Wynik przetworzenia kapitału",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p25_b8",
+          "page": 25,
+          "element_type": "text",
+          "text": "Rozwijamy ofertę, aby zaspokojaić bieżące potrzeby społeczne i gospodarcze kraju. Badamy doświadczenia i satysfakcje klientów. Dbamy o cyberbezpieczeństwo i promujemy zasady bezpieczeństwa w sieci. Wspieramy innowacyjność, łącząc kompetencje i potrzeby świata nauki, biznesu i administracji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p25_b9",
+          "page": 25,
+          "element_type": "list",
+          "text": "- 130 zrealizowanych projektów wewnętrznych objętych scoringiem ESG\n- 400 uczestników Konferencji dla J3Y, 104 uczestników Letniej Akademii BGK, 90 uczestników programu Bankowe Horyzonty, 2 000 zarejestrowanych uczestników kursu „Zrównoważony rozwój w MŚP\" we współpracy z PARP\n- 1 206 studentów medycyny wspartych w 2024 r. poprzez Fundusz Kredytowania Studiów Medycznych\n- 7 webinarów z obszaru kompetencji cyfrowych dla menedżerów, w których wieliy udział łącznie 2 583 osoby\n- Nagroda Dream Employer Hub za Program Ambasadorski",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p25_b10",
+          "page": 25,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na interesariuszy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p25_b11",
+          "page": 25,
+          "element_type": "picture",
+          "text": "Infografika pokazująca trzy ikony z plusami: Społeczeństwo, Partnerzy i klienci, Pracownicy - każda ikona reprezentuje grupę interesariuszy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p25_b12",
+          "page": 25,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na inne kapitały",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p25_b13",
+          "page": 25,
+          "element_type": "list",
+          "text": "- Wpływ na kapitał społeczny i relacyjny poprzez tworzenie nowych produktów i usług dostosowanych do potrzeb naszych interesariuszy i partnerów biznesowych oraz rozwiązania będące reakcją na potrzeby społeczne.\n- Wpływ na kapitał ludzi poprzez zwiększenie kompetencji i umiejętności pracowników oraz innych interesariuszy.\n- Wpływ na kapitał naturalny poprzez tworzenie rozwiązań oddziałujących pozytywnie na środowisko naturalne.\n- Wpływ na kapitał finansowy poprzez wydatki na systemy i oprogramowanie IT oraz koszty związane z transformacją cyfrową i procesową.\n- Wpływ na kapitał instytucjonalny poprzez wykorzystywanie unikalnych kompetencji oraz wiedzy do realizacji specjalnej misji banku rozwoju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 26,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p26_b0",
+          "page": 26,
+          "element_type": "picture",
+          "text": "Logo firmy w lewym górnym rogu - złota ikona krzyża w kwadracie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p26_b1",
+          "page": 26,
+          "element_type": "subsection-header",
+          "text": "Kapitał społeczny i relacyjny",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p26_b2",
+          "page": 26,
+          "element_type": "subsection-header",
+          "text": "Zasoby",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p26_b3",
+          "page": 26,
+          "element_type": "text",
+          "text": "Wspólne normy, wartości i zachowania, relacje z kluczowymi interesariuszami oraz zaufanie i chęć angażowania się. Wartości niematerialne związane z marką i reputacją wypracowane przez organizacje.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p26_b4",
+          "page": 26,
+          "element_type": "list",
+          "text": "- 10.2 tys. partnerów BGK\n- 88,5 tys. przedsiębiorców, którzy skorzystali z portfelowych linii gwarancyjnych BGK\n- 723 pracowników zaangażowanych w wolontariat",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p26_b5",
+          "page": 26,
+          "element_type": "subsection-header",
+          "text": "Zarządzanie kapitałem",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p26_b6",
+          "page": 26,
+          "element_type": "text",
+          "text": "Inwestujemy w kapitał społeczny, który przyczynia się do wzrostu gospodarczego. Finansujemy projekty społeczne m.in. działalność podmiotów ekonomii społecznej oraz inwestycje redukujące bariery architektoniczne w budynkach i przestrzeniach publicznych. Aktywizujemy społeczność lokalnie, edukujemy dzieci i młodzież, odnawiamy zabytkl. Dbamy o utrzymywanie relacji z naszymi interesariuszami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p26_b7",
+          "page": 26,
+          "element_type": "subsection-header",
+          "text": "Wynik przetworzenia kapitału",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p26_b8",
+          "page": 26,
+          "element_type": "text",
+          "text": "Mamy bezpośredni wpływ na naszych interesariuszy, ale także pośredni na całe otoczenie, m.in lokalne społeczności, potencjalnych pracowników oraz wsparciowych organizacji społecznych, z którymi współpracujemy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p26_b9",
+          "page": 26,
+          "element_type": "list",
+          "text": "- 184 finansowań udzielonych podmiotom medycznym, głównie szpitalom\n- 287 jednostek samorządu terytorialnego uzyskało z banku finansowanie w ramach działalności własnej banku\n- W ramach współpracy z ukraińskimi instytucjami 15 młodych osób z Ukrainy odbyło staż w BGK i ukończyło studio na polskich uczelniach. 3 osoby nadal współpracują z naszym bankiem",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p26_b10",
+          "page": 26,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na interesariuszy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p26_b11",
+          "page": 26,
+          "element_type": "picture",
+          "text": "Trzy ikony reprezentujące wpływ przetworzenia kapitału: ikona społeczeństwa (grupa ludzi), ikona partnerów i klientów (dwie osoby), ikona pracowników (grupa trzech osób). Każda ikona ma symbole plusa wskazujące na pozytywny wpływ.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p26_b12",
+          "page": 26,
+          "element_type": "text",
+          "text": "Społeczeństwo",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p26_b13",
+          "page": 26,
+          "element_type": "text",
+          "text": "Partnerzy i klienci",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p26_b14",
+          "page": 26,
+          "element_type": "text",
+          "text": "Pracownicy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p26_b15",
+          "page": 26,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na inne kapitały",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p26_b16",
+          "page": 26,
+          "element_type": "list",
+          "text": "- Wpływ na kapitał finansowy poprzez udzielone finansowania i przyjmowane depozyty, a także ponoszone wydatki związane z utrzymaniem relacji z interesariuszami.\n- Wpływ na kapitał intelektualny poprzez zwiększanie spójności społecznej, szerzenie wiedzy i wymiany doświadczeń, a także udzielone finansowania (np. kredyty na studia medyczne).\n- Wpływ na kapitał naturalny poprzez działania zwiększające świadomość ekologiczną, np. projekty realizowane przez wolontariuszy BGK.\n- Wpływ na kapitał ludzki m.in. poprzez zwiększanie zaangażowania pracowników oraz poprzez finansowanie realizujące cele społeczne.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 27,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p27_b0",
+          "page": 27,
+          "element_type": "picture",
+          "text": "Logo w lewym górnym rogu - okrągły symbol z ornamentacyjnym wzorem w kolorze złota.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p27_b1",
+          "page": 27,
+          "element_type": "subsection-header",
+          "text": "Kapitał infrastrukturalny",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p27_b2",
+          "page": 27,
+          "element_type": "subsection-header",
+          "text": "Zasoby",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p27_b3",
+          "page": 27,
+          "element_type": "text",
+          "text": "Fizyczne obiekty wykorzystywane przez organizacje przy projektowaniu i dostarczaniu produktów i usług (biura, oddziały, placówki), które również infrastrukturę technologiczną i systemy IT banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p27_b4",
+          "page": 27,
+          "element_type": "list",
+          "text": "- Biura w 16 regionach, remontowana historyczna siedziba banku i tymczasowa siedziba z certyfikatem BREEAM Interim\n- Modernizacja i rozwój systemów IT w ramach transformacji cyfrowej\n- Robotyzacja procesów\n- Funkcja agenta rozliczeniowego dla płatności realizowanych w sektorze finansów publicznych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p27_b5",
+          "page": 27,
+          "element_type": "subsection-header",
+          "text": "Zarządzanie kapitałem",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p27_b6",
+          "page": 27,
+          "element_type": "text",
+          "text": "Pracujemy nad digitalizacją procesów w ramach transformacji cyfrowej. Zwiększamy efektywność operacyjną i biznesową dzięki wykorzystaniu robotyzacji. Modernizujemy miejsce pracy i optymalizujemy wykorzystanie powierzchni biurowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p27_b7",
+          "page": 27,
+          "element_type": "subsection-header",
+          "text": "Wynik przetworzenia kapitału",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p27_b8",
+          "page": 27,
+          "element_type": "text",
+          "text": "Dzięki rozwijanym procesom i infrastrukturze technologicznej odpowiadamy na wyzwania i reagujemy na specificzne potrzeby interesariuszy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p27_b9",
+          "page": 27,
+          "element_type": "list",
+          "text": "- Wdrożenie 18 robotów w 2024 r. (w sumie 38 robotów wdrożonych w banku od 2022 r.)\n- Redukcja udziału technologicznego o 11 p.p. oraz o 12,8% więcej zrealizowanych projektów i zmian systemowych r/r\n- Dostępność systemów bankowych na poziomie 99.89%",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p27_b10",
+          "page": 27,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na interesariuszy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p27_b11",
+          "page": 27,
+          "element_type": "picture",
+          "text": "Trzy ikony reprezentujące: Społeczeństwo (ikona grupy ludzi), Partnerzy i klienci (ikona handshake), Pracownicy (ikona trzech osób). Między ikonami znajdują się znaki plus.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p27_b12",
+          "page": 27,
+          "element_type": "text",
+          "text": "Społeczeństwo",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p27_b13",
+          "page": 27,
+          "element_type": "text",
+          "text": "Partnerzy i klienci",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p27_b14",
+          "page": 27,
+          "element_type": "text",
+          "text": "Pracownicy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p27_b15",
+          "page": 27,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na inne kapitały",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p27_b16",
+          "page": 27,
+          "element_type": "list",
+          "text": "+ Wpływ na kapitał ludzki poprzez transformacje cyfrową i digitalizacje procesów.\n+ Wpływ na kapitał intelektualny poprzez usprawnianie procesów i ich robotyzacje.\n+ Wpływ na kapitał społeczny m.in. poprzez obecność w każdym miejscu wojewódzkim. Dzięki temu możemy wykorzystać wiedzę o lokalnych społecznościach oraz wyzwaniach i elastycznie reagować na potrzeby\n+ Wpływ na kapitał naturalny poprzez proekologiczne rozwiązania stosowane przez zarządzę naszej tymczasowej siedziby.\n- Wpływ na kapitał finansowy poprzez wydatki związane z rozwojem infrastruktury.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 28,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "II Tworzenie wartości",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p28_b0",
+          "page": 28,
+          "element_type": "picture",
+          "text": "Logo w lewym górnym rogu - złota okrągła ikona z symbolem kapitału naturalnego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p28_b1",
+          "page": 28,
+          "element_type": "subsection-header",
+          "text": "Kapitał naturalny",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p28_b2",
+          "page": 28,
+          "element_type": "subsection-header",
+          "text": "Zasoby",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p28_b3",
+          "page": 28,
+          "element_type": "text",
+          "text": "Wszystkie odnawialne i nieodnawialne zasoby naturalne, z których bank korzysta lub na które ma wpływ (woda, powietrze, energia słoneczna, wiatr, minerały, różnorodność biologiczna i zdrowe ekosystemy itp.).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p28_b4",
+          "page": 28,
+          "element_type": "list",
+          "text": "- Instrumenty finansowe odpowiednie dla inwestycji mających bezpośredni lub pośredni pozytywny wpływ na stan środowiska lub ograniczanie zmian klimatu",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p28_b5",
+          "page": 28,
+          "element_type": "subsection-header",
+          "text": "Zarządzanie kapitałem",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p28_b6",
+          "page": 28,
+          "element_type": "text",
+          "text": "Bank w swojej działalności nie wykorzystuje w istotnym stopniu kapitału naturalnego, ale istotnie na niego wpływa. Zarządzamy nim głównie poprzez finansowanie projektów z wpływem środowiskowym (np. premia termomodernizacyjna i remontowa, finansowanie OZE, wsparcie na budowę nowych budynków mieszkalnych o podwyższonej efektywności energetycznej). Dodatkowo w ramach naszej organizacji monitorujemy i dążymy do ograniczania zużycia zasobów - wody, energii, paliwu, materiałów biurowych.\n\nZwiększamy świadomość ekologiczną pracowników angażując ich w wolontariat mający na celu ochronę przyrody, Program Ambasadorski Zrównoważony Rozwój oraz szkolenia wewnętrzne o tematyce związanej z ESG.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p28_b7",
+          "page": 28,
+          "element_type": "subsection-header",
+          "text": "Wynik przetworzenia kapitału",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p28_b8",
+          "page": 28,
+          "element_type": "text",
+          "text": "Zarówno pozytywnie, jak i negatywnie wpływamy na środowisko naturalne. m.in. poprzez finansowanie wspierające zrównoważone inwestycje oraz finansowania udzielone w ramach programu bezpieczeństwa energetycznego. Którego jednym z celów jest zapewnienie stabilności dostaw energii w Polsce.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p28_b9",
+          "page": 28,
+          "element_type": "list",
+          "text": "- 292 mln zł przyznanych premii i 154,2 mln zł grantów z Funduszu Termomodernizacji i Remontów\n- 13 672 400.9 t CO₂e to nasz roczny ślad węglowy (zakres 1 i 2 location-based i niepełny 3)\n- 2 041 MW to łączna moc obecnych i przyszłych instalacji OZE na lądzie i morzu współfinansowanych przez BGK w 2024 r.\n- prawie 1,7 mln nowych nasadzeń powstanie w ramach inwestycji realizowanych przy udziale pożyczek wspierających zieloną transformację miast",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p28_b10",
+          "page": 28,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na interesariuszy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p28_b11",
+          "page": 28,
+          "element_type": "picture",
+          "text": "Trzy ikony pokazujące obszary wpływu kapitału naturalnego: Społeczeństwo (ikona osób z plusami i minusami), Partnerzy i klienci (ikona ludzi ze znakami +), Pracownicy (ikona grupy ludzi ze znakami +).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p28_b12",
+          "page": 28,
+          "element_type": "subsection-header",
+          "text": "Wpływ przetworzenia kapitału na inne kapitały",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p28_b13",
+          "page": 28,
+          "element_type": "list",
+          "text": "+ Wpływ na kapitał ludzi poprzez działania w ramach wolontariatu (m.in. sadzenie drzew, sprzątanie lasu).\n+ − Wpływ na kapitał społeczny poprzez m.in. zapewnianie ciepła i elektryczności w domach, ale również emisję CO₂.\n+ Wpływ na kapitał infrastrukturalny poprzez finansowanie transformacji infrastruktury energetycznej.\n+ − Wpływ na kapitał finansowy poprzez udzielone finansowania, ale również koszty edukacyjne i zmian procesowych w BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    }
+  ]
+}

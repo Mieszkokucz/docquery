@@ -1,0 +1,884 @@
+{
+  "chapter_id": "IV",
+  "title": "IV Otoczenie",
+  "page_start": 47,
+  "page_end": 52,
+  "pages": [
+    {
+      "page_num": 47,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IV Otoczenie",
+      "sections": [],
+      "blocks": []
+    },
+    {
+      "page_num": 48,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IV Otoczenie",
+      "sections": [
+        "Otoczenie społeczno-gospodarcze"
+      ],
+      "blocks": [
+        {
+          "block_id": "p48_b0",
+          "page": 48,
+          "element_type": "section-header",
+          "text": "1. Otoczenie społeczno-gospodarcze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p48_b1",
+          "page": 48,
+          "element_type": "text",
+          "text": "W 2024 roku wydarzenia gospodarcze i geopolityczne miały ponownie istotny wpływ na sytuację społeczną w Polsce. Gospodarstwa domowe w dalszym ciągu odczuwały utrzymującą się podwyższoną inflację. choć jej dynamika była znacznie niższa niż w roku poprzednim. Jednocześnie presja cenowa dotycząca ceny przedmiotu pracy systemu usług, w przeciwieństwie do roku 2023, gdy deflatywne wzrosty cen obejmowały w podobnym zakresie wszystkie podstawowe kategorie koszyka CPI.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p48_b2",
+          "page": 48,
+          "element_type": "text",
+          "text": "W 2024 roku w Polsce nadal przebywało około miliona wojenny uchodźców z Ukrainy. Od czasu rosyjskiej agresji, do końca 2024 r. granice naszego kraju przekroczyło ok. 25 mln Ukraińców - około 1,6 mln z nich otrzymyło w Polsce numery PESEL uprawniające do pracy oraz świadczeń społecznych. Pomimo znaczącego napływu uchodźców z Ukrainy i związanych z tym liczbnych wyzwań, sytuacja społeczna w Polsce pozostaje stabilna dzięki chłonności rynku pracy oraz programom osłonowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p48_b3",
+          "page": 48,
+          "element_type": "subsection-header",
+          "text": "Za granicą",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p48_b4",
+          "page": 48,
+          "element_type": "subsection-header",
+          "text": "Utrzymanie tempa wzrostu PKB z 2023 roku",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p48_b5",
+          "page": 48,
+          "element_type": "text",
+          "text": "Według stycżniowych szacunków Międzynarodowego Funduszu Walutowego (MFW) dynamika światowego PKB w 2024 r. wyniosła 3.2% i była marginalnie niższa niż rok wcześniej (3.3%). Przy obliczonej wcześniej gospodarczej globalne tempo wzrostu cen obejmuje się na poziomie 5.7% w 2024 r. wobec 6.7% w 2023 r. Przyczyniła się do tego m.in. działającej deflacji w przypadku ropa naftowej i żywności. W następstwie zmniejszonej dynamiki łącznego wskażnika inflacji większość wiadomych banków centralnych - w tym Rezerwa Federalna oraz EBC - dokonała redukcji stóp procentowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p48_b6",
+          "page": 48,
+          "element_type": "subsection-header",
+          "text": "W kraju",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p48_b7",
+          "page": 48,
+          "element_type": "subsection-header",
+          "text": "W kierunku wyższej aktywności gospodarczej",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p48_b8",
+          "page": 48,
+          "element_type": "text",
+          "text": "W 2024 r. krajowa gospodarka wkroczyła w okres wzrostu zbliżonego do potencjału po okresie pandemicznej oraz uchodźczej zmienności w poprzednich latach. Roczna dynamika PKB była dodatnia we wszystkich kwartałach, a w całym 2024 r. wyniosła 2,9%. Negatywnie do wzrostu kontrybuował eksport netto. W przewinym kierunku działało spożycie prywatne oraz publiczne.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p48_b9",
+          "page": 48,
+          "element_type": "caption",
+          "text": "Tabela 18. Dynamika realna produktu krajowego brutto niewyrównanego sezonowo (ceny średnioroczne roku poprzedniego) przy podstawie analogicznego okresu roku poprzedniego = 100",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p48_b10",
+          "page": 48,
+          "element_type": "table",
+          "text": "Dynamika realna produktu krajowego brutto niewyrównanego sezonowo w 2024 roku.\n\n| | I-IV kw. | I kw. | II kw. | III kw. | IV kw. |\n|---|---|---|---|---|---|\n| Produkt krajowy brutto | 102.9 | 102.1 | 103.2 | 102.7 | 103.2 |\n| Popyt krajowy | 104.1 | 102.3 | 104.8 | 104.4 | 104.8 |\n| Spożycie ogółem | 104.0 | 105.4 | 106.2 | 101.3 | 103.3 |\n| w sektorze gospodarstw domowych | 103.1 | 104.4 | 104.6 | 100.3 | 103.5 |\n| Akumulacja brutto | 104.6 | 84.7 | 98.2 | 120.0 | 109.2 |\n| Nakłady brutto na środki trwałe | 101.5 | 101.9 | 103.2 | 100.1 | 101.3 |\n| Eksport | 101.2 | 102.1 | 102.9 | 99.3 | 100.5 |\n| Import | 103.3 | 102.3 | 105.7 | 101.9 | 103.3 |\n| Wartość dodana brutto | 102.1 | 101.8 | 102.2 | 102.3 | 102.1 |\n| Przemysł | 101.0 | 100.2 | 100.8 | 101.3 | 101.6 |\n| Budownictwo | 93.3 | 89.1 | 93.8 | 97.0 | 92.3 |\n| Handel i naprawa pojazdów samochodowych | 102.3 | 104.4 | 104.1 | 98.8 | 102.5 |\n| Transport i gospodarka magazynowa | 104.3 | 101.6 | 103.5 | 105.8 | 105.8 |\n| Zakwaterowanie i gastronomia | 103.5 | 102.6 | 103.3 | 103.7 | 103.6 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 49,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IV Otoczenie",
+      "sections": [
+        "Nasi interesariusze"
+      ],
+      "blocks": [
+        {
+          "block_id": "p49_b0",
+          "page": 49,
+          "element_type": "section-header",
+          "text": "Rynek pracy pozostaje stabilny",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p49_b1",
+          "page": 49,
+          "element_type": "text",
+          "text": "Powrót do około 3-procentowego wzrostu gospodarczego w niewielkim stopniu przyczynił się do zmian na rynku pracy. W grudniu 2024 r. dynamika zatrudnienia w sektorze przedsiębiorstw ukształtowała się nie poniżomie -0,6% wobec -0,1% w analogicznym okresie roku poprzedniego. Towarzyszyło temu utrzymanie się stopy bezrobocia na niezniennym poziomie w porównaniu do końca 2023 r. (5,1%). Jednocześnie nominalny wzrost przeciętnych wynagrodzeń w sektorze przedsiębiorstw spowolnił w ujęciu średniorocznym z 11,9% w 2023 r. do 11,0% w 2024 r. Niemniej w ujęciu realnym wynagrodzenia kontynuowały silny wzrost od II poł. 2023 r. Wynikało to z ustępowania presji inflacyjnej (roczna dynamika CPI obniżyła się z 6,2% w grudniu 2023 r. do 4,7% w analogicznym miesiącu 2024 r) owo po części regulacyjnego charakteru podwyzek płac w związku z istotnym podniesieniem pensji minimalnej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p49_b2",
+          "page": 49,
+          "element_type": "text",
+          "text": "Jednocześnie konsekwencje kryzysu wywołanego COVID-19 oraz rosyjskiej inwazji na Ukrainę, o takze późniejszych wzrostów wydatków na cele obronne spowodowały wzrost długu sektora finansów publicznych w relacji do PKB z 45,2% w 2019 r. do 48,8% w 2023 r. Po trzech kwartałach 2024 r. długo wyniósl 52.3%.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p49_b3",
+          "page": 49,
+          "element_type": "subsection-header",
+          "text": "Stabilne stopy przez cały 2024 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p49_b4",
+          "page": 49,
+          "element_type": "text",
+          "text": "W całym 2023 roku Rada Polityki Pieniężnej (RPP) obniżyła stopę referencyjną NBP o 100 pb. do poziomu 5,75%. Nie został on zmieniony w całym 2024 roku, pomimo zagrożenia polityką monetarnymi przez regionalnych odpowiednników RPP i banków centralnych rynków bazowych. Za utrzymaniem dotychczasowego poziomu stóp procentowych przemawiały wciąż wysokie prognozy inflacji (powyżej celu RPP), wysoka dynamika wynagrodzeń, długy stan koniunktury oraz deficyt fiskalny.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p49_b5",
+          "page": 49,
+          "element_type": "subsection-header",
+          "text": "Podwyższona zmienność na rynku długu",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p49_b6",
+          "page": 49,
+          "element_type": "text",
+          "text": "Rok 2024 przyniósł osłabienie krajowych papierów skarbowych. Na rynkach bazowych obserwowano również rosnące rośnące dochodowości. W Stanach Zjednoczonych wahania na UST były spowodowane głównie przez zmianę oczekiwań polityki Fed. W pewnym momencie doładując się do tego oprawy dotyczące rosnącego rentowność 10-letnich obligacji USA. Rentowność 10-letnich obligacji USA, zakończyła rok na poziomie ok. 4,5% po wzroście z ok 3,8% (70 pb). Roczna zmiana rentowności",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p49_b7",
+          "page": 49,
+          "element_type": "text",
+          "text": "Bunda była płytsza niż w przypadku Treasuries do czego przyczyniały się m.in. względnie stabilne spadki dynamiki HICP oraz przytłumiona koniunktura. Impulsy kreuujące wycene POLGBs były bardziej zbliżone do tych obserwowanych za Oceanem niż za zachodnią granicą. Ostatecznie dochowości 10-letniego benchmarku przesuneęło się w górę o ok. 70 pb. do 5,9%.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p49_b8",
+          "page": 49,
+          "element_type": "section-header",
+          "text": "2. Nasi interesariusze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p49_b9",
+          "page": 49,
+          "element_type": "subsection-header",
+          "text": "GRI 2-29",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p49_b10",
+          "page": 49,
+          "element_type": "text",
+          "text": "W BGK chcemy słyszeć naszych interesariuszy i być przez nich słyszanymi. Mapa naszych interesariuszy została zaktualizowana podczas procesu zrealizowanego w 2024 r. W jego ramach przeprowadziliśmy identyfikację oraz ocenę wpływu i zaangażowania interesariuszy w szerkim gronie pracowników. Wyniki tego ćwiczenia potwierdzone zostały podczas warsztatów z wyższą kadrą zarządającą. Zidentyfikowaliśmy 77 grup interesariuszy, z czego 24 grupy to kluczowi interesariusze (o największym wpływie na bank i zainteresowaniu jego działaniami).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p49_b11",
+          "page": 49,
+          "element_type": "text",
+          "text": "Angażujemy naszych kluczowych interesariuszy w działania banku i prowadzimy z nimi stały, regularny dialog. Wybieramy kanały komunikacji, które spełniają potrzeby i oczekiwania każdej z najważniejszych grup interesariuszy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p49_b12",
+          "page": 49,
+          "element_type": "other",
+          "text": "Fotografia przedstawiająca portret mężczyzny w okularach i garniturze z krawatem na jasnym tle. Obok zdjęcia znajduje się tekst z imieniem i stanowiskiem osoby.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p49_b13",
+          "page": 49,
+          "element_type": "text",
+          "text": "W 2024 r. udzieliliśmy blisko 24 mld zł finansowania dla sektora elektroenergetycznego, mobilizując tym samym ponad 60 mld zł kapitału rynkowego. Rozpoczęliśmy fazę megainwestycji energetycznych, w tym niezbędnych dla OZE. Te przedsięwzięcia są kluczowe dla utrzymania dynamicznego wzrostu gospodarki i konkurencyjności polskich przedsiębiorstw dzięki dostępne i tanszej energii. Licze, ze przy tych inwestycjach urosną lokalmi dostawy, szczególnie innowacyjne firmy rozwijające polską myśl techniczną.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p49_b14",
+          "page": 49,
+          "element_type": "text",
+          "text": "Leszek Stypułkowski, Członek Zarządu BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 50,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IV Otoczenie",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p50_b0",
+          "page": 50,
+          "element_type": "table",
+          "text": "Tabela kategorii interesariuszy, grup kluczowych oraz kanałów komunikacji.\n\n| kategoria interesariuszy | grupa kluczowych interesariuszy | kanał komunikacji/sposób zarządzania |\n|---|---|---|\n| Otoczenie wewnętrzne | • pracownicy BGK<br>• Rada Nadzorcza<br>• Zarząd | • cykliczne badania opinii pracowników<br>• grupy fokusowe<br>• sondy<br>• spotkania zespołowe<br>• spotkania kaskadowe z kadrą menedżerską<br>• e-mailowe skrzynki tematyczne |\n| Otoczenie regulacyjne | • ministerstwa<br>• władze ustawodawcze<br>• nadzór rynku bankowego<br>• instytucje UE<br>• kluczowe centralne agencje tematyczne | • opiniowanie planowanych zmian regulacyjnych<br>• spotkania robocze na różnych szczeblach<br>• kontakty telefoniczne i mailowe<br>• spotkania osobiste i online<br>• raporty okresowe i bieżące na stronie internetowej |\n| Otoczenie rynkowe | • dostawcy usług IT i danych<br>• audytorzy/ agencje ratingowe<br>• banki komercyjne<br>• JST<br>• spółki komunalne<br>• spółdzielnie wspólnoty, TBS<br>• korporacje<br>• MŚP<br>• instytucje publiczne<br>• inwestorzy<br>• banki korespondenci<br>• zagranicze banki rozwoju<br>• Grupa PFR<br>• globalne i regionalne instytucje finansowe i rozwoju<br>• organizacje branzowe bankowe<br>• banki dilerzy/ agenci emisji | • kontakty telefoniczne i mailowe<br>• spotkania osobiste i online<br>• raporty okresowe i bieżące na stronie internetowej<br>• badania ankietowe<br>• NPS (Net Promoter Score)<br>• konferencje<br>• klienci komunikacji z klientami opisane w rozdziale IV.3. Doświadczenia klientów<br>• partnerstwa<br>• konferencje<br>• webinary |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 51,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IV Otoczenie",
+      "sections": [
+        "Doświadczenia klientów"
+      ],
+      "blocks": [
+        {
+          "block_id": "p51_b0",
+          "page": 51,
+          "element_type": "section-header",
+          "text": "3. Doświadczenia klientów",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p51_b1",
+          "page": 51,
+          "element_type": "text",
+          "text": "GRI 2-26",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b2",
+          "page": 51,
+          "element_type": "text",
+          "text": "Dbamy o partnerskie relacje z klientami. Regularnie analizujemy doświadczenia ze współpracy z nami, by doskonalić jakość naszych usług i jak najlepiej odpowiadać na potrzeby i oczekiwania klientów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b3",
+          "page": 51,
+          "element_type": "subsection-header",
+          "text": "Badamy satysfakcję i doświadczenia",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p51_b4",
+          "page": 51,
+          "element_type": "text",
+          "text": "Wsłuchujemy się w głos naszych klientów. Mierzymy wskaźnik rekomendacji NPS obsługi na infinitii, procesu obsługi reklamacji oraz współpracy z bankiem. Dzięki temu identyfikujemy największe czynniki satysfakcji klientów i obszary do doskonalenia. Analizujemy też rozmowy telefoniczne, treść zgłoszeń reklamacyjnych oraz korespondencję e-mailową.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b5",
+          "page": 51,
+          "element_type": "picture",
+          "text": "Nocna fotografia pięciokondygnacyjnego budynku bankowego z oświetlonymi napisami na fasadzie, widok z ulicy miejskiej z lampami ulicznymi i rozmazanymi światłami samochodów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b6",
+          "page": 51,
+          "element_type": "text",
+          "text": "Realizujemy badania jakościowe, ilościowe oraz opracowujemy mapy podróży klientów w różnych punktach styku z bankiem. W 2024 r. przeprowadziliśmy diagnozy doświadczeń banków komercyjnych i partnerów finansujących - instytucji, które współpracują z BGK przy dystrybucji produktów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b7",
+          "page": 51,
+          "element_type": "subsection-header",
+          "text": "Zarządzamy doświadczeniami",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p51_b8",
+          "page": 51,
+          "element_type": "text",
+          "text": "Wnioski i rekomendacje z badań wykorzystujemy do rozwijania i doskonalenia naszych procesów, usług i produktów. Zmiany dla klientów wprowadzamy w pilotach uprawnień.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b9",
+          "page": 51,
+          "element_type": "text",
+          "text": "W Departamencie Zarządzania Doświadczeniami Klienta regularnie organizujemy spotkania Komitetu CX. Analizujemy zagromadzony głos klientów z różnych źródeł i najważniejsze zgrzyty, które wpływają na ich satysfakcję. Przygotowujemy rekomendacje zmian, przekazujemy je do właściwych jednostek banku i planujemy inicjatywy profilaktycznie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b10",
+          "page": 51,
+          "element_type": "text",
+          "text": "W 2024 roku uruchomiliśmy Forum Klienta. Są to spotkania, podczas których analizujemy z właścicielami biznesowymi główne punkty niezadowolenia naszych klientów, przygotowujemy rekomendacje oraz sposób i harmonogram wprowadzania zmian.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b11",
+          "page": 51,
+          "element_type": "subsection-header",
+          "text": "Budujemy kulturę klientocentryczną",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p51_b12",
+          "page": 51,
+          "element_type": "text",
+          "text": "Chcemy, aby pracownicy byli świadomi swojego wpływu na doświadczenia klientów i nieustannie rozwijamy kulturę organizacyjną, w której klienci są w centrum uwagi. Doceniamy klientocentryczne postawy pracowników. Jeśli klienci pozytywnie wyrażają się o współpracy z daną osobą, przekazujemy jej informacje na ten temat.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b13",
+          "page": 51,
+          "element_type": "text",
+          "text": "Prowadzimy też cykl warsztatów edukacyjnych z pracownikami. Wiedzę o głosie klienta udostępniamy w intranetowej witrynie CX.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b14",
+          "page": 51,
+          "element_type": "subsection-header",
+          "text": "Zarządzamy relacjami",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p51_b15",
+          "page": 51,
+          "element_type": "text",
+          "text": "Rozwijamy nasz system CRM (Customer Relationship Management). W 2024 roku niemi dwukrotnie zwiększyliśmy liczbę pracowników korzystających z tego narzędzia. Zoptymalizowaliśmy 9 procesów - podniesliśmy ich efektywność i skróciłyśmy czas oczekiwania klienta. Wprowadziliśmy też wiele innych zmian, które usprawniają działanie CRM i podnoszą satysfakcję klientów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p51_b16",
+          "page": 51,
+          "element_type": "text",
+          "text": "W CRM zarządzamy relacjami nie tylko z klientami i potencjalnymi klientami, lecz także m.in. z organizacjami, do których należy BGK, instytucjami unijnymi, partnerami zagranicznym czy administracją państwową. Te relacje są równie ważnym elementem naszej działalności.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 52,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IV Otoczenie",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p52_b0",
+          "page": 52,
+          "element_type": "subsection-header",
+          "text": "Odpowiadamy na reklamacje",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p52_b1",
+          "page": 52,
+          "element_type": "text",
+          "text": "Głos naszych klientów analizujemy także na podstawie skarg i reklamacji. Ponad 80% respondentów uważa, że nasze odpowiedzi na reklamacje są jasne i czytelne. Przesyły są zgodnie z zasadami prostego języka.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b2",
+          "page": 52,
+          "element_type": "text",
+          "text": "Cały czas pracujemy bez nad skróceniem czasu potrzebnego do udzielenia odpowiedzi. Przygotowaliśmy m.in. szablony dla powtarzalnych zgłoszeń. Rejestracja reklamacji odbywa się w aplikacji, w której gromadzimy całą dokumentację.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b3",
+          "page": 52,
+          "element_type": "text",
+          "text": "Łącznie w 2024 r. do banku wpłynęły 333 skargi i reklamacje, z czego 35% uznaliśmy za zasadne. Wskaźnik zadowolenia z decyzji reklamacyjnych wyniósl zas 5%.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b4",
+          "page": 52,
+          "element_type": "text",
+          "text": "Przyznajemy reklamacje i skargi klientów banku, a także klientów naszych pośredników kasowych, finansowych i partnerów finansujących. 50% reklamacji innych niż reklamacje usług płatniczych obsługujemy do 15 dni kalendarzowych, czyli dwa razy krócej niż wymaga ustawa.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b5",
+          "page": 52,
+          "element_type": "text",
+          "text": "W przypadku reklamacji usług płatniczych średni czas na udzielenie odpowiedzi wynosi 7 dni roboczych. Na 47% takich zgłoszeń odpowiadamy nie dłużej niż w 5 dni.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b6",
+          "page": 52,
+          "element_type": "text",
+          "text": "Umożliwiamy klientom złożenie reklamacji lub skargi w dogodnej dla nich formie:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b7",
+          "page": 52,
+          "element_type": "list",
+          "text": "- osobiście.\n- pisemnie.\n- telefonicznie.\n- elektronicznie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b8",
+          "page": 52,
+          "element_type": "text",
+          "text": "W 2024 roku klienci najczęściej (62%) wybrali kanały elektroniczne - e-mail, bankowość internetowa, formularz reklamacyjny lub kontaktowy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b9",
+          "page": 52,
+          "element_type": "picture",
+          "text": "Nowoczesne wnętrze banku z sufitem w postaci siatki, białymi słupami, marmurową podłogą, czarnymi skórzanymi sofami i dużymi oknami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b10",
+          "page": 52,
+          "element_type": "text",
+          "text": "Upraszczamy tez dokumenty. W 2024 roku uprościliśmy językowo ok. 130 pism, komunikatów, regulaminów, formularzy czy tekstów na stronie internetową, z czego ponad 60% już wdrożyliśmy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b11",
+          "page": 52,
+          "element_type": "subsection-header",
+          "text": "Upowszechniamy prosty język",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p52_b12",
+          "page": 52,
+          "element_type": "text",
+          "text": "Chcemy, żeby nasza komunikacja była zrozumiała i przyjazna dla klientów, dlatego inwestujemy w doskonalenie komunikacji z użytkownikami prostego języka.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b13",
+          "page": 52,
+          "element_type": "text",
+          "text": "W 2024 roku uruchomiliśmy e-learning z prostego języka. To szkolenie obowiązkowe dla wszystkich pracowników. Ponadto chętni mogą pogłębiać swoją wiedzę podczas tradycyjnych szkoleń w kilku- lub kilkunastoosobowych grupach warsztatowych. W ubiegłym roku na taką naukę zdecydowało się ponad 300 osób, z czego 260 przeszkolit zespół odpowiedzialny za prosty język.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b14",
+          "page": 52,
+          "element_type": "text",
+          "text": "Nieustannie wzbomagamy bazę wiedzy dla pracowników. Piszmemy m.in. poradniki językowo, opracowujemy zestaw najczęstszych pytań i odpowiedzi oraz wprowadzamy poradnie językowo.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b15",
+          "page": 52,
+          "element_type": "text",
+          "text": "W 2024 roku zrealizowaliśmy tez wewnętrzną kampanię edukacyjną.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p52_b16",
+          "page": 52,
+          "element_type": "text",
+          "text": "Upowszechnianie prostego języka w naszym banku wspiera zewnętrznie sieć liderów, która liczy niemal 40 osób. W minionym roku część z nich spróbowała swoich sil w roli trenerów i szkółą osoby ze swoich zespołów i departamentów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    }
+  ]
+}

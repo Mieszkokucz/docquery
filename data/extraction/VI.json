@@ -1,0 +1,4674 @@
+{
+  "chapter_id": "VI",
+  "title": "VI Ład korporacyjny",
+  "page_start": 104,
+  "page_end": 130,
+  "pages": [
+    {
+      "page_num": 104,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": []
+    },
+    {
+      "page_num": 105,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [
+        "Zakres stosowania zasad ładu korporacyjnego"
+      ],
+      "blocks": [
+        {
+          "block_id": "p105_b0",
+          "page": 105,
+          "element_type": "section-header",
+          "text": "1. Zakres stosowania zasad ładu korporacyjnego",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p105_b1",
+          "page": 105,
+          "element_type": "text",
+          "text": "Nasz ład korporacyjny tworzy zasady, procedury i praktyki, które kształtują sposób zarządzania BGK i zapewniają transparentność, uczciwość i odpowiedzialność w codziennych działaniach.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p105_b2",
+          "page": 105,
+          "element_type": "picture",
+          "text": "Diagram kołowy przedstawiający strukturę Ładu Korporacyjnego BGK. W centrum koła znajduje się napis 'Ład korporacyjny BGK', a dookoła 12 segmentów z ikonami i opisami: realizacja obowiązków AML/CFT, obowiązki i wzajemne relacje Zarządu i Rady Nadzorczej, kontrola wewnętrzna i zarządzanie ryzykiem, kształtowanie relacji z interesariuszami, polityki dotyczące podatków, polityki dotyczące wynagrodzeń, zagłaszanie nieprawidłowości naruszeń, zagroszanie nieprawidłowości, przeciwdziałanie korupcji, zasady etycznego działania, realizacja obowiązków AML/CFT.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p105_b3",
+          "page": 105,
+          "element_type": "text",
+          "text": "Ramy ładu korporacyjnego BGK określają zewnętrzne przepisy, m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p105_b4",
+          "page": 105,
+          "element_type": "list",
+          "text": "- Ustawa o BGK.\n- Statut BGK.\n- Ustawa Prawo bankowe.\n- Rozporządzenie Ministra Finansów, Funduszy i Polityki Regionalnej w sprawie systemu zarządzania ryzykiem i systemu kontroli wewnętrznej oraz polityki wynagrodzeń w bankach.\n- Rekomendacja Z dotycząca zasad ładu wewnętrznego w bankach wydana przez Komisję Nadzoru Finansowego.\n- Wytyczne EUNB w sprawie zarządzania wewnętrznego.\n- Zasady Ładu Korporacyjnego dla instytucji nadzorowanych, wydane przez Komisję Nadzoru Finansowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p105_b5",
+          "page": 105,
+          "element_type": "other",
+          "text": "Ikona globusa z tekstem 'ZOBACZ WIĘCEJ' i informacja o większej ilości treści dostępnej na stronie internetowej BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p105_b6",
+          "page": 105,
+          "element_type": "subsection-header",
+          "text": "Oświadczenie o stosowaniu zasad ładu korporacyjnego",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p105_b7",
+          "page": 105,
+          "element_type": "text",
+          "text": "Ład korporacyjny BGK tworzą regulacje wewnętrzne oraz podejście organizacji i pracowników wobec negatywnych zjawisk w sektorze finansowym mogących wywołać społeczną zainteressuszy do banków lub ich upadłość. W BGK śledzone są doniesienia organów z Polski, UE i USA, co pozwala na bieżący monitoring procesów wewnętrznych i skuteczne przeciwdziałanie niepowodanym skutkom kryzysów na rynkach finansowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p105_b8",
+          "page": 105,
+          "element_type": "text",
+          "text": "Bank na bieżąco:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p105_b9",
+          "page": 105,
+          "element_type": "list",
+          "text": "- obserwuje globalne wydarzenia związane z naruszeniami AML/CFT, manipulacjami na rynku walutowym (FX) i LIBOR.\n- analizuje trendy w obszarze zróżnoważonego rozwoju oraz innowacyjnych technologii, takich jak robotyzacja i sztuczna inteligencja (AI).\n- udoskonala narzędzia wspierające procesy zarządzące.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 106,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [
+        "Zmiany w otoczeniu regulacyjnym",
+        "Zadania, zakres działalności oraz organizacja BGK"
+      ],
+      "blocks": [
+        {
+          "block_id": "p106_b0",
+          "page": 106,
+          "element_type": "text",
+          "text": "Zarząd BGK oświadcza, że bank stosował w 2024 r. „Zasady ładu korporacyjnego dla instytucji nadzorowanych\" wydane przez Komisję Nadzoru Finansowego, z uwzględnieniem skali, charakteru oraz specyfiki działalności banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b1",
+          "page": 106,
+          "element_type": "text",
+          "text": "Rada Nadzorcza, po zapoznaniu się ze „Sprawozdaniem dotyczącym funkcjonowania w 2024 r. ładu wewnętrznego w BGK. ocenia adekwatność i skuteczność funkcjonowania ładu wewnętrznego w Banku Gospodarstwa Krajowego w 2024 r., w tym stosowanie „Zasad Ładu Korporacyjnego dla Instytucji Nadzorowanych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b2",
+          "page": 106,
+          "element_type": "section-header",
+          "text": "2. Zmiany w otoczeniu regulacyjnym",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p106_b3",
+          "page": 106,
+          "element_type": "text",
+          "text": "Działalność BGK regulują polskie i europejskie przepisy. Na bieżąco monitorujemy zmiany w tych regulacjach angażując w proces osoby na stanowisku koordynatorów zmian w prawie reprezentujących poszczególne komórki organizacyjne naszego banku. Wśród te postrzegamy w BGK jako jeden z kluczowych elementów zarządzających (governance). W 2024 roku wydalinm 12 mnieżości alertów prawnych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b4",
+          "page": 106,
+          "element_type": "text",
+          "text": "Zgodnie z przyjętymi w BGK zasadami, komórki odpowiedzialne za wdrożenie zmian wynikających z nowych przepisów raportują postępy w tym zakresie do Departamentu Zgodności. Raz na kwartał o pracach tych informacyjnie jest Zarząd. W 2024 r. w banku zaimplementowane zostały min. przepisy dotyczące zgłaszania naruszeń przez sygnalistów oraz regulacje dotyczące operacyjnej odpowiedzialności cyfrowej sektora finansowego (tzw. rozporządzenie DORA). Ponadkowo w BGK przygotowaliśmy się na ewolucje wewnętrznych związanych nowymi produktami, w szczególności wprowadzonymi w ramach Krajowego Planu Odbudowy i Zwiększania Odporności.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b5",
+          "page": 106,
+          "element_type": "caption",
+          "text": "Tabela 59. Zmiany w prawie",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b6",
+          "page": 106,
+          "element_type": "table",
+          "text": "Zestawienie aktów prawnych wdrażanych w BGK w 2024 i 2023 roku.\n\n| | 2024 | 2023 |\n|---|---|---|\n| Akty prawne zaimplementowane | 35 | 52 |\n| Akty prawne zidentyfikowane jako wymagające implementacji (nowe) | 18 | 11 |\n| Akty prawne w trakcie implementacji | 19 | 24 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b7",
+          "page": 106,
+          "element_type": "footnote",
+          "text": "Najistotniejsze zmiany wpływające na funkcjonowanie BGK zostały podsumowane w załączniku 6.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b8",
+          "page": 106,
+          "element_type": "picture",
+          "text": "Czarno-biała fotografia przedstawiająca budynki miejskie i grupę ludzi na ulicy, prawdopodobnie historyczne zdjęcie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b9",
+          "page": 106,
+          "element_type": "section-header",
+          "text": "3. Zadania, zakres działalności oraz organizacja BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p106_b10",
+          "page": 106,
+          "element_type": "text",
+          "text": "Najważniejszymi dokumentami, na których operamy działalność naszego banku są Ustawa o BGK oraz Statut BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b11",
+          "page": 106,
+          "element_type": "text",
+          "text": "Ustawa określa zadania, zakres działalności oraz organizację banku, w tym podział kompetencji między Radę Nadzorczą, Organ nadzorujący BGK, Zarząd – organ zarządzający BGK. Zgodnie z ustawą oraz innymi przepisami, podstawowym celem działalności banku jest wspieranie polityki gospodarczej Rady Ministrów, rządowych programów społeczno-gospodarczych oraz programów samorządności lokalnej i rozwoju regionalnego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b12",
+          "page": 106,
+          "element_type": "text",
+          "text": "Statut BGK określa m.in. szczegółowe zakresy czynności wykonywanych przez bank i jego organy misję organizację wewnętrzną, kompetencje i zadania poszczególnych Zarządu, fundusze BGK oraz zasady prowadzenia gospodarki finansowej. Statut jest nadany przez ministra właściwego do spraw gospodarki.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p106_b13",
+          "page": 106,
+          "element_type": "text",
+          "text": "Jeżeli przepisy prawa nie stanowią inaczej, do działalności BGK stosuję się przepisy – Ustawy Prawo bankowe.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 107,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [
+        "Zasady, zadania i zakres działania organów i komitetów"
+      ],
+      "blocks": [
+        {
+          "block_id": "p107_b0",
+          "page": 107,
+          "element_type": "section-header",
+          "text": "4. Zasady, zadania i zakres działania organów i komitetów",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p107_b1",
+          "page": 107,
+          "element_type": "subsection-header",
+          "text": "4.1. Rada Nadzorcza",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p107_b2",
+          "page": 107,
+          "element_type": "text",
+          "text": "GRI 2-9, 2-19, 2-20",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p107_b3",
+          "page": 107,
+          "element_type": "text",
+          "text": "Stały nadzór nad działalnością BGK sprawuje Rada Nadzorcza, której kadencja trwa 4 lata⁶⁰. Na koniec 2024 r. w Radzie zasiadało 12 członków.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p107_b4",
+          "page": 107,
+          "element_type": "text",
+          "text": "Zadania Rady Nadzorczej to m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p107_b5",
+          "page": 107,
+          "element_type": "list",
+          "text": "- powoływanie członków do komitetów Rady i uchwalanie regulaminów komitetów.\n- zatwierdzenie struktury organizacyjnej banku, podziału kompetencji w Zarządzie, uchwalania regulaminu wynagrodzeń Zarządu, w tym ustalanie i rozliczanie celów zarządzających, dokonywanie oceny skuteczności działania Zarządu oraz przyjmowanie sprawozdania Zarządu z działalności.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p107_b6",
+          "page": 107,
+          "element_type": "picture",
+          "text": "Czarno-biały fotografia sal posiedzeń Rady Nadzorczej. Widoczni uczestnicy siedzący przy długim stole, z dokumentami i notatkami. Sale jest dobrze oświetlona, wyposażona w lampy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p107_b7",
+          "page": 107,
+          "element_type": "list",
+          "text": "- powierzenie i monitorowanie realizacji zadań z zakresu audytu wewnętrznego oraz obszaru zgodności.\n- nadzór nad systemem zarządzania, w tym utrzymywaniem odpowiedniego poziomu funduszy własnych banku.\n- nadzór nad funkcjonowaniem obszarów: technologii informacyjnej i bezpieczeństwa środowiska teleinformatycznego, bezpieczeństwa banku oraz bezpieczeństwa informacji i ochrony danych osobowych.\n- zatwierdzanie polityki tworzenia nowych produktów, wieloletnich programów rozwoju oraz planu finansowo-rzeczowego banku.\n- zatwierdzanie sprawozdania finansowego i skonsolidowanego sprawozdania finansowego.\n- wybór firmy audytorskiej oraz zatwierdzenie zasad współpracy.\n- zatwierdzanie regulacji dotyczących wynagrodzeń pracowników, identyfikowania kluczowych funkcji, spełu zagrożenia konfliktem interesów, opisywania informacji w zakresie zarządzania ryzykiem i adekwatności kapitałowej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p107_b8",
+          "page": 107,
+          "element_type": "text",
+          "text": "Kandydaci do Rady Nadzorczej BGK muszą uzyskać pozytywną opinię Rady do spraw spółek i udzielanych pożyczek Skarbu Państwa i państwowych osób prawnych, działającej przy Kancelarii Prezesa Rady Ministrów. Przewodniczący Rady Nadzorczej powołuje i odwołuje Prezes Rady Ministrów na wiosek ministra właściwego do spraw gospodarki. Pozostałych członków Rady Nadzorczej powołuje i odwołuje Prezes Rady Ministrów na wniosek właściwych ministrów. Członek Rady Nadzorczej nie może być członkiem Zarządu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p107_b9",
+          "page": 107,
+          "element_type": "text",
+          "text": "Posiedzenia Rady Nadzorczej są zwoływane w zgodzie z bieżącymi potrzebami, nie rzadziej jednak niż raz na trzy miesiące. Rada podejmuje uchwały bezwzględną większością głosów przy obecności co najmniej połowy swoich członków, w tym przewodniczącego lub zastępcy przewodniczącego będź osoby wyznaczonej do przewodniczenia posiedzeniu. Uchwały Rady Nadzorczej są przekazywane Zarządowi do wykonania lub do wiadomości.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p107_b10",
+          "page": 107,
+          "element_type": "text",
+          "text": "W 2024 r. Rada Nadzorcza BGK odbyła 16 posiedzeń i podjęła ogółem 119 uchwał, z czego 11 w trybie pisemnym z wykorzystaniem środków porozumiewania się na odległość. Wszystkie posiedzenia odbywały się w składzie i trybie umożliwiającym poszczególnym członkom uchwały, w formie stacjonarnej oraz przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p107_b11",
+          "page": 107,
+          "element_type": "text",
+          "text": "Aktualny skład osobowy Rady Nadzorczej publikowany jest na stronie internetowej banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p107_b12",
+          "page": 107,
+          "element_type": "footnote",
+          "text": "⁶⁰ 6 października 2020 r. rozeszła się X kadencja Rady Nadzorczej",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 108,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p108_b0",
+          "page": 108,
+          "element_type": "caption",
+          "text": "Tabela 60. Profile kompetencyjne i kryterium niezależności członków Rady Nadzorczej BGK w stanie na 31.12.2024",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p108_b1",
+          "page": 108,
+          "element_type": "table",
+          "text": "Profile kompetencyjne i kryterium niezależności członków Rady Nadzorczej BGK.\n\n| Imię i nazwisko | Funkcja w Radzie Nadzorczej na 31.12.2024 r. | Kryterium niezależności zgodnie z wymogami Ustawy o bankach założycielskich, firmach audytorskich oraz o nadzorze publicznym | Wiedza i umiejętności z zakresu rachunkowości lub badania sprawozdań finansowych | Wiedza i umiejętności z zakresu bankowych |  |\n|---|---|---|---|---|---|\n| Michał Prawdzic Łascz | przewodniczący | ✓ | ✓ | ✓ |  |\n| Bartłomiej Opalinski | zastępca przewodniczącego | ✓ | ✓ | ✓ |  |\n| Magdalena Mietús | sekretarz |  |  | ✓ |  |\n| Jacek Baryliski | członek |  |  |  | ✓ |\n| Marcin Buczyński | członek | ✓ |  | ✓ |  |\n| Marek Hermach | członek | ✓ | ✓ | ✓ |  |\n| Dariusz Kacprzyk | członek | ✓ | ✓ | ✓ |  |\n| Jacek Pierzyński | członek | ✓ |  | ✓ |  |\n| Jakub Sawulski | członek | ✓ | ✓ | ✓ |  |\n| Zbigniew Stasiak | członek | ✓ |  | ✓ |  |\n| Tomasz Szałwiński | członek |  | ✓ | ✓ |  |\n| Michał Świtalski | członek |  | ✓ | ✓ |  |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p108_b2",
+          "page": 108,
+          "element_type": "text",
+          "text": "W 2024 r. nastąpiły poniższe zmiany w składzie Rady Nadzorczej banku:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p108_b3",
+          "page": 108,
+          "element_type": "list",
+          "text": "- Prezes Rady Ministrów odwołał ze składu Rady Nadzorczej z dniem 11 stycznia 2024 r. Jerzego Szmita i Kazimierza Kujde; z dniem 15 lutego 2024 r. Beatę Górałek, Adamę Rudzewiczą i Michała Gajewskiego; z dniem 15 marca 2024 r. Honoratę Krysiewicz; z dniem 27 marca 2024 r. Wojciecha Mająą; z dniem 12 kwietnia 2024 r. Magdalenę Tarczawskę-Szymonską i Michała Kucznierowskiego; z dniem 25 kwietnia 2024 r. Pawła Borysa z funkcji Przewodniczącego Rady Nadzorczej; z dniem 24 czerwca 2024 r. Gertrudę Ujazdowską; z dniem 5 sierpnia 2024 r. Jarosława Dąbrowskiego.\n- Katarzyna Przewalska złożyła rezygnację z pełnienia funkcji członka Rady Nadzorczej z dniem 31 maja 2024 r.\n- Prezes Rady Ministrów powołował w skład Rady Nadzorczej z dniem 16 lutego 2024 r. Marcina Buczyńskiego, Jarosława Dąbrowskiego, Magdalenę Mietús, Jacką Pierzyńskiego, Katarzynę Przewalską, Zbigniewę Stasiąk i Tomasza Szałwińskiego; z dniem 26 kwietnia 2024 r. Michała Prawdzic Łaszczą na przewodniczącego Rady Nadzorczej i Bartłomieja Opaliskiego; z dniem 25 czerwca 2024 r. Marka Hermacha; z dniem 1 lipca 2024 r. Michała Świtalskiego; z dniem 11 lipca 2024 r. Jacką Baryliskiego; z dniem 24 lipca 2024 r. Jakuba Sawulskiego; z dniem 1 września 2024 r. Dariusza Kacprzyka.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p108_b4",
+          "page": 108,
+          "element_type": "subsection-header",
+          "text": "Wynagrodzenia członków Rady Nadzorczej BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p108_b5",
+          "page": 108,
+          "element_type": "text",
+          "text": "Członkowie Rady Nadzorczej w BGK są wynagradzani zgodnie z zapisami Ustawy o zasadach kształtowania wynagrodzeń osób kierujących sektorami spółkami oraz Oświadczeniem Ministra Rozwoju i Technologii z sprawie zasad kształtowania wynagrodzeń członków Rady Nadzorczej Banku Gospodarstwa Krajowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 109,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p109_b0",
+          "page": 109,
+          "element_type": "caption",
+          "text": "Tabela 61. Funkcje, frekwencja i wynagrodzenia (w zł) członków Rady Nadzorczej BGK w 2024 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p109_b1",
+          "page": 109,
+          "element_type": "table",
+          "text": "Zestawienie funkcji, frekwencji i wynagrodzeń członków Rady Nadzorczej BGK w 2024 roku.\n\n| imię i nazwisko | okres pełnienia funkcji w Radzie w 2024 r. | data powołania do Rady | data upływu obecnej kadencji Rady | frekwencja w 2024 r. (obecność na posiedzeniach/ liczba posiedzeń w trockie sprawowania mandatu) | funkcja w Radzie w 2024 r. | wynagrodzenie |\n|---|---|---|---|---|---|---|\n| Michał Prawdzic Łaszcz | 26.04 - 31.12.2024 | 26.04.2024 | 06.10.2024 | 12/12 | przewodniczący | 126 994 |\n| Katarzyna Przewolska | 16.02 - 31.05.2024 | 16.02.2024 | rezygnacja | 5/5 | członek (16.02.2024-12.03.2024) zastępca przewodniczącego (13.03.2024-31.05.2024) | 43 623 |\n| Bartłomiej Opaliński | 26.04 - 31.12.2024 | 26.04.2024 | 06.10.2024 | 11/12 | zastępca przewodniczącego (01.06.2024-31.12.2024) | 125 973 |\n| Magdalena Mietus | 16.02 - 31.12.2024 | 16.02.2024 | 06.10.2024 | 15/15 | członek (16.02.2024-16.04.2024) sekretarz (16.04.2024-31.12.2024) | 154 997 |\n| Jacek Baryłski | 11.07 - 31.12.2024 | 11.07.2024 | 06.10.2024 | 5/7 | członek | 89 788 |\n| Marcin Buczyński | 16.02 - 31.12.2024 | 16.02.2024 | 06.10.2024 | 15/15 | członek | 149 050 |\n| Jarosław Dąbrowski | 16.02 - 05.08.2024 | 16.02.2024 | odwołany | 7/8 | członek | 68 542 |\n| Marek Hermoch | 25.06 - 31.12.2024 | 25.06.2024 | 06.10.2024 | 7/8 | członek | 96 876 |\n| Dariusz Kacprzyk | 01.09 - 31.12.2024 | 01.09.2024 | 06.10.2024 | 5/5 | członek | 66 753 |\n| Jacek Pierzyński | 16.02 - 31.12.2024 | 16.02.2024 | 06.10.2024 | 15/15 | członek | 149 050 |\n| Jakub Szmulski | 24.07 - 31.12.2024 | 24.07.2024 | 06.10.2024 | 7/7 | członek | 84 902 |\n| Zbigniew Stasiak | 16.02 - 31.12.2024 | 16.02.2024 | 06.10.2024 | 14/15 | członek | 149 050 |\n| Tomasz Szałwiński | 16.02 - 31.12.2024 | 16.02.2024 | 06.10.2024 | 14/15 | członek | 149 050 |\n| Michał Świtalski | 01.07 - 31.12.2024 | 01.07.2024 | 06.10.2024 | 8/8 | członek | 94 546 |\n| Paweł Borys | 01.01 - 25.04.2024 | 01.09.2016 | odwołany | 4/4 | przewodniczący | 60 624 |\n| Beata Górjek | 1.01 - 15.02.2024 | 26.07.2017 | odwołana | 1/1 | zastępca przewodniczącego | 30 939 |\n| Magdalena Tarczewska -Szymańska | 1.01 - 12.04.2024 | 22.02.2019 | odwołana | 2/3 | sekretarz | 55 070 |\n| Jerzy Szmit | 1.01 - 11.01.2024 | 18.01.2016 | odwołany | 0/0 | członek | 15 312 |\n| Kazimierz Kujda | 1.01 - 11.01.2024 | 11.04.2023 | odwołany | 0/0 | członek | 14 583 |\n| Honorata Krysiewicz | 1.01 - 15.03.2024 | 30.07.2020 | odwołana | 2/2 | członek | 41 359 |\n| Adam Rudzewicz | 1.01 - 15.02.2024 | 12.06.2019 | odwołany | 1/1 | członek | 29 533 |\n| Wojciech Maj | 1.01 - 27.03.2024 | 28.10.2021 | odwołany | 3/3 | członek | 46 095 |\n| Gertruda Uścińska | 1.01 - 24.06.2024 | 14.02.2023 | odwołana | 7/8 | członek | 82 964 |\n| Michał Gajewski | 1.01 - 15.02.2024 | 27.03.2023 | odwołany | 1/1 | członek | 29 533 |\n| Michał Kuczmierowski | 1.01 - 12.04.2024 | 10.08.2023 | odwołany | 3/3 | członek | 52 567 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 110,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p110_b0",
+          "page": 110,
+          "element_type": "subsection-header",
+          "text": "Komitety",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p110_b1",
+          "page": 110,
+          "element_type": "text",
+          "text": "Rada Nadzorcza powołała trzy Komitety, które pełnią funkcje kontrolne lub doradcze i opiniujące. Są to Komitet ds. Audytu, Komitet ds. Ryzyka oraz Komitet ds. Wynagrodzeń i Nominacji. Członkowie Komitetów zostali powołani spośród członków Rady, a szczególowe zakresy i tryby działania Komitetów określają ich regulaminy uchwalone przez Radę Nadzorczą.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p110_b2",
+          "page": 110,
+          "element_type": "caption",
+          "text": "Tabela 62. Skład komitetów Rady Nadzorczej BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p110_b3",
+          "page": 110,
+          "element_type": "table",
+          "text": "Skład Komitetu ds. Audytu z okresem pełnienia funkcji w 2024 r.\n\n| imię i nazwisko | funkcja | okres pełnienia funkcji w 2024 r. |\n|---|---|---|\n| Jacek Pierzyński | przewodniczący | 13.03 - 31.12.2024 |\n| Marcin Buczyński | członek | 13.03 - 18.03.2024 |\n| | sekretarz | 19.03 - 31.12.2024 |\n| Zbigniew Stasiok | członek | 13.03 - 31.12.2024 |\n| Marek Hermach | członek | 10.07 - 31.12.2024 |\n| Dariusz Kacprzyk | członek | 16.09 - 31.12.2024 |\n| Beata Gorajek | przewodnicząca | 01.01 - 15.02.2024 |\n| Jerzy Szmit | sekretarz | 01.01 - 11.01.2024 |\n| Adam Rudzewicz | członek | 01.01 - 15.02.2024 |\n| Gertruda Uścińska | członek | 25.01 - 13.03.2024 |\n| Magdalena Tarczewska-Szymańska | członek | 13.03 - 12.04.2024 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p110_b4",
+          "page": 110,
+          "element_type": "table",
+          "text": "Skład Komitetu ds. Ryzyka z okresem pełnienia funkcji w 2024 r.\n\n| imię i nazwisko | funkcja | okres pełnienia funkcji w 2024 r. |\n|---|---|---|\n| Magdalena Miętus | członek | 13.03 - 31.05.2024 |\n| | przewodnicząca | 01.06 - 31.12.2024 |\n| Bartłomiej Opaliński | członek | 01.06 - 31.12.2024 |\n| Jacek Baryłski | członek | 28.08 - 31.12.2024 |\n| Jakub Sawulski | członek | 28.08 - 12.09.2024 |\n| | sekretarz | 13.09 - 31.12.2024 |\n| Jarosław Dąbrowski | członek | 17.06 - 05.08.2024 |\n| | sekretarz | 13.03 - 18.03.2024 |\n| Katarzyna Przewalska | członek | 19.03 - 16.04.2024 |\n| | przewodnicząca | 17.04 - 31.05.2024 |\n| Michał Kuczmierowski | członek | 01.01 - 12.04.2024 |\n| Wojciech Maj | przewodniczący | 01.01 - 27.03.2024 |\n| Michał Gojewski | członek | 01.01 - 15.02.2024 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p110_b5",
+          "page": 110,
+          "element_type": "table",
+          "text": "Skład Komitetu ds. Wynagrodzeń i Nominacji z okresem pełnienia funkcji w 2024 r.\n\n| imię i nazwisko | funkcja | okres pełnienia funkcji w 2024 r. |\n|---|---|---|\n| Michał Prawdzic Łaszcz | przewodniczący | 14.05 - 31.12.2024 |\n| Tomasz Szalwiński | członek | 13.03 - 17.03.2024 |\n| | sekretarz | 18.03 - 31.12.2024 |\n| Bartłomiej Opaliński | członek | 14.05 - 31.12.2024 |\n| Michał Switolski | członek | 10.07 - 31.12.2024 |\n| Paweł Borys | przewodniczący | 01.01 - 25.04.2024 |\n| Magdalena Tarczewska-Szymańska | sekretarz | 01.01 - 13.03.2024 |\n| Honorata Krysiewicz | członek | 01.01 - 15.03.2024 |\n| Gertruda Uścińska | członek | 01.01 - 24.06.2024 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 111,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p111_b0",
+          "page": 111,
+          "element_type": "subsection-header",
+          "text": "Komitet ds. Audytu",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p111_b1",
+          "page": 111,
+          "element_type": "text",
+          "text": "Komitet Audytu działał od 2007 r., aż na koniec roku 2024 liczył 5 członków i tym samym spełnił wymogi Ustawy o bieglych rewidentach, firmach audytorskich oraz nadzorze publicznym. Do zadań Komitetu ds. Audytu należą m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b2",
+          "page": 111,
+          "element_type": "list",
+          "text": "- sprawowanie nadzoru nad organizacją komórki audytu wewnętrznego oraz organizacją komórki do spraw zgodności.\n- monitorowanie procesu sprawodzielczości finansowej, zarządczej i wykonywania czynności rewizji finansowej.\n- monitorowanie skuteczności systemu kontroli wewnętrznej oraz zarządzania ryzykiem, a jednocześnie zadań regulacyjnych, zasady współpracy z firmą audytorską.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b3",
+          "page": 111,
+          "element_type": "text",
+          "text": "W 2024 r. odbyło się 17 posiedzeń Komitetu ds. Audytu oraz dodatkowo 4 posiedzenia wspólnie z Komitetem ds. Ryzyka. Komitet wydał też jedną opinię wspólnie z Komitetem ds. Wynagrodzeń i Nominacji oraz podjął jedną decyzję w trybie pismemnym. w grudniu 2024 r. odbyło się również posiedzenie zamknięte z udziałem dyrektora Departmentu Audytu Wewnętrznego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b4",
+          "page": 111,
+          "element_type": "subsection-header",
+          "text": "Komitet ds. Ryzyka",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p111_b5",
+          "page": 111,
+          "element_type": "text",
+          "text": "Komitet został powołany w 2015 r. przez Radę Nadzorczą. Zadania Komitetu obejmują w szczególności:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b6",
+          "page": 111,
+          "element_type": "list",
+          "text": "- opiniowanie regulacji wewnętrznych dotyczących ryzyka.\n- monitorowanie systemu zarządzania ryzykiem, w tym realizacji strategii zarządzania ryzykiem oraz strategii obszarów technologii informatycznej i bezpieczeństwa środowiska teleinformatycznego.\n- zatwierdzanie ujawnień informacji w zakresie zarządzania ryzykiem i adekwatności kapitałowej oraz ujawnień w zakresie ryzyka ESG.\n- analizowanie raportów dotyczących ent ytów i pasywów w kontekście wieloletnego programu rozwoju banku oraz modelu zarządzania ryzykiem.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b7",
+          "page": 111,
+          "element_type": "text",
+          "text": "W 2024 r. Komitet posiedzeń 6 razy oraz odbył dodatkowo 4 wspólne posiedzenia z Komitetem ds. Audytu. Komitet ds. Ryzyka podjął również dwie decyzje w trybie pismemnym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b8",
+          "page": 111,
+          "element_type": "subsection-header",
+          "text": "Komitet ds. Wynagrodzeń i Nominacji",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p111_b9",
+          "page": 111,
+          "element_type": "text",
+          "text": "Komitet działał od 2013 r., początkową jako Komitet ds. Wynagrodzeń, a od 2020 r. jako Komitet ds. Wynagrodzeń i Nominacji. Do zadań Komitetu należą m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b10",
+          "page": 111,
+          "element_type": "list",
+          "text": "- opiniowanie wewnętrznych regulacji dotyczących wynagrodzeń pracowników, identyfikowanie kluczowych funkcji oraz pracowników mających istotny wpływ na profil ryzyka, a następnie monitorowanie ich stosowania.\n- wydawanie zaleceń dotyczących wynagrodzeń dla osób odpowiedzialnych za kierowanie komórką audytu wewnętrznego i komórką do spraw zgodności.\n- proponowanie celów zarządzających dla członków Zarządu, następnie ocena ich realizacji.\n- opiniowanie umów zawieranych z członkami Zarządu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b11",
+          "page": 111,
+          "element_type": "text",
+          "text": "W 2024 r. odbyło się 6 posiedzeń Komitetu ds. Wynagrodzeń i Nominacji, ponadto Komitet zaopiniował jeden dokument wspólnie z Komitetem ds. Audytu w ramach nadzoru nad organizacją komórki do spraw zgodności.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b12",
+          "page": 111,
+          "element_type": "subsection-header",
+          "text": "4.2. Zarząd",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p111_b13",
+          "page": 111,
+          "element_type": "text",
+          "text": "GRI 2-9, 2-10, 2-11, 2-19, 2-20, 2-17",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b14",
+          "page": 111,
+          "element_type": "subsection-header",
+          "text": "Skład Zarządu",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p111_b15",
+          "page": 111,
+          "element_type": "text",
+          "text": "Zarząd BGK składa się z 6 członków powoławanych i odwoływanych przez Prezesa Rady Ministrów po 5-letniej kadencji. Powołanie prezesa Zarządu i jednego członka Zarządu któremу powierzone zostanie zarządzanie ryzykiem istotnym w działalności BGK następuje za zgodą Komisji Nadzoru Finansowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b16",
+          "page": 111,
+          "element_type": "text",
+          "text": "Kryteria wyboru członków Zarządu to wiedza, umiejętności i doświadczenie odpiednie do pełnionych funkcji i powierzonych obowiązków oraz relacja najwyższego wykwalifiowania obowiązków. w szczególności uczciowości i rzetelności oraz zdolności do prowadzenia spraw mającej istotny wpływ na stabilny.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p111_b17",
+          "page": 111,
+          "element_type": "text",
+          "text": "Zarząd odbywa posiedzenia zgodnie z harmonogramem posiedzeń lub zgodnie z bieżącymi potrzebami. Uchwały zapadają zwykłą większością głosów, w obecności co najmniej połowy członków. w przypadku równej liczby głosów decyduje głos prezesa Zarządu, a w razie jego nieobecności – członka Zarządu przewodniczącego posiedzeniu. W 2024 r. Zarząd BGK odbył 55 posiedzeń i podjął 388 uchwał.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 112,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p112_b0",
+          "page": 112,
+          "element_type": "subsection-header",
+          "text": "Zmiany w składzie Zarządu w 2024 r.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p112_b1",
+          "page": 112,
+          "element_type": "list",
+          "text": "- Prezes Rady Ministrów odwołał: z dniem 11 stycznia 2024 r. Begtę Daszyńską-Muzyczka ze stanowiska prezesa Zarządu BGK; z dniem 11 kwietnia 2024 r. Pawła Nierade ze stanowiska pierwszego wiceprezesa Zarządu; z dniem 12 kwietnia 2024 r. Marka Tomczuka ze stanowiska członka Zarządu; z dniem 27 czerwca 2024 r. Radosława Kwietnizie ze stanowiska członka Zarządu; z dniem 2 lipca 2024 r. Tomasza Robaczyńskiego ze stanowiska członka Zarządu;\n- Prezes Rady Ministrów powołał: z dniem 12 kwietnia 2024 r. Mirosławę Czekają na stanowisko prezesa Zarządu Banku pod warunkiem uzyskania zgody Komisji Nadzoru Finansowego, powierzając jednocześnie pełnienie obowiązków prezesa do czasu uzyskania zgody oraz Marta Postulę na stanowisko pierwszego wiceprezesa Zarządu; z dniem 26 kwietnia 2024 r. Mościeja Klisia na stanowisko wiceprezesa Zarządu; z dniem 28 czerwca 2024 r. Leszka Stypułkowskiego na stanowisko członka Zarządu; z dniem 6 sierpnia 2024 r. Mateusza Szczurka i Jarosława Dąbrowskiego na stanowiska członków Zarządu;\n- Ponadto Rada Nadzorcza w dniu 19 czerwca 2024 r. podjęła uchwały: w sprawie zawieszenia w czynnościach tomosza Robaczyńskiego - członka Zarządu oraz w sprawie zawieszenia w czynnościach Radosława Kwietnia - członka Zarządu;\n- Komisja Nadzoru Finansowego w dniu 18 lipca 2024 r. wyraziła zgodę na powołanie Mirosławy Czekają na stanowisko prezesa Zarządu;\n- Komisja Nadzoru Finansowego w dniu 25 października 2024 r. wyraziła zgodę na objęcie przez Mateusza Szczurka funkcji członka Zarządu nadzorującego zarządzanie ryzykiem istotnym w działalności Banku Gospodarstwa Krajowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p112_b2",
+          "page": 112,
+          "element_type": "caption",
+          "text": "Tabela 63. Skład Zarządu BGK, funkcje oraz frekwencja w posiedzeniach w 2024 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p112_b3",
+          "page": 112,
+          "element_type": "table",
+          "text": "Skład Zarządu BGK z informacją o funkcjach, okresach pełnienia funkcji oraz frekwencji w posiedzeniach w 2024 roku.\n\n| imię i nazwisko | funkcja | okres pełnienia funkcji w 2024 r. | data powołania do Zarządu | data odwołania z Zarządu | frekwencja w posiedzeniach w 2024 r. (obecność na posiedzeniach/liczba posiedzeń w trakcie sprawowania mandatu) |\n|---|---|---|---|---|---|\n| Mirosław Czekaj | p.o. prezesa przez | 12.04 - 17.07.2024 18.07 - 31.12.2024 | 12.04.2024 | 24.09.2026 | 42/42 |\n| Marta Postułą | pierwsza wiceprezesa | 12.04 - 31.12.2024 | 12.04.2024 | 24.09.2026 | 41/42 |\n| Maciej Kliś | wiceprezes | 26.04 - 31.12.2024 | 26.04.2024 | 24.09.2026 | 34/41 |\n| Leszek Stypułkowski | członek | 28.06 - 31.12.2024 | 28.06.2024 | 24.09.2026 | 22/27 |\n| Mateusz Szczurek | członek | 06.08 - 31.12.2024 | 06.08.2024 | 24.09.2026 | 21/22 |\n| Jarosław Dąbrowski | członek | 06.08 - 31.12.2024 | 06.08.2024 | 24.09.2026 | 20/22 |\n| Beata Daszyńska-Muzyczka | prezes | 01.01 - 11.01.2024 | 01.12.2016 | odwołana | 1/1 |\n| Paweł Nierade | pierwszy wiceprezes | 01.01 - 11.04.2024 | 23.09.2016 | odwołany | 12/13 |\n| Radosław Kwiecień | członek | 01.01 - 27.06.2024 | 15.11.2016 | odwołany | 22/26 |\n| Tomasz Robaczyński | członek | 01.01 - 02.07.2024 | 01.06.2020 | odwołany | 22/26 |\n| Marek Tomczuk | członek | 01.01 - 12.04.2024 | 21.04.2023 | odwołany | 12/13 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p112_b4",
+          "page": 112,
+          "element_type": "subsection-header",
+          "text": "Komitet Ryzyka BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p112_b5",
+          "page": 112,
+          "element_type": "text",
+          "text": "W 2024 r. w oczekiwaniu na zgodę KNF na objęcie przez powołanego członka Zarządu funkcji nadzorującego zarządzanie istotnym ryzykiem, Zarząd BGK powołał Komitet Ryzyka BGK. Do jego zadań należało wspieranie Zarządu w zakresie: nadzoru nad zarządzaniem ryzykiem oraz adekwatności kapitałowej, opiniowania działań dotyczących zarządzania ryzykiem i kapitałem oraz analizowania i oceniania stosowania akceptowalnych poziomów ryzyka oraz limitów ryzyka. W skład Komitetu wchodzili członkowie Zarządu oraz dyrektorzy zarządzający kierujący pionem ryzyka i pionem finansów. W 2024 r. odbyło się 18 posiedzeń Komitetu Ryzyka. Komitet zakończył swoją działalność 6 listopada 2024 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 113,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p113_b0",
+          "page": 113,
+          "element_type": "picture",
+          "text": "Sześć portretów zawodowych przedstawiających członków zarządu banku, ułożonych w rzędzie od lewej do prawej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p113_b1",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Prezes Zarządu BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b2",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Mirosław Czekaj",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b3",
+          "page": 113,
+          "element_type": "text",
+          "text": "dr hab. w dyscyplinie ekonomii i finansów, prof. SGH w Warszawie. Ma 30-letnie doświadczenie w zarządzaniu udzymi wspomiającymi gospodarczymi. Zasiadał w radach nadzorczych banków PKO BP i Pomorskiego Banku Kredytowego. Jest biegłym rewidentem. w latach 2007-2024 pełnił funkcję skarbnika m.st. Warszawy. Od kwietnia 2024 r. prezes Zarządu BGK. Nadzoruje obszar zarządzania strategicznego i finansów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p113_b4",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Pierwsza Wiceprezes Zarządu BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b5",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Marta Postuła",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b6",
+          "page": 113,
+          "element_type": "text",
+          "text": "prof. zw. dr hab. Praktyk, teoretyk i ekspert w dziedzinie finansów. z wieloletnim doświadczeniem w sektorze publicznym i finansowym. Kierownik Katedry Finansów i Rachunkowości na Wydziale Zarządzania UW. Członek Komitetu Nauk o Finansach PAN. Od kwietnia 2024 r. pierwsza wiceprezes Zarządu BGK. Nadzoruje obszar rynków i programów rządowych i europejskich.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p113_b7",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Wiceprezes Zarządu BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b8",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Maciej Kliś",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b9",
+          "page": 113,
+          "element_type": "text",
+          "text": "adwokat, absolwent prawa na UJ, stypendysta Harvard University. Reprezentował klientów w sprawach bankowych oraz finansowych. wywiałetnim doświadczeniem w sektorze finansów. Wyciółetnim pracownikiem przed sądami w Polsce i zagranicą. Dokonywał audytów odpowiedzi alności karnej zarządów. Od kwietnia 2024 r. wiceprezes BGK. Nadzoruje obszar produktów finansowych i infrastruktury transportu i programów mieszkaniowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p113_b10",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Członek Zarządu BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b11",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Leszek Stypułkowski",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b12",
+          "page": 113,
+          "element_type": "text",
+          "text": "absolwent zarządzania SGH, stypendysta Mannheim Universität. W 25-letniej karierze zawodowej zajmował najwyższe stanowiska menedżerskie w polskich przedsiębiorstwach na Bliskim Wschodzie i w Azji. Był prezesem DNB ASA i zarządów oraz czionkiem rad nadzorczych spółek z grupy 2. GPN. Od dekady zajmuje się opracowaniem innowacyjnych rozwiązań dla sektora publicznego. Od czerwca 2024 r. członek Zarządu BGK. Nadzoruje obszar relacji, operacji i rozwoju technologicznego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p113_b13",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Członek Zarządu BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b14",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Jarosław Dabrowski",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b15",
+          "page": 113,
+          "element_type": "text",
+          "text": "absolwent prawa na UW z 25-letnim doświadczeniem w sektorze finansowym. Zasiadał m.in. w zarządzie Raiffeisen Bank Polska oraz był prezesem DNB NORD, Polska oraz DF Capital & Management. Zasiadał w radach nadzorczych funduszy inwestycyjnych spółek giełdowych. Od lutego 2024 r. w RN BGK. Od lipca powołany na stanowisko członka Zarządu banku. Nadzoruje obszar inwestycji kapitałowych i współpracy międzynarodowej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p113_b16",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Członek Zarządu BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b17",
+          "page": 113,
+          "element_type": "subsection-header",
+          "text": "Mateusz Szczurek",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p113_b18",
+          "page": 113,
+          "element_type": "text",
+          "text": "doktor nauk ekonomicznych, absolwent UW, University of Sussex oraz Columbia University. Minister Finansów w latach 2015-2015. Ma wieloletnie doświadczenie w sektorze bankowym, m.in. obejmował stanowiska głównego ekonomisty na kraje UE, EBOIR oraz głównego ekonomisty ds. Europy Środkowej i Wschodniej w ING Banku. Członek Europejskiej Rady Budżetowej. Od sierpnia 2024 r. członek Zarządu BGK. Nadzoruje obszar zarządzania ryzykiem.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p113_b19",
+          "page": 113,
+          "element_type": "text",
+          "text": "Aktualny skład osobowy Zarządu znajduje się na stronie internetowej banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 114,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p114_b0",
+          "page": 114,
+          "element_type": "subsection-header",
+          "text": "Wynagrodzenia członków Zarządu BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p114_b1",
+          "page": 114,
+          "element_type": "text",
+          "text": "Członkowie Zarządu BGK wynagradzani są zgodnie z:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p114_b2",
+          "page": 114,
+          "element_type": "list",
+          "text": "- ustawą o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami.\n- oświadczeniem Ministra Rozwoju i Technologii w sprawie zasad kształtowania wynagrodzeń członków Zarządu Banku Gospodarstwa Krajowego.\n- Regulaminem wynagradzania członków Zarządu BGK.\n- Polityką zmiennych składników wynagrodzeń zidentyfikowanych pracowników mających istotny wpływ na profil ryzyka w Banku Gospodarstwa Krajowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p114_b3",
+          "page": 114,
+          "element_type": "caption",
+          "text": "Tabela 64. Wynagrodzenia członków Zarządu BGK (w zł)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p114_b4",
+          "page": 114,
+          "element_type": "table",
+          "text": "Zestawienie wynagrodzeń członków Zarządu BGK w 2024 roku.\n\n| imię i nazwisko | funkcja | wynagrodzenie podstawowe wypłacone za 2024 r. | wynagrodzenie uzupełniające przyznane i uzupełniające odroczone wypłacone za 2024 r. | wynagrodzenie uzupełniające odroczone do wypłaty w kolejnych latach | wynagrodzenie uzupełniające (do wypłaty po zatwierdzeniu przez RN) | wynagrodzenie uzupełniające za 2024 r. |\n|---|---|---|---|---|---|---|\n| Mirosław Czekaj | prezes od 12.04.2024 pierwsza | 992 833 | 0 | 0 | 992 833 | |\n| Marta Postula | wiceprezes od 12.04.2024 | 820 167 | 0 | 0 | 820 167 | |\n| Jarosław Dąbrowski | członek od 06.08.2024 | 435 484 | 0 | 0 | 435 484 | |\n| Maciej Kliś | wiceprezes od 26.04.2024 | 775 833 | 0 | 0 | 775 833 | |\n| Leszek Stypułkowski | członek od 28.06.2024 | 549 000 | 0 | 0 | 549 000 | |\n| Mateusz Szczurek | członek od 06.08.2024 | 435 484 | 0 | 0 | 435 484 | |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p114_b5",
+          "page": 114,
+          "element_type": "footnote",
+          "text": "[1] Zgodnie z obowiązującymi w banku zasadami wynagradzania członków Zarządu BGK, członkom Zarządu może przysługiwać wynagrodzenie uzupełniające za dany rok obrachunkowy, wypłacone po dokonaniu oceny poziomu realizacji celów oraz zatwierdzeniu sprawozdania finansowego przez Radę Nadzorczą. W sprawie wynagrodzenia członków Zarządu BGK za 2024 r. decyzja będzie podjęta, gdy wiadomo już jakości zysku BGK za 2024 r., a tym samym informacji czy została osiągnięta kwota oceny poziomu realizacji 60% do przyznania.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p114_b6",
+          "page": 114,
+          "element_type": "caption",
+          "text": "Tabela 65. Wynagrodzenia po okresie zatrudnienia (w zł)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p114_b7",
+          "page": 114,
+          "element_type": "table",
+          "text": "Zestawienie wynagrodzeń po okresie zatrudnienia dla członków Zarządu BGK.\n\n| imię i nazwisko | funkcja | wynagrodzenie podstawowe wypłacone w 2024 r. | odprawy wypłacone w 2024 r. | zakaz konkurencji wypłacony w 2024 r. | zakaz konkurencji i uzupełniające odroczone wypłacone w 2024 r.[2] | wynagrodzenie uzupełniające odroczenia za 2024 r. | wynagrodzenie uzupełniające za 2024 r. |\n|---|---|---|---|---|---|---|---|\n| Beata Daszyńska-Muzyczka | prezes (09.12.2016 - 11.01.2024 r) | 140 903 | 312 000 | 624 000 | 105 600 | 0 | 0 |\n| Paweł Nierada | pierwszy wiceprezes (28.09.2016 - 11.04.2024 r) | 379 900 | 261 000 | 522 000 | 83 200 | 0 | 0 |\n| Radosław Kwiecień | członek (15.12.2016 - 27.06.2024 r) | 587 250 | 261 000 | 443 700 | 83 200 | 0 | 0 |\n| Tomasz Roboczyński | członek (01.06.2020 - 02.07.2024 r) | 594 500 | 261 000 | 342 387 | 0 | 0 | 0 |\n| Marek Tomczuk | członek (21.04.2023 - 12.04.2024 r) | 382 800 | 0 | 522 000 | 0 | 0 | 0 |\n| Przemysław Cieszyński | członek (28.09.2016 - 30.11.2021 r) | 0 | 0 | 0 | 83 200 | 0 | 0 |\n| Wojciech Hahn | członek (01.01.2016 - 31.12.2019 r) | 0 | 0 | 0 | 83 200 | 0 | 0 |\n| Włodzimierz Kocoń | członek (01.12.2016 - 31.01.2023 r) | 0 | 0 | 0 | 83 200 | 0 | 0 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p114_b8",
+          "page": 114,
+          "element_type": "footnote",
+          "text": "[2] Wypłacona została odroczona część wynagrodzenia uzupełniającego za 2019 rok.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 115,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p115_b0",
+          "page": 115,
+          "element_type": "text",
+          "text": "Na wynagrodzenie członka Zarządu naszego banku składa się stałe, określone kwotowo wynagrodzenie miesięczne oraz część zmienna, stanowiąca wynagrodzenie uzupełniające za rok obrotowy banku. Stałe wynagrodzenie miesięczne ustalane jest przez Radę Nadzorczą, a wynagrodzenie uzupełniające zależy od poziomu realizacji celów zarządzanych z wynikami finansowymi banku i realizacją celów wspierających strategie, zrównoważony rozwój oraz długoterminowe interesy i stabilność banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p115_b1",
+          "page": 115,
+          "element_type": "text",
+          "text": "W zakresie wynagrodzeń zmiennych stosuje się w BGK następujące zasady:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p115_b2",
+          "page": 115,
+          "element_type": "list",
+          "text": "- zmienne wynagrodzenie nie może stanowić więcej niż 100% części stałej wynagrodzenia w danym roku.\n- niedoroczona część wynagrodzenia uzupełniającego stanowi 60% podstawy, natomiast odroczeniu podlega 40% podstawy.\n- okres odroczenia w przypadku zidentyfikowanych pracowników pełniących funkcje członków Zarządu wynosi 36 miesięcy - zgodnie z art. IIa Ustawy o BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p115_b3",
+          "page": 115,
+          "element_type": "text",
+          "text": "Z uwagi na formę prawnę BGK (bank państwowy) i charakter prowadzonej działalności, bank nie dokonuje wypłaty zmiennej części wynagrodzenia w akcjach i instrumentach innych niż akcje.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p115_b4",
+          "page": 115,
+          "element_type": "subsection-header",
+          "text": "Komitety",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p115_b5",
+          "page": 115,
+          "element_type": "text",
+          "text": "W 2024 roku w BGK funkcjonowało 11 Komitetów powołanych przez Zarząd. Dwa z nich - Komitet Finansowy Banku oraz Komitet Kredytowy Banku - mają charakter obligacyjny. Pozostałe zajmują się określonymi przez Zarząd obszarami działalności BGK. Komitety są kolegialnym ciałami opiniodawczymi oraz decyzyjnymi i działają na podstawie regulaminów uchwałanych przez Zarząd.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p115_b6",
+          "page": 115,
+          "element_type": "picture",
+          "text": "Budynek banku BGK z charakterystycznym znakiem BGK (duże litery B, G, K) na dachu, czarno-biała fotografia, widok na nowoczesny budynek z przeszkleniami i metalową konstrukcją.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 116,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p116_b0",
+          "page": 116,
+          "element_type": "caption",
+          "text": "Tabela 66. Główne zadania Komitetów BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p116_b1",
+          "page": 116,
+          "element_type": "other",
+          "text": "Legenda: GRI 2-14 (znacznik czerwony), TCFD 1.B (znacznik niebieski)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p116_b2",
+          "page": 116,
+          "element_type": "table",
+          "text": "Tabela głównych zadań Komitetów BGK w modelu tworzenia wartości.\n\n| Kapitał w modelu tworzenia wartości | Komitet | Główne zadania komitetu |\n|---|---|---|\n| | Komitet Finansowy Banku | Podstawowym celem działalności Komitetu jest określenie bieżącej, średnio- i długoterminowej polityki zarządzania aktywami i pasywami banku. Ma ona na celu optymalizację wyników oraz efektywną alokację kapitału banku, przy uwzględnieniu adekwatnego poziomu ekspozycji na ryzyko bankowe oraz charakteru zadań realizowanych przez BGK w ramach prowadzonej obsługi funduszów utworzonych, prowadzonych lub przekazanych na opiekę oddzielnym ustawom, bądź innym celom prawnych. Komitet pełni również funkcje Komitetu Polityki Inwestycyjnej, którego zakres kompetencji obejmuje między innymi opiniowanie wysokowaartościowych inwestycji oraz opiniowanie/ wydawanie decyzji w zakresie inwestycji generujących wysokii poziom ryzyka. Do zadań Komitetu należą: • zarządzanie poziomem ryzyka rynkowego i płynności banku oraz zyciem kontrahenta; • opiniowanie działań podejmowanych w zakresie zarządzania kapitałem; • opiniowanie działań podejmowanych w zakresie inwestycji prowadzonych przez bank i dokonywanych na własny rachunek i opiniowanie polityki inwestycyjnej oraz strategii inwestycyjnej banku; • kształtowanie pozadanej struktury aktywów i pasywów banku w celu zapewnienia odpowiedniego poziomu dochoodności przy optymalizacji poziomu poniesionego ryzyka. |\n| | Komitet Kredytowy Banku | Komitet pełni funkcje organu decyzyjnego w zakresie produktów obarczonych ryzykiem kredytowym z obszaru działalności własnej i zleconej BGK. Komitet podejmuje decyzje w sprawach kredytowych, restrukturyzacyjnych i windykacyjnych. Pełni kluczową rolę w zapewnieniu odpowiedniej kontroli ryzyka oraz stabilności portfela kredytowego. Do zadań Komitetu należą: • podejmowanie decyzji w sprawie wniosków kredytowych oraz dotyczących czynności restrukturyzacyjnych, windykacyjnych i przejmowania składników majątkowych. • wyrażanie opinii kierunkowej w sprawie dalszego zaangażowania banku w transakcje. • podejmowanie decyzji w zakresie zaangażowań dotyczących udzielania oraz wypłaty repozecji na rzecz funduszyn poreczeniowych. • dokonywanie kwartarnych przeglądów portfela kredytowego i podejmowanie decyzji w sprawie klasyfikacji do odpowiednich kategorii ryzyka inwestycyjnego. • opiniowanie/akceptacja zmian procedur produktowych, raportów. • udzielanie i zarządzanie limitami ryzyka gwarancji |\n| | Komitet Ryzyka Operacyjnego i Kontroli Wewnętrznej Banku | Komitet został powołany w celu zapewnienia efektywnego zarządzania ryzykiem operacyjnym i ryzykiem braku zgodności oraz obszarem funkcji kontroli w organizacji. Do zadań Komitetu należą: • inicjowanie oraz koordynowanie działań w zakresie identyfikacji, oceny i kontroli ryzyka operacyjnego, ryzyka braku zgodności i ryzyka utraty reputacji. • opiniowanie poziomu limitów ograniczających ryzyko operacyjne. • nadzór nad procesem tworzenia/rozwiązania rezerw z tytułu ryzyka operacyjnego. |\n| | Komitet Zmian Banku | Podstawowym celem działalności Komitetu jest zarządzanie portfelem projektów, programów i inicjatyw, w szczególności zapewnienie realizacji przedsięwzięć zgodnie ze strategią banku. Komitet pełni również funkcje Komitetu Produktowego. Do zadań Komitetu należą: • zarządzanie portfelem zmian, zapewnianie zgodności ze strategią banku. • zarządzanie architekturą produktów i procesami produktowymi. • nadzorowanie optymalizacji procesowych. • łączenie obszaru biznesu i technologii informacyjnej |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 117,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p117_b0",
+          "page": 117,
+          "element_type": "picture",
+          "text": "Ikona przedstawiająca osobę z symbolem zatwierdzenia, reprezentująca Komitet Autoryzacji Wydatków.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b1",
+          "page": 117,
+          "element_type": "subsection-header",
+          "text": "Komitet Autoryzacji Wydatków",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p117_b2",
+          "page": 117,
+          "element_type": "text",
+          "text": "Podstawowym celem Komitetu jest zapewnienie wysokiej efektywności kosztowej w działalności bieżącej oraz projektowej wspierającej realizację strategii banku. Do zadań Komitetu należą:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b3",
+          "page": 117,
+          "element_type": "list",
+          "text": "- optymalizacja procesów związanych z wydatkowaniem środków na realizację inicjatyw i działań banku o znacznej wartości,\n- analiza i ocena efektywności kosztowej oraz wydawanie zaleceń odnośnie do optymalizacji kosztowej,\n- rekomendowanie i wspieranie działań związanych z alternatywnymi sposobami wydatkowania,\n- monitorowanie poziomu wydanych autoryzacji przyznanych w ramach budżetów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b4",
+          "page": 117,
+          "element_type": "picture",
+          "text": "Ikona przedstawiająca osoby i symbol danych, reprezentująca Komitet Data Governance.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b5",
+          "page": 117,
+          "element_type": "subsection-header",
+          "text": "Komitet Data Governance",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p117_b6",
+          "page": 117,
+          "element_type": "text",
+          "text": "Celem działalności Komitetu jest sprawowanie nadzoru i kontroli nad procesami Data Governance banku zgodnie z obowiązującymi regulacjami zewnętrznymi oraz przepisami wewnętrznymi banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b7",
+          "page": 117,
+          "element_type": "list",
+          "text": "- określenie celów i działań związanych z procesami Data Governance,\n- zarządzanie i nadzór nad procesami kontroli jakości danych wraz z ich monitorowaniem oraz nadzór nad utrzymywaniem odpowiedniej Architektury danych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b8",
+          "page": 117,
+          "element_type": "picture",
+          "text": "Ikona przedstawiająca osoby i symbol koła zębatego, reprezentująca Komitet Zarządzania Modelami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b9",
+          "page": 117,
+          "element_type": "subsection-header",
+          "text": "Komitet Zarządzania Modelami",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p117_b10",
+          "page": 117,
+          "element_type": "text",
+          "text": "Podstawowym celem działalności Komitetu jest sprawowanie nadzoru i kontroli nad wszystkimi modelami w BGK, w tym podejmowaniem działań w zakresie zarządzania modelami oraz raportowaniem ryzyka modeli dla Zarządu i Rady Nadzorczej oraz Komitetu ds. Ryzyka. Do zadań Komitetu należą:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b11",
+          "page": 117,
+          "element_type": "list",
+          "text": "- opiniowanie modeli nieistotnych i istotnych i wydawanie zaleceń,\n- akceptacja i monitoring działań zaradzających lub naprawczych do modeli,\n- opiniowanie i akceptacja raportów ryzyka modeli oraz opiniowanie zasad zarządzania modelami,\n- sprawowanie nadzoru i kontroli nad procesem walidacji w banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b12",
+          "page": 117,
+          "element_type": "picture",
+          "text": "Ikona przedstawiająca osobę i symbol budynku, reprezentująca Komitet Architektury Banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b13",
+          "page": 117,
+          "element_type": "subsection-header",
+          "text": "Komitet Architektury Banku",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p117_b14",
+          "page": 117,
+          "element_type": "text",
+          "text": "Głównym celem Komitetu jest zapewnienie przyjęcia dyscypliny rozwoju opartego na architekturze korporacyjnej. Architektura ta jest katalizatorem komunikacji między biznesową, technologiczną i projektową częścią organizacji. Zapewnia wspólną platformę porozumienia tych obszarów i wspiera je w codziennej działalności. Do zadań Komitetu należą:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b15",
+          "page": 117,
+          "element_type": "list",
+          "text": "- zarządzanie lądem architektonicznym,\n- poprawa poziomu dyscypliny i dojrzałości architektonicznej w organizacji,\n- ustanawianie i utrzymanie powiązania pomiędzy wdrożeniem architektury, strategią architektoniczną i celami zawartymi w architekturze korporacyjnej a celami strategicznymi biznesu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b16",
+          "page": 117,
+          "element_type": "picture",
+          "text": "Ikona przedstawiająca osoby, symbol kuli ziemskiej i liść, reprezentująca Komitet ESG.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b17",
+          "page": 117,
+          "element_type": "subsection-header",
+          "text": "Komitet ESG",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p117_b18",
+          "page": 117,
+          "element_type": "text",
+          "text": "Komitet ESG ma na celu koordynacje działań banku w zakresie zrównoważonego rozwoju, zarządzania czynnikami i ryzykiem ESG oraz rozwoju centrum kompetencji ESG. Komitet wspiera też rozwój instrumentów zrównoważonego finansowania, metod klasyfikacji produktów jako zrównoważonych i dba o efektywność systemu raportowania ESG. Od maja komitet spotyka się w dwóch składach: z Radą jeden podemuje sprawy dotyczące instrumentów zrównoważonego finansowania, a drugi sprawy niedostatecze powiązane z tymi instrumentami. Do zadań Komitetu ESG należą m.in:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b19",
+          "page": 117,
+          "element_type": "list",
+          "text": "- podejmowanie decyzji dotyczących działań w zakresie zrównoważonego rozwoju i ESG oraz rekomendowanie Zarządowi decyzji kierunkowych, organizacyjnych i strategicznych,\n- opiniowanie i decydowanie o działaniach zmierzających do utrzymania ryzyka ESG dla dobrostanu biznesu i inwestycyjnego poziomu,\n- przyjęcie metodologii wyznaczania i zasad monitorowania limitu ryzyka ESG w banku,\n- ocena i przegląd aktywów pod kątem ramowych kryteriów kwalifikowalności z uwzględnieniem oceny powiązanych ryzyk ESG,\n- wspieranie działań podnoszących świadomość pracowników banku w zakresie zrównoważonego rozwoju, ESG i przeciwdziałania greenwashingowi.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p117_b20",
+          "page": 117,
+          "element_type": "footnote",
+          "text": "[1] 18.02.2025 r. nastąpiła zmiana nazwy Komitetu, poprzednia nazwa: Komitetu Zarządzania Jakością Danych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 118,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [
+        "Wartości, etyka, zgodność"
+      ],
+      "blocks": [
+        {
+          "block_id": "p118_b0",
+          "page": 118,
+          "element_type": "section-header",
+          "text": "5. Wartości, etyka, zgodność",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p118_b1",
+          "page": 118,
+          "element_type": "subsection-header",
+          "text": "Zasady odpowiedzialnego zarządzania, Kodeks Etyki",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p118_b2",
+          "page": 118,
+          "element_type": "list",
+          "text": "- GRI 3-3 temat: Kultura korporacyjna, etyka, compliance i transparentność informacji\n- GRI 2-23, 2-24, 2-25",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p118_b3",
+          "page": 118,
+          "element_type": "picture",
+          "text": "Fotografia reprezentująca bibliotekę lub archiwum z policami pełnymi książek i dokumentów, symbolizująca przechowywanie wiedzy i regulacji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p118_b4",
+          "page": 118,
+          "element_type": "subsection-header",
+          "text": "Dokumenty regulujące ten obszar w BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p118_b5",
+          "page": 118,
+          "element_type": "list",
+          "text": "- Kodeks Etyki BGK\n- Polityka prezentowa BGK\n- Polityka zarządzania konfliktem interesów w BGK\n- Polityka antykorupcyjna BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p118_b6",
+          "page": 118,
+          "element_type": "text",
+          "text": "Kultura organizacyjna BGK jest silnie zakorzeniona w przyjętych wartościach - otwartości, zespołowości i odpowiedzialności. Przestrzegamy jasno zdefiniowanych zasad etycznych a w codziennych działaniach operamy się na przepisach prawa, społecznej odpowiedzialności biznesu i transparentności.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p118_b7",
+          "page": 118,
+          "element_type": "text",
+          "text": "Opis naszych wartości, zasad i standardów zawartych w Kodeksie Etyki BGK, jego zapis obowiązuje każdego pracownika organizacji i są fundamentem dla tworzenia oraz utrzymywania relacji zewnętrznych i wewnętrznych BGK. W naszej działalności stosujemy również normy wynikające z Kodeksu Etyki Bankowej przyjetego przez Związek Banków Polskich.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p118_b8",
+          "page": 118,
+          "element_type": "caption",
+          "text": "Wybrane obszary uregulowane w Kodeksie Etyki BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p118_b9",
+          "page": 118,
+          "element_type": "picture",
+          "text": "Zestaw ikon symbolizujących zasady etyki i zgodności w BGK: równe traktowanie, przeciwdziałanie korupcji, zgłaszanie naruszeń, bezpieczeństwo pracy, zarządzanie konfliktem interesów, ochrona danych osobowych, zasady postępowania ze skargami klientów, przeciwdziałanie dyskryminacji i mobbingowi, wręczanie i przyjmowanie prezentów biznesowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p118_b10",
+          "page": 118,
+          "element_type": "text",
+          "text": "Promujemy kulturę etyczną wśród pracowników. Co roku zapraszamy ich na szkolenia i wdrażanie podnoszące wrażliwość na naszym działaniu. W 2024 r. zaorganizowaliśmy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p118_b11",
+          "page": 118,
+          "element_type": "list",
+          "text": "- ankietę badającą poziom świadomości etycznej, która objęła 39 komórek organizacyjnych banku reprezentujących wszystkie obszary działalności BGK.\n- obowiązkowe szkolenie e-learningowe na temat przepisów wewnętrznych dotyczących etyki i compliance.\n- szkolenia adaptacyjne dla nowych pracowników.\n- liczne spotkania warsztatowe, szkolenia i inicjatywy promujące zagadnienia compliance (Newsletter Compliance, Akademia Koordynatorów Ryzyka, Letnia Akademia BGK, spotkania Departamentu Zgodności z Regionami).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 119,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p119_b0",
+          "page": 119,
+          "element_type": "caption",
+          "text": "Tabela 67. Frekwencja na szkoleniu z obszaru etycznego (w 2024 r. było to szkolenie z zakresu: Polityki zgodności BGK, Polityki zarządzania konfliktem interesów BGK, Kodeksu etyki BGK, Procedury zgłaszania naruszeń BGK)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b1",
+          "page": 119,
+          "element_type": "table",
+          "text": "Frekwencja szkoleń z obszaru etycznego w latach 2023–2024.\n\n| | 2024 | 2023 |\n|---|---|---|\n| Zarząd banku | 100% | 100% |\n| Kadra menedżerska | 73% | 91% |\n| Pracownicy | 94% | 94% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b2",
+          "page": 119,
+          "element_type": "subsection-header",
+          "text": "Zgodność z regulacjami",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p119_b3",
+          "page": 119,
+          "element_type": "list",
+          "text": "- GRI 2-27, 206-1, 418-1",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b4",
+          "page": 119,
+          "element_type": "text",
+          "text": "W 2024 r. w banku nie zidentyfikowaliśmy istotnych przypadków niezgodności z przepisami prawa, standardami rynkowymi ani przepisami wewnętrznymi, skutkującymi nałożeniem sankcji prawnych. Nie odnotowaliśmy również ukazadnionych skarg dotyczących przechowywania danych osobowych naszych klientów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b5",
+          "page": 119,
+          "element_type": "text",
+          "text": "Zidentyfikowaliśmy 17 incydentów bezpieczeństwa informacji, które skutkowały naruszeniem ochrony danych osobowych klientów lub osób ich reprezentujących, wymagających dokonania zgłoszenia do organu nadzoru (Prezesa UODO).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b6",
+          "page": 119,
+          "element_type": "text",
+          "text": "22 listopada 2023 r. KNF wszczęła postępowanie administracyjne w przedmiocie nałożenia kary na BGK na podstawie art. 176i ust. 1 pkt 4 ustawy o obrocie instrumentami finansowymi. W momencie przygotowywania niniejszego raportu jej est możliwe oszacowanie, czy na bank zostanie nałożona kara ani rzetelne oszacowanie jej potencjalnej wysokości. Zakończenie postępowania administracyjnego planowane jest do kwietnia 2025 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b7",
+          "page": 119,
+          "element_type": "text",
+          "text": "W 2024 r. przeciwko bankowi nie były prowadzone postępowania dotyczące orzeczenia konfliktu, w tym zagrożeń interesów konsumentów ani stosowania niedozwolonych postanowień we wzorcach umów. BGK, działając w zgodzie ze swoją misją, pełni rolę integracyjną i uzupełniającą w zakresie wsparcia dla przedsiębiorców; nasza działalność nie ma na celu konkurowania z innymi bankami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b8",
+          "page": 119,
+          "element_type": "subsection-header",
+          "text": "Przeciwdziałamy korupcji",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p119_b9",
+          "page": 119,
+          "element_type": "list",
+          "text": "- GRI 205-1, 205-2, 205-3    • SDG 16",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b10",
+          "page": 119,
+          "element_type": "picture",
+          "text": "Fotografia półki z książkami w bibliotece, widok pionowy z książkami ustawionymi obok siebie, czarno-białe zdjęcie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b11",
+          "page": 119,
+          "element_type": "text",
+          "text": "Nie tolerujemy korupcji i nadużyć finansowych. Stanowczo przeciwstawiamy się oszustwom, wyłudzeniom, kradzieżom i fałszerstwom. w tym składaniu nieprawdziwych oświadczeń przy występowaniu do celów osobistych aktywów banku. w tym informacji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b12",
+          "page": 119,
+          "element_type": "text",
+          "text": "Wprowadziliśmy ograniczenia w zakresie przyjmowania i wręczania przez pracowników prezentów, a także udziału w spotkaniach okolicznościowych. Zgodnie z naszymi zasadami, każdy z takich sytuacji nie może wyrosnąć konflikt interesów. ani wpływać na obiektywizm, bezstronność i niezależność pracownika. Korzystając wręczone, przyjęte oraz udzielniające określony limit kwotowo są ewidencjonowane w Rejestrze prezentów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p119_b13",
+          "page": 119,
+          "element_type": "text",
+          "text": "Na bieżąco także monitorujemy operacje powiązane z ryzykiem korupcji, w tym operacje w ramach procesu AML oraz rozliczenia finansowe zarejestrownie w systemach banku. W 2024 r. nie stwierdziliśmy przypadków korupcji w naszej organizacji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 120,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p120_b0",
+          "page": 120,
+          "element_type": "caption",
+          "text": "Tabela 68. Frekwencja na szkoleniu z zagadnień antykorupcyjnych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b1",
+          "page": 120,
+          "element_type": "table",
+          "text": "Frekwencja pracowników banku na szkoleniach z zagadnień antykorupcyjnych w 2024 i 2023 roku.\n\n| Zarząd banku | 100% | 100% |\n|---|---|---|\n| Kadra menedżerska | 80% | 90% |\n| Pracownicy | 97% | 94% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b2",
+          "page": 120,
+          "element_type": "text",
+          "text": "O zasadach antykorupcyjnych przypominamy pracownikom banku podczas szkoleń oraz w komunikacji wewnętrznej. Wszyscy pracownicy są zobowiązani do zgłaszania naruszeń, w tym potencjalnych, związanych z korupcją, nadużyciami lub konfliktem interesów w ramach systemu whistleblowing.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b3",
+          "page": 120,
+          "element_type": "text",
+          "text": "Przestrzegamy zasad antykorupcyjnych ocekujemy także od partnerów biznesowych. W umowach wdrażamy klauzule antykorupcyjne, za pośrednictwem których informujemy kontrolentów o naszych standardach.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b4",
+          "page": 120,
+          "element_type": "other",
+          "text": "Ikona globu z tekstem ZOBACZ WIĘCEJ",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b5",
+          "page": 120,
+          "element_type": "text",
+          "text": "Dodatkowe informacje o naszym podejściu do relacji z dostawcami znajdują się w Kodeksie postępowania dla Partnerów Biznesowych BGK dostępnym na stronie internetowej banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b6",
+          "page": 120,
+          "element_type": "subsection-header",
+          "text": "KYC – Know Your Customer",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p120_b7",
+          "page": 120,
+          "element_type": "text",
+          "text": "Priorytetowo traktujemy ochronę klientów oraz systemu finansowego przed przestępstwami finansowymi i gospodarczymi. Ścisłe przestrzegamy w tym zakresie przepisów prawa oraz naszych wewnętrznych regulacji. Wdrożyliśmy m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b8",
+          "page": 120,
+          "element_type": "list",
+          "text": "- dokładną analizę profilu klienta,\n- nałożytą staranność podczas ustalenia struktury własności i kontroli klienta oraz identyfikacji beneficjenta rzeczywistego,\n- zasadę utrzymywanie relacji wylącznie z klientami i partnerami biznesowymi po przeprowadzeniu dokładnej analizy ryzyka AML,\n- zakaz zawarienia relacji dotyczących jakiekolwiek formie nielegalnej działalności. w tym praniu pieniędzy, finansowaniu terroryzmu lub rozprzestrzeniania broni masowego rażenia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b9",
+          "page": 120,
+          "element_type": "text",
+          "text": "Dodatkowe wymogi przestrzegane przez bank w procesie KYC opisane zostały w sekcji Przeciwdziałamy praniu pieniędzy i finansowaniu terroryzmu (AML/CFT) oraz Przestrzegamy sankcji międzynarodowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b10",
+          "page": 120,
+          "element_type": "subsection-header",
+          "text": "Przeciwdziałamy praniu pieniędzy oraz finansowaniu terroryzmu (AML/CFT)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p120_b11",
+          "page": 120,
+          "element_type": "picture",
+          "text": "Zdjęcie półki z książkami w bibliotece, czarno-białe fotografie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b12",
+          "page": 120,
+          "element_type": "text",
+          "text": "Osoby odpowiedzialne za realizację kluczowych zadań z obszaru przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu są członkami kadry kierowniczej wyższego szczebla i zostały wyznaczone przez Zarząd Banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b13",
+          "page": 120,
+          "element_type": "other",
+          "text": "Ikona otwartej książki z tekstem Dokumenty regulujące ten obszar w BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b14",
+          "page": 120,
+          "element_type": "list",
+          "text": "- Zasady przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu (Procedura AML)\n- Zasady Poznaj Swojego Klienta\n- Procedura grupowa w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b15",
+          "page": 120,
+          "element_type": "text",
+          "text": "Wewnętrzna Procedura AML jest stosowana we wszystkich obszarach działalności banku. Jednym z jej kluczowych elementów są środki bezpieczeństwa, w tym: identyfikacja i weryfikacja klienta, identyfikacja i weryfikacja beneficjenta rzeczywistego, nadawanie odpowiedniej grupy ryzyka AML oraz analiza profilu transakcyjnego klienta. Dochowujemy należytej staranności podczas ustalenia struktury własności i kontroli klienta.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b16",
+          "page": 120,
+          "element_type": "text",
+          "text": "Przy nawiązywaniu relacji z klientem bierzemy pod uwagę czynniki, które mogą wpłynąć na ryzyko utraty reputacji. Stosujemy wzmożone środki bezpieczeństwa finansowego w przypadku:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p120_b17",
+          "page": 120,
+          "element_type": "list",
+          "text": "- relacji i transakcji, które mogą wiązać się z wyższym ryzykiem prania pieniędzy lub finansowania terroryzmu, szczególnie w stosunku do transparentnych relacji z instytucjami będącymi korespondentami z państw innych niż państwa członkowskie UE oraz w stosunku do osób zamujących ekspnowane stanowiska polityczne.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 121,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p121_b0",
+          "page": 121,
+          "element_type": "list",
+          "text": "- gdy relacja lub transakcja klienta wiąże się z:\n- krajami trzecimi wysokiego ryzyka.\n- krajami określonymi przez wiarygodne źródła jako kraje o wysokim poziomie korupcji lub innego rodzaju działalności przestępczej.\n- krajami finansującymi lub wspierającymi popełnianie czynów o charakterze terrorystycznym, lub z którymi łączono jest działalność organizacji o charakterze terrorystycznym.\n- krajami, w stosunku do których ONZ lub Unia Europejska podjęła decyzję o nałożeniu sankcji lub szczególnych środków ograniczających.\n- nawiązywania stosunków gospodarczych z podmiotem mającym siedzibę lub utworzonym w kraju wymienionym w Załączniku I (tzw. czarna lista) lub w Załączniku II (tzw. szara lista) do uniżego wykazu jurysdykcji niewspółpracujących dla celów podatków.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p121_b1",
+          "page": 121,
+          "element_type": "text",
+          "text": "Problematyka związana z przeciwdziałaniem praniu pieniędzy oraz finansowaniu terroryzmu i ochrony danych osobowych jest przedmiotem regularnych szkoleń organizowanych dla pracowników banku. Realizacja procedury przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu przebiega również w oparciu o kontrole uprawnionych organów zewnętrznych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p121_b2",
+          "page": 121,
+          "element_type": "subsection-header",
+          "text": "Przestrzegamy sankcji międzynarodowych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p121_b3",
+          "page": 121,
+          "element_type": "text",
+          "text": "BGK przestrzega zapisów obowiązującej od 2022 roku Ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego. Celem regulacji jest uszczelnienie sankcji przyjętych wobec Rosji i Białorusi przez UE. Wypełniając ustawowe obowiązki, monitorujemy sankcje nakładane m.in. przez:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p121_b4",
+          "page": 121,
+          "element_type": "list",
+          "text": "- Unię Europejską.\n- Ministerstwo Spraw Wewnętrznych i Administracji (sankcje krajowe, polska lista sankcyjna).\n- Organizacje Narodów Zjednoczonych.\n- GIIF.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p121_b5",
+          "page": 121,
+          "element_type": "text",
+          "text": "W BGK na bieżąco jest realizowany proces skanowania z listami sankcyjnymi stron transakcji (zleceniodawca, beneficjent rzeczywisty, bank zleceniodawcy, bank beneficjenta, bank pośredniczący) oraz ich tytułów w celu zapewnienia, że realizowane transakcje nie naruszają obowiązujących sankcji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p121_b6",
+          "page": 121,
+          "element_type": "text",
+          "text": "W roku 2024 w banku zostało przeanalizowanych łącznie 115 266 transakcji, z czego 490 transakcji poddano szczegółowej analizie. 76 transakcji zostało odrzuconych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p121_b7",
+          "page": 121,
+          "element_type": "text",
+          "text": "Bank weryfikuje transakcje w oparciu o 39 list sankcyjnych zaimplementowanych w specjalistycznym narzędziu analitycznym, a najważniejsze to:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p121_b8",
+          "page": 121,
+          "element_type": "list",
+          "text": "- Polska lista sankcyjna.\n- Europejska lista sankcyjna.\n- OFAC - Biuro ds. Kontroli Majątku Zagranicznego Departementu Skarbu USA.\n- OFSI - brytyjskie biuro ds. sankcji finansowych.\n- FinCEN - Financial Crimes Enforcement Network USA.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p121_b9",
+          "page": 121,
+          "element_type": "text",
+          "text": "Aby skutecznie zapobiegać praniu pieniędzy oraz przestrzegać sankcji międzynarodowych, w BGK nie urzumiemy relacji z bankami fikcyjnymi oraz osobami podmiotu które siedziby czy postanymi objelam sankcjami finansowymi UE. Nie współpracujemy też z podmiotami, których wszystkie sposoby reprezentujące się przed sankcjami finansowymi (np. [chyba) ze są wynika to wprost z regulacji)), a tym w szczególności z podmiotami, których siedzibu, miejsce zamieszania osób reprezentujących, miejsce prowadzenia działalności gospodarcze) lub inne okoliczności wskazują na jakiekolwiek powiązania z Koreą Północną lub Iranem, oraz podmiotami, których siedzibu lub miejsce zamieszania osób reprezentujących znajduje się na terytorium Syrii, Wenezueli lub Kuby.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 122,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p122_b0",
+          "page": 122,
+          "element_type": "subsection-header",
+          "text": "Zgłaszanie naruszeń",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p122_b1",
+          "page": 122,
+          "element_type": "other",
+          "text": "Etykieta GRI 2-26 oznaczająca obszar raportowania.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b2",
+          "page": 122,
+          "element_type": "picture",
+          "text": "Ikona książki otwartej obok tekstu \"Dokumenty regulujące ten obszar w BGK\", biblioteka widoczna w tle fotografii.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b3",
+          "page": 122,
+          "element_type": "text",
+          "text": "Dokumenty regulujące ten obszar w BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b4",
+          "page": 122,
+          "element_type": "list",
+          "text": "- Procedura zgłaszania naruszeń w BGK\n- Procedura zgłaszania naruszeń przez osoby zewnętrzne w BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b5",
+          "page": 122,
+          "element_type": "text",
+          "text": "Umożliwiamy pracownikom imienne lub anonimowe informowanie nas o działaniach niezgodnych z prawem, przepisami wewnętrznymi, przyjętymi zasadami lub standardami etycznymi obowiązującymi w banku. Informacje można przekazywać:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b6",
+          "page": 122,
+          "element_type": "list",
+          "text": "- za pośrednictwem anonimowej platformy internetowej,\n- pocztą tradycyjną,\n- osobiście do wyznaczonego grona osób w banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b7",
+          "page": 122,
+          "element_type": "text",
+          "text": "Informacje przyjmujemy też od osób, które nie są pracownikami BGK. Mogą one poinformować nas o naruszeniu poprzez anonimową platformę internetową, przeznaczoną do tego adresy e-mail, pisemnie na adres siedziby banku lub osobiście. Szczególnie dołączać sposób dokonywania zgłoszeń przez osoby zewnętrzne opublikowaliśmy na stronie internetowej banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b8",
+          "page": 122,
+          "element_type": "text",
+          "text": "Wszystkie zgłoszenia są weryfikowane. Jeśli potwierdzone zostanie występienia naruszenia, podejmujemy stosowne działania naprawcze oraz prewencyjne w celu zapobiagania powiększeniu się analogicznych sytuacji w przyszłości. Gwarantujemy sygnalistom pełność tosamości i przekazanych w zgłoszeniu, ochronę danych osobowych, a także ochronę przed działaniami odwetowymi. Ochronę objęta jest również tożsamość osoby, której dotyczą zgłoszenie. Odbiorem zgłoszeń oraz prowadzeniem działań następczych zajmują się wylączni pracownicy posiadający pisemne upoważnienie BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b9",
+          "page": 122,
+          "element_type": "caption",
+          "text": "Tabela 69. Zgłoszenia w ramach systemu whistleblowing",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b10",
+          "page": 122,
+          "element_type": "table",
+          "text": "Liczba zgłoszeń w ramach systemu whistleblowing w latach 2023 i 2024.\n\n| Całkowita liczba zgłoszeń | 2024 | 2023 |\n|---|---|---|\n| | 20 | 10 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b11",
+          "page": 122,
+          "element_type": "text",
+          "text": "W 2024 r. dostosowaliśmy nasze przepisy wewnętrzne oraz narzędzie do zgłaszania naruszeń do wymogów Ustawy o ochronie sygnalistów. Zgodnie z przepisami wewnętrznymi przyjmujemy je razu w roku Rada Nadzorcza ocenia adekwatność i skuteczność procedury anonimoweid zgłaszania naruszeń. Przeprowadziliśmy też obowiązkowe szkolenie dla pracowników dotyczące systemu zgłaszania naruszeń, w którym frekwencja wyniosła 96%.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b12",
+          "page": 122,
+          "element_type": "subsection-header",
+          "text": "Zarządzamy konfliktami interesów",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p122_b13",
+          "page": 122,
+          "element_type": "other",
+          "text": "Etykieta GRI 2-15 oznaczająca obszar raportowania.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b14",
+          "page": 122,
+          "element_type": "picture",
+          "text": "Ikona książki otwartej obok tekstu \"Dokumenty regulujące ten obszar w BGK\", biblioteka widoczna w tle fotografii.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b15",
+          "page": 122,
+          "element_type": "text",
+          "text": "Dokumenty regulujące ten obszar w BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b16",
+          "page": 122,
+          "element_type": "list",
+          "text": "- Polityka zarządzania konfliktami interesów\n- Polityka przeciwdziałania konfliktom interesów w ramach świadczenia usług inwestycyjnych lub usług dodatkowych\n- Zasady przyjmowania i przekazywania świadczeń pieniężnych i niepieniężnych (\"Lao. zachet\")",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b17",
+          "page": 122,
+          "element_type": "text",
+          "text": "Podejmujemy niezbędne działania, dążąc do unikania konfliktów interesów, a w przypadku gdy się pojawią - odpowiednio nimi zarządzamy. W celu przeciwdziałania konfliktom interesów pracownicy są zobowiązani m.in. do zgłoszenia:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p122_b18",
+          "page": 122,
+          "element_type": "list",
+          "text": "- dodatkowej aktywności zawodowej, która wpływa na wystąpienie działalności konkurencyjnej,\n- konfliktu interesów lub potencjalnego konfliktu interesów lub powzięgan (organizacyjnych i osobowych).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 123,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p123_b0",
+          "page": 123,
+          "element_type": "list",
+          "text": "- transakcji osobistych mogących powodować konflikt interesów w sytuacji, gdy pracownik w ramach wykonywanych obowiązków służbowych miałby uprzywilejowaną pozycję w zakresie nabywanych instrumentów finansowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b1",
+          "page": 123,
+          "element_type": "text",
+          "text": "Dodatkowe zasady i tryb podejmowania decyzji przez Zarząd lub Radę Nadzorcza w przypadku występienia konfliktów interesów dotyczących członków organów banku określa Statut BGK. Informacje na temat konfliktów interesów dotyczących członków Zarządu i Rady Nadzorczej są też zamieszczane w prospekcie, a także umowiane w rocznym sprawozdaniu finansowym BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b2",
+          "page": 123,
+          "element_type": "other",
+          "text": "Ikona globu z symbolem zarządzania, oznaczająca sekcję informacyjną.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b3",
+          "page": 123,
+          "element_type": "subsection-header",
+          "text": "ZOBACZ WIĘCEJ",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p123_b4",
+          "page": 123,
+          "element_type": "text",
+          "text": "Polityka zarządzania konfliktem interesów jest dostępna na stronie internetowej banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b5",
+          "page": 123,
+          "element_type": "subsection-header",
+          "text": "Polityka informacyjna BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p123_b6",
+          "page": 123,
+          "element_type": "text",
+          "text": "Systematycznie i w sposób zorganizowany realizujemy politykę informacyjną, dostarczając aktualnych informacji poprzez dostępne publiczne i wewnętrzne kanały komunikacji. Prowadzimy transparentną politykę informacyjną dotyczącą kontaktów z interesariuszami, w tym klientami banku i obligatariuszami, udzielając im jasnych i rzetelnych informacji. Przekazując informacje, kierujemy się zasadami ładu korporacyjnego i zachowujemy odpowiednią ochronę tajemnicy bankowej, tajemnicy zawodowej oraz informacji poufnych czy dotyczące dostępu do informacji publicznej. Należycie wypełniamy także obowiązki wynikające z posiadanego statusu emitenta obligacji dopuszczonych do obrotu na rynkach regulowanych i w alternatywnych systemach obrotu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b7",
+          "page": 123,
+          "element_type": "text",
+          "text": "Za współpracę informacyjną z mediami odpowiedzialny jest rzecznik prasowy banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b8",
+          "page": 123,
+          "element_type": "other",
+          "text": "Ikona globu z symbolem zarządzania, oznaczająca sekcję informacyjną.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b9",
+          "page": 123,
+          "element_type": "subsection-header",
+          "text": "ZOBACZ WIĘCEJ",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p123_b10",
+          "page": 123,
+          "element_type": "text",
+          "text": "Polityka informacyjna oraz raporty bieżące i okresowe publikowane są na stronie internetowej banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b11",
+          "page": 123,
+          "element_type": "subsection-header",
+          "text": "Polityka podatkowa",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p123_b12",
+          "page": 123,
+          "element_type": "picture",
+          "text": "Dwie fotografie pokazujące wnętrze biblioteki z półkami na książki - zdjęcie po lewej stronie przedstawia światłą przestrzeń, zdjęcie po prawej stronie pokazuje ciemniejszy obszar biblioteki.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b13",
+          "page": 123,
+          "element_type": "other",
+          "text": "Ikona otwartej książki, reprezentująca dokument lub politykę.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b14",
+          "page": 123,
+          "element_type": "text",
+          "text": "Dokument regulujący ten obszar w BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b15",
+          "page": 123,
+          "element_type": "list",
+          "text": "- Strategia podatkowa BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b16",
+          "page": 123,
+          "element_type": "text",
+          "text": "GRI 207-1",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b17",
+          "page": 123,
+          "element_type": "text",
+          "text": "BGK rzetelnie i terminowo odprowadza wszystkie należne podatki. Realizując strategię podatkową uchwaloną przez Radę Nadzorczą działamy zgodnie z wdrożonymi procedurami i instrukcjami. BGK stosuje ostrożne i transparentne podejście we wszystkich aspektach rozliczeń, a kontrola obowiązków podatkowych spoczywą na Zarządzie oraz kierownictwie naszej organizacji. Szczególną rolę w tym zakresie pełnią komitety powołane przez Zarząd, które koncentrują się na zagadnieniach finansowych oraz podatków. W szczególności w zakresie istotnych transakcji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b18",
+          "page": 123,
+          "element_type": "text",
+          "text": "W 2024 r. łączne obciążenie podatkowe (tzw. Total Tax Contribution) BGK na terytorium Polski wyniosło I 060 mln zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p123_b19",
+          "page": 123,
+          "element_type": "text",
+          "text": "Bank publikuje informacje o sprawach podatkowych w dorocznej informacji o realizowanej strategii podatkowej ogłaszanej na stronie internetowej banku. Informacja o realizowanej strategii podatkowej za 2024 r. zostanie opublikowana do 31 grudnia 2025 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 124,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p124_b0",
+          "page": 124,
+          "element_type": "subsection-header",
+          "text": "Łańcuch wartości - relacje z kontrahentami",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p124_b1",
+          "page": 124,
+          "element_type": "other",
+          "text": "Identyfikator GRI 2-6, 308-1 oznaczony czerwoną kropką.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b2",
+          "page": 124,
+          "element_type": "picture",
+          "text": "Ikona książki otwartej z półkami, symbolizująca dokumenty i wiedzę.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b3",
+          "page": 124,
+          "element_type": "text",
+          "text": "Dokumenty regulujące ten obszar w BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b4",
+          "page": 124,
+          "element_type": "list",
+          "text": "- Kodeks postępowania dla partnerów biznesowych\n- Zasady dokonywania zakupów i udzielania zamówień w BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b5",
+          "page": 124,
+          "element_type": "picture",
+          "text": "Fotografia biblioteki z półkami załadowanymi książkami, ilustrująca przechowywanie i organizację informacji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b6",
+          "page": 124,
+          "element_type": "text",
+          "text": "Postępowania zakupowe w naszym banku prowadzimy zawsze w zgodności z przepisami prawa oraz poszanowaniem zasad i standardów zakupowych. Równo traktujemy potencjalnych dostawców i dbamy o konkurencyjność, a jednocześnie efektywność postępowań. Od kontrahentów wymagamy braku tolerancji dla korupcji i nadużyć, zachowania zasad uczciwej konkurencji i przestrzegania prawa antymonopolowego, a także zaobiegania konfliktom interesów oraz terminowego regulowania należności wobec swoich podwykonawców.\n\nUwzględniamy też kwestie zrównoważonego rozwoju włączające do postępowań kryteria środowiskowe społeczne i związane z jakością zarządzania. Przy złożeniu oferty wykonawcowy proszeni są o wypełnienie ankiety CSR, która ulicza się do ogólnej liczby punktów uzyskanych w postępowaniu. Dbamy też o to, aby kontrahenci przestrzegali Kodeksu postępowania dla partnerów biznesowych, który jest dostępniany wszystkim pracownikom personalnym wykonawcom.\n\nW 2024 r. zweryfikowaliśmy pod kątem kryteriów środowiskowym 877% nowych dostawców zamówień o wartości powyżej 10 tys. zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b7",
+          "page": 124,
+          "element_type": "caption",
+          "text": "Tabela 70. Odsetek nowych dostawców, którzy wypełnili ankietę CSR64, w tym odpowiedzieli na pytania dotyczące kryteriów środowiskowych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b8",
+          "page": 124,
+          "element_type": "table",
+          "text": "Zestawienie udziału nowych dostawców wypełniających ankietę CSR w latach 2023-2024.\n\n| Wyszczególnienie | 2024 | 2023 |\n|---|---|---|\n| Liczba wszystkich nowych dostawców | 192 | 200 |\n| Liczba dostawców, którzy zostali poddani ocenie środowiskowej | 185 | 179 |\n| Odsetek dostawców, którzy zostali poddani ocenie środowiskowej | 96,4% | 89,5% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b9",
+          "page": 124,
+          "element_type": "text",
+          "text": "W 2024 r. zrealizowaliśmy 100 postępowań w reżimie ustawy PZP oraz 254 postępowania na podstawie wewnętrznej instrukcji zakupowej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b10",
+          "page": 124,
+          "element_type": "other",
+          "text": "Identyfikator GRI 204-1, 2-6 oznaczony czerwoną kropką.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b11",
+          "page": 124,
+          "element_type": "subsection-header",
+          "text": "Dostawcy i zakupy BGK w 2024 roku",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p124_b12",
+          "page": 124,
+          "element_type": "picture",
+          "text": "Fotografia nowoczesnego budynku biurowego z fasadą z szklanych i metalowych elementów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b13",
+          "page": 124,
+          "element_type": "text",
+          "text": "644 kontrakty, w tym:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b14",
+          "page": 124,
+          "element_type": "text",
+          "text": "617 na dostawy, usługi i produkty",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b15",
+          "page": 124,
+          "element_type": "text",
+          "text": "27 z pośrednikami finansowymi na dystrybucje środków z programów rządowych oraz środków z UE",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b16",
+          "page": 124,
+          "element_type": "text",
+          "text": "344,6 mln zł (98,5%) łączna wartość wydatków dla dostawców krajowych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b17",
+          "page": 124,
+          "element_type": "text",
+          "text": "5,1 mln zł wydatków dla dostawców z UE",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p124_b18",
+          "page": 124,
+          "element_type": "footnote",
+          "text": "[64] Dotyczy dostawców wymienionych w postępowaniach poniżej progu zamówień publicznych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 125,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p125_b0",
+          "page": 125,
+          "element_type": "caption",
+          "text": "Tabela 71. Struktura dostawców w podziale na miejsce rejestracji siedziby dostawcy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b1",
+          "page": 125,
+          "element_type": "table",
+          "text": "Struktura dostawców w podziale na miejsce rejestracji siedziby dostawcy.\n\n| | 2024 | 2023 |\n|---|---|---|\n| Polskn | 96.3% | 96.5% |\n| Unii Europejska | 1.7% | 1.2% |\n| Poza Unią Europejską | 2.0% | 2.3% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b2",
+          "page": 125,
+          "element_type": "caption",
+          "text": "Tabela 72. Odsetek zakupów u lokalnych dostawców (w mln zł)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b3",
+          "page": 125,
+          "element_type": "table",
+          "text": "Odsetek zakupów u lokalnych dostawców w latach 2023-2024.\n\n| | 2024 | 2023 |\n|---|---|---|\n| Suma wydatków organizacji na zakup towarów i usług | 3497 | 4891 |\n| Wydatki na zakup towarów i usług od lokalnych dostawców | 344.6 | 461.2 |\n| Odsetek zakupów u lokalnych dostawców | 98.5% | 95.5% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b4",
+          "page": 125,
+          "element_type": "subsection-header",
+          "text": "Nasze zobowiązania w zakresie praw człowieka",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p125_b5",
+          "page": 125,
+          "element_type": "text",
+          "text": "GRI 2-23, 2-24",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b6",
+          "page": 125,
+          "element_type": "picture",
+          "text": "Ikona otwartej książki lub dokumentu, przedstawiająca system dokumentacji i regulacji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b7",
+          "page": 125,
+          "element_type": "text",
+          "text": "Dokumenty regulujące ten obszar w BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b8",
+          "page": 125,
+          "element_type": "list",
+          "text": "- Kodeks etyki BGK\n- Polityka relacji pracowniczych Szacunek w miejscu pracy\n- Oświadczenie o prawach człowieka BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b9",
+          "page": 125,
+          "element_type": "picture",
+          "text": "Fotografia półki z książkami w bibliotece, przedstawiająca archiwizację dokumentów i wiedzę.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b10",
+          "page": 125,
+          "element_type": "text",
+          "text": "Przestrzegamy powszechnie uznawanych praw oraz wolności człowieka. Kwestia ta zapisana jest w naszej strategii, modelu biznesowym, wewnętrznych regulacjach oraz dokumentach określających relacje z wewnętrznymi interesariuszami. Podjęte w banku inicjatywy oraz nasze przepisy odnoszące się do praw człowieka i praw pracowniczych operamy na nich.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b11",
+          "page": 125,
+          "element_type": "list",
+          "text": "- Międzynarodowej Karcie Praw Człowieka (Powszechnej Deklaracji Praw Człowieka, Międzynarodowym Pakcie Praw Obywatelskich i Politycznych, Międzynarodowym Pakcie Praw Gospodarczych, Społecznych i Kulturalnych).\n- oświadczeń konwencjach wskazanych w Deklaracji Międzynarodowej Organizacji Pracy (MOP) w sprawie podstawowych zasad i praw w pracy.\n- Konwencji ONZ o prawach osób niepełnosprawnych.\n- Wytycznych ONZ dotyczących biznesu i praw człowieka.\n- Wytycznych OECD dla przedsiębiorstw wielonarodowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b12",
+          "page": 125,
+          "element_type": "text",
+          "text": "Poszczególne programy naszego modelu biznesowego oraz dopasowane produkty bankowe wspierają także wybrane Cele Zrównoważonego Rozwoju ONZ. Kluczowe programy, które wspierają zrównoważony rozwój, to:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b13",
+          "page": 125,
+          "element_type": "list",
+          "text": "- Spójność społeczna i terytorialna.\n- Infrastruktura, transport i logistyka.\n- Bezpieczeństwo strategiczne.\n- Ochrona zdrowia.\n- Mieszkalnictwo.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b14",
+          "page": 125,
+          "element_type": "text",
+          "text": "Kwestie dotyczące praw człowieka oraz praw pracowniczych zawarte zostały w dokumentach wewnętrznych, w Kodeksie etyki BGK oraz Polityce różnorodności i szacunku w miejscu pracy. Zagadnienia te opisane zostały w rozdziałach III. Pracownicy oraz VI. 5. Wartości, etyka, zgodność.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p125_b15",
+          "page": 125,
+          "element_type": "footnote",
+          "text": "[1] Dostawca jest rozumiany jako lokalny jeśli prowadzi działalność zarejestrowaną na terenie Rzeczypospolitej Polskiej. Zestawienie uwzględniło proceduowo dostawców mogących przedmiotem jest Polsce.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 126,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [
+        "System kontroli wewnętrznej"
+      ],
+      "blocks": [
+        {
+          "block_id": "p126_b0",
+          "page": 126,
+          "element_type": "section-header",
+          "text": "6. System kontroli wewnętrznej",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p126_b1",
+          "page": 126,
+          "element_type": "text",
+          "text": "W BGK zarządzamy ryzykiem, a adres i podział obowiązków związanych z jego nadzorem są precyzyjnie wyznaczone. Wdrożony w całej organizacji system kontroli wewnętrznej zapewnia wirtualność sprawnością finansowej, skuteczność zarządzania ryzykiem oraz zgodność z prawem, regulacjami wewnętrznymi i standardami rynkowymi. Kontrolujemy nie tylko bank, ale również podmioty zależne, fundacje oraz podmioty wspierające z nami na zasadach outsourcingu. Dodatkowo, ze względu na naszą specyfikę, monitorujemy również pośredników finansowych i banki kredytujące.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p126_b2",
+          "page": 126,
+          "element_type": "text",
+          "text": "Kontrole ryzyka operamy na modelach trzech poziomów (linii obrony).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p126_b3",
+          "page": 126,
+          "element_type": "table",
+          "text": "Trzy linie obrony w systemie kontroli wewnętrznej.\n\n| I linia obrony | II linia obrony | III linia obrony |\n|---|---|---|\n| Obejmuje zarządzanie ryzykiem w działalności operacyjnej i opera się na funkcjonowaniu komórek organizacyjnych, które w bieżącej działalności generują ryzyko wpływające na osiągane założone przez bank cele. | Obejmuje zarządzanie ryzykiem przez pracowników na specjalnie powołanych do tego celu stanowiskach lub w komórkach organizacyjnych (niezależnie od zarządzania ryzykiem w działalności operacyjnej) oraz działalność komórki ds. zgodności (Department Zgodności). Komórki II linii odpowiadają w szczególności za niezależne pionowe monitorowanie procesów realizowanych przez I linię obrony Łącznie II linię obrony stanowi 16 komórek organizacyjnych i stanowisk. | Obejmuje audyt wewnętrzny, który zapewnia niezależne, obiektywne badanie oceny adekwatności i skuteczności systemu zarządzania ryzykiem i systemu kontroli wewnętrznej w banku, powiązanej zależnych i funkcjach. |\n",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p126_b4",
+          "page": 126,
+          "element_type": "text",
+          "text": "Funkcja kontroli jest elementem systemu kontroli wewnętrznej, na którą składają się wszystkie mechanizmy kontrolne w procesach funkcjonujących w banku, niezależnie monitorowanie przestrzegania tych mechanizmów oraz system raportowania.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p126_b5",
+          "page": 126,
+          "element_type": "text",
+          "text": "W II linii obrony działa m.in. Departament Zgodności, podlegający bezpośrednio prezesowi Zarządu. Adres odpowiedzialności Departmentu to m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p126_b6",
+          "page": 126,
+          "element_type": "list",
+          "text": "- zarządzanie ryzykiem braku zgodności i ryzykiem utraty reputacji.\n- wsparcie regulacyjne i doradcze w obszarze rynku finansowego oraz działalności powierniczej.\n- zarządzanie informacją pufną i przeciwdziałanie manipulacjom na rynku (MAR).\n- prowadzenie:\n  - testów zgodności dot. banku., fundacji i podmiotów zależnych (niezależna weryfikacja zgodności regulacyjnej oraz skuteczności wdrożonych mechanizmów kontrolnych).\n  - postępowań wyjaśniających (gdy zgłoszenie dotyczy braku przestrzegania przepisów prawa, obowiązujących w banku procedur lub standardów etycznych (incident braku zgodności/utraty reputacji)).\n  - procedur wysyłających by przypadku powiadomienia o zdarzeniach publikowanych w mediach lub social mediach, które mogłyby mieć potencjalnie negatywny wpływ na ryzyko utraty reputacji banku lub zarządowych obuczycach nauczenia przez pracowników przepisów wetenarch, opracowani standardów rynkowych).\n- niezielny monitoring komunikacji MIFID/WIBOR/WIRON/działalność powiernicz, notatek ze spotkań w bezpośredniej obecności klienta (MIFID i działalność powiernicz), reklamacji w ramach działalności powierniczej, transakcji osobistych pracowników, oświadczeń MAR\n- monitorowanie praktyki i rozwoju standardów rynkowych, także w obszarze AI i ESG.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p126_b7",
+          "page": 126,
+          "element_type": "text",
+          "text": "Niezależność Departmentu Zgodności zapewniona jest dzięki m.in. nadzorowi Komitetu ds. Audytu oraz wymogom akceptacji planów, sprawozdań i zmian na stanowisku dyrektora przez Radę Nadzorczą. Dodatkowo, dyrektor Departmentu ma prawo do nieograniczonego i swobodnego kontaktowania się z członkami Zarządu, Rady Nadzorczej i Komitetu ds. Audytu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 127,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p127_b0",
+          "page": 127,
+          "element_type": "picture",
+          "text": "Ikona otwartej książki w lewym górnym rogu, символizująca dokumentację.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p127_b1",
+          "page": 127,
+          "element_type": "subsection-header",
+          "text": "Dokumenty regulujące ten obszar w BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p127_b2",
+          "page": 127,
+          "element_type": "list",
+          "text": "- Regulamin kontroli wewnętrznej BGK\n- Polityka zgodności BGK\n- Zasady organizacji funkcji kontroli BGK\n- Procedura przeprowadzania testów zgodności i reagowania na incydenty braku zgodności i incydenty ryzyka utraty reputacji BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p127_b3",
+          "page": 127,
+          "element_type": "picture",
+          "text": "Fotografia półek bibliotecznych z książkami, ilustrująca przechowywanie dokumentacji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p127_b4",
+          "page": 127,
+          "element_type": "text",
+          "text": "Niezależne i obiektywne badanie oraz ocenę adekwatności i skuteczności systemów zarządzania ryzykiem i kontroli wewnętrznej zapewnia III linia obrony, czyli pracy Departamentu Audytu Wewnętrznego, podlegającego bezpośrednio przewodniczącemu Zarządu. Pracownicy Departamentu audytują całą działalność BGK, podmiotów zależnych i fundacji działające zgodnie z globalnymi Standardami Audytu Wewnętrznego, wypracowanymi przez Instytut Audytorów Wewnętrznych IIA. Jest potwierdzone cykliczną niezależną oceną wewnętrzną. Ostatnia ocena została wykonana pod koniec 2022 roku i wykazała pełną zgodność ze standardami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p127_b5",
+          "page": 127,
+          "element_type": "text",
+          "text": "W banku wdrożyliśmy mechanizmy zapewniające niezależność komórki audytu - są to m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p127_b6",
+          "page": 127,
+          "element_type": "list",
+          "text": "- nadzór Komitetu ds. Audytu,\n- akceptacja przez Radę Nadzorczą planów, sprawowzań oraz zmian na stanowisku dyrektora,\n- prawo nieograniczonego i swobodnego kontaktowania się z członkami Zarządu, Rady Nadzorczej i Komitetu ds. Audytu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p127_b7",
+          "page": 127,
+          "element_type": "caption",
+          "text": "Tabela 73. Liczba przeprowadzonych testów i audytów wewnętrznych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p127_b8",
+          "page": 127,
+          "element_type": "table",
+          "text": "Liczba przeprowadzonych testów i audytów wewnętrznych w podziale na funkcje kontroli i departamenty w 2024 i 2023.\n\n| Funkcja kontroli (z wyłączeniem Departamentu Zgodności) | rodzaje działań | 2024 | 2023 |\n|---|---|---|---|\n| | Testy pionowe | 131 | 145 |\n| | Testy zgodności | 32 (5 doraźnych) | 28 |\n| Departament Zgodności | Monitoring komunikacji MiFID/WIBOR/WIBOR(działalność powiernnicza), reklamacji w ramach działalności powiernniczej, transakcji osobiystych pracowników | 62 | 36 |\n| Departament Audytu Wewnętrznego | Audyty | 43 (15 doraźnych) | 44 (4 doraźne) |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p127_b9",
+          "page": 127,
+          "element_type": "text",
+          "text": "Po przeprowadzeniu audytów i testów, departamenty/komórki wydają zalecenia usprawniające weryfikację później ich wdrożenie. w banku prowadziny centralny rejestr zaleceń (CRZ), do którego trafiają zarówno wszystkie zalecenia wewnętrzne, jak i te kierowane przez zewnętrzne firmy audytorskie, KNF lub firmy konsultingowe. Status realizacji zaleceń jest co miesiąc monitorowany przez Departament Ryzyka Operacyjnego raport roczny do Członków Zarządu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 128,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [
+        "Zasady i zarządzanie ładem korporacyjnym, w tym w obszarze zrównoważonego rozwoju"
+      ],
+      "blocks": [
+        {
+          "block_id": "p128_b0",
+          "page": 128,
+          "element_type": "section-header",
+          "text": "Raportowanie incydentów i zdarzeń krytycznych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p128_b1",
+          "page": 128,
+          "element_type": "subsection-header",
+          "text": "GRI 2-16",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p128_b2",
+          "page": 128,
+          "element_type": "text",
+          "text": "Zdarzenia krytyczne są w BGK raportowane do Zarządu, w banku przygotowaliśmy własną klasyfikację zdarzeń krytycznych, uznając, że są to:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p128_b3",
+          "page": 128,
+          "element_type": "list",
+          "text": "- incydenty bezpieczeństwa informacji na poziomie krytycznym.\n- incydenty uznane za poważne zgodnie z definicją w ustawie o Krajowym Systemie Cyberbezpieczeństwa, rozporządzeniami wykonawczymi i PSD2.\n- incydenty braku zgodności/ryzyka utraty reputacji na poziomie krytycznym.\n- krytyczne zgłoszenia pracowników związane z zachowaniami niepozadanymi w tym w szczególności z mobingiem, dyskryminacją w pracy, uznane przez Komisję Antymobbingową za zasadne.\n- krytyczne zdarzenia operacyjne zarejestrowane w Rejestrze Ryzyka Operacyjnego (RRO).\n- nieprawidłowości krytyczne zidentyfikowane w ramach funkcji kontroli.\n- nieprawidłowości krytyczne zidentyfikowane w ramach testów zgodności przeprowadzanych przez Departament Zgodności.\n- nieprawidłowości krytyczne zidentyfikowane w ramach audytów wewnętrznych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p128_b4",
+          "page": 128,
+          "element_type": "text",
+          "text": "Zaraportowane do Zarządu zdarzenia krytyczne są omawiane na posiedzeniach Zarządu i Komitetu Ryzyka Operacyjnego i Kontroli Wewnętrznej. Dodatkowo, w przypadku wykrycia nieprawidłowości krytycznych niezwiązane informowany jest Zarząd, Komitet ds. Audytu lub Rada Nadzorcza.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p128_b5",
+          "page": 128,
+          "element_type": "text",
+          "text": "W 2024 roku nie zidentyfikowaliśmy żadnej nieprawidłowości na poziomie krytycznym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p128_b6",
+          "page": 128,
+          "element_type": "text",
+          "text": "W sytuacjach kryzysowych, opisanych w Polityce Zarządzania Ciągłością Działania BGK, szef Sztabu Kryzysowego podejmuje decyzje odnośnie zwołania Sztabu Kryzysowego. w 2024 roku nie miały miejsca takie sytuacje.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p128_b7",
+          "page": 128,
+          "element_type": "section-header",
+          "text": "7. Zasady i zarządzanie ładem korporacyjnym, w tym w obszarze zrównoważonego rozwoju",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p128_b8",
+          "page": 128,
+          "element_type": "subsection-header",
+          "text": "Zarządzanie wpływem",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p128_b9",
+          "page": 128,
+          "element_type": "subsection-header",
+          "text": "GRI 2-12",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p128_b10",
+          "page": 128,
+          "element_type": "text",
+          "text": "Wpływ BGK na gospodarkę, środowisko i ludzi nadzoruje Zarząd naszego banku realizując strategie BGK. Strategia, także nowa z perspektywą do 2030 roku, podkreśla unicatową rolę BGK jako instytucji rozwoju działającej antycyklicznie i uzupełniającej luki rynkowe. Więcej informacji o nowej strategii prezentujemy w niniejszym raporcie w rozdziale VIII. 2.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p128_b11",
+          "page": 128,
+          "element_type": "text",
+          "text": "Regularnie na wyzwania, wprowadzamy zmiany, dostosowujemy wewnętrzne polityki i procedury do wymogów regulacyjnych oraz dobrych praktyk rynkowych w zakresie zrównoważonego rozwoju. Jednym z celów strategicznych było osiągnięcie retingu na poziomie piątego decyla banków europejskich do końca 2025 r. co udało się nam realizować już w roku 2024. Za realizację kluczowych celów ESG odpowiadalna jest cała najwyższa kadra zarządzająca wraz z Zarządem. Od 2024 r. poziom jej wynagrodzeń mającego uzależniony jest od realizacji celu solidarnościowego ESG. Cele ESG są zatwierdzone oraz realizowane przez Kierownika ESG (więcej informacji na ten temat znajdzie się w rozdziale III. 2. Warunki pracy). Cele i zadania wyznaczone na 2024 r. były związane m.in. z:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p128_b12",
+          "page": 128,
+          "element_type": "list",
+          "text": "- przygotowaniem organizacji do raportowania zgodnie z direktywą CSRD.\n- zwiększeniem finansowania inwestycji w gospodarkę o obiegu zamkniętym.\n- określeniem ścieżek dekarbonizacyjnych do 2050 roku dla wybranych sektorów.\n- zwiększeniem poziom realizacji efektów rzeczowych o wymiarze społecznym.\n- prowadzeniem działań edukacyjnych podnoszących świadomość samorządów oraz MŚP w zakresie zrównoważonego rozwoju.\n- zapewnieniem wysokiej jakości i integralności danych oraz wdrożeniem polityki przeciwdziałania greenwashingowi, wzmacniającej transparentność i wiarygodność działań banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 129,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p129_b0",
+          "page": 129,
+          "element_type": "subsection-header",
+          "text": "GRI 2-18    TCFD 4.A",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p129_b1",
+          "page": 129,
+          "element_type": "text",
+          "text": "Obok celu solidarnościowego ESG wyznaczono członkom Zarządu również cele indywidualne wpisujące się w zasady zrównoważonego rozwoju, w tym m.in. dotyczące:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b2",
+          "page": 129,
+          "element_type": "list",
+          "text": "- wdrożenia nowego modelu zarządzania procesowego,\n- wdrożenia KPO oraz funduszy szemesu,\n- obsługi rządowych programów mieszkaniowych,\n- realizacji zadań związanych z zielonią transformacją miast w ramach KPO,\n- sporządzenia raportu dot. odziaływania sytuacji wojennej i społeczno-gospodarczej na Ukrainie na system energetyczny i bezpieczeństwo energetyczne Polski oraz wybrynych europejskich krajów osciennych Ukrainy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b3",
+          "page": 129,
+          "element_type": "text",
+          "text": "Cele roczne członków Zarządu banku określone i rozliczane są przez Radę Nadzorczą.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b4",
+          "page": 129,
+          "element_type": "text",
+          "text": "Co kwartał monitorujemy wykonanie planów operacyjnych banku. Wykorzystujemy do tego narzędzia informatyczne weryfikujące status najważniejszych zadań, wskaźników finansowych, o również dobrych praktyk w zakresie zrównoważonego rozwoju. Wprowadzamy oparte na nich procedury i dostosowujemy istniejące regulacje. Polityki dotyczące ESG podlegają okresowemu przeglądowi, w uprowadzenie ewentualnych zmian akcuracja Zarządu. Co najmniej raz w roku Zarząd ocenia bez poziomu przestrzegania zasad etyki w banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b5",
+          "page": 129,
+          "element_type": "text",
+          "text": "W strukturze banku funkcjonuje również Pion Ryzyka Brązowego i ESG podlegający członkowi Zarządu nadzorującemu obszar zarządzania ryzykiem.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b6",
+          "page": 129,
+          "element_type": "other",
+          "text": "Ikona dokumentu z symbolem koła zębatego oraz tekst 'ZOBACZ WIĘCEJ'",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b7",
+          "page": 129,
+          "element_type": "text",
+          "text": "Więcej informacji na temat realizacji strategii i wpływie banku znajduje się w rozdziale II. Tworzenie wartości.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b8",
+          "page": 129,
+          "element_type": "subsection-header",
+          "text": "Kompetencje w zakresie zrównoważonego rozwoju",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p129_b9",
+          "page": 129,
+          "element_type": "subsection-header",
+          "text": "GRI 2-17",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p129_b10",
+          "page": 129,
+          "element_type": "text",
+          "text": "Rozwijamy kompetencje ESG osób na stanowiskach kierowniczych. W 2024 r. zorganizowaliśmy dla nich warsztaty, webinary i cykliczne spotkania kadry menedżerskiej poświęcone tematom zrównoważonego rozwoju. Dodatkowo, przedstawiciele włądz banku regularnie zabierają głos w dyskusjach oraz w publikacjach poświęconych ESG. Reciprochannie też ze środowiskiem organizacji pozarządowych i organizujemy się w realizowanie przez nie przedsiębieciach oraz organizujemy panele dialogowe sprzyjające wymianie wiedzy i doświadczeń między ekspertami z różnych środowisk i organizacji działających na rzecz zrównoważonego rozwoju. Jako BGK wspieramy też projekty godne z Celami Zrównoważonego Rozwoju ustanowionymi przez ONZ.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b11",
+          "page": 129,
+          "element_type": "text",
+          "text": "W 2024 r. członkowie Zarządu banku brali udział w panelach dyskusyjnych oraz wygłaszali prezentacje na temat tematyki związane ze zrównoważonym rozwojem, uczestnicząc w:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b12",
+          "page": 129,
+          "element_type": "list",
+          "text": "- Konferencji Unii Metropolii Polskich - prezes Mirosław Czekaj wygłosił prezentację pt. \"Sprawodzawczość Zrównoważonego Rozwoju - szansa czy wyzwanie\";\n- i Kongresie Bankowości na rzecz zrównoważonego rozwoju 2024 - pierwsza wiceprezes prof. Marta Postuła uczestniczyła w panelu dyskusyjnym „ESG based - czy w Polsce jest już z tego wpływe?",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b13",
+          "page": 129,
+          "element_type": "subsection-header",
+          "text": "Program Ambasadorski Zrównoważony Rozwój",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p129_b14",
+          "page": 129,
+          "element_type": "text",
+          "text": "W 2024 r. zakończyliśmy pierwszą edycję Programu Ambasadorskiego Zrównoważony Rozwój. Program umożliwił zbudzowanie w banku zespołu osób, które dobrze rozumieją koncepcje ESG i potrafią sprawnie działać w powiązanych z nią procesach. Ambasadorzy przekazują wiedzę swoim zespołom, angażując współpracowników w działania programowe i inicjując zmiany na rzecz zrównoważonego rozwoju w komórkach organizacyjnych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p129_b15",
+          "page": 129,
+          "element_type": "text",
+          "text": "Pierwsza edycja Programu Ambasadorskiego trwała 15 miesięcy. Zorganizowaliśmy 13 spotkań dotyczących m.in. gospodarki o obiegu zamkniętym, włączenia i różnorodności, dostępności, równowagi pomiędzy pracą a życiem prywatnym oraz rolnictwa regeneratywnego, zielonych miast, zrównoważonego budownictwa i kosztów ekonomii zrównoważonego rozwoju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 130,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VI Ład korporacyjny",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p130_b0",
+          "page": 130,
+          "element_type": "text",
+          "text": "II edycja Programu rozpoczęła się w październiku 2024 r. Udział bierze w niej ponad 110 osób z 65 jednostek banku, a dwa zorganizowane w 2024 roku spotkania poświęcone były kwestiom zasadów wodnych oraz fake newsom dotyczącym zróżnicowanego rozwoju. W planach są kolejne spotkania, m.in. dotyczące działań powiązanych z ESG w BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b1",
+          "page": 130,
+          "element_type": "subsection-header",
+          "text": "Ład korporacyjny w zakresie zarządzania ryzykiem ESG",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p130_b2",
+          "page": 130,
+          "element_type": "text",
+          "text": "GRI 2-13  •  TCFD 1.A, 1.B",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b3",
+          "page": 130,
+          "element_type": "text",
+          "text": "Zarządzanie ryzykiem ESG realizowane jest na wszystkich poziomach struktury organizacyjnej banku i zgodnie ze zaktualizowanymi w 2024 r. procedurami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b4",
+          "page": 130,
+          "element_type": "subsection-header",
+          "text": "Rada Nadzorcza",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p130_b5",
+          "page": 130,
+          "element_type": "text",
+          "text": "Rada sprawuje nadzór nad wprowadzeniem systemu zarządzania ryzykiem oraz ocenia jego adekwatność i skuteczność, w szczególności poprzez m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b6",
+          "page": 130,
+          "element_type": "list",
+          "text": "- zatwierdzenie polityk zarządzania ryzykami,\n- zatwierdzenie akceptowalnego poziomu ryzyka oraz monitorowanie jego przestrzegania,\n- coroczną ocenę adekwatności i skuteczności systemu zarządzania ryzykiem.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b7",
+          "page": 130,
+          "element_type": "subsection-header",
+          "text": "Zarząd",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p130_b8",
+          "page": 130,
+          "element_type": "text",
+          "text": "Zarząd projektuje, wprowadza oraz zapewnia działanie systemu zarządzania ryzykiem, w szczególności przez m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b9",
+          "page": 130,
+          "element_type": "list",
+          "text": "- określanie bieżącej i przyszłej gotowości banku do podejmowania ryzyka, w tym akceptowalnego poziomu ryzyka,\n- opracowywanie i wdrażanie polityk oraz zapewnianie wdrożenia procedur określających zasady zarządzania ryzykiem oraz monitorowanie ich przestrzegania,\n- zatwierdzanie przyjętych limitów strategicznych,\n- promowanie, rozwijanie i ocenianie kultury ryzyka.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b10",
+          "page": 130,
+          "element_type": "subsection-header",
+          "text": "Komitety",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p130_b11",
+          "page": 130,
+          "element_type": "text",
+          "text": "Zarządzanie ryzykiem jest przedmiotem prac Komitetów powołanych przez Zarząd. W banku działa Komitet ESG, w skład którego, poza przedstawicielami jednostek kluczowych z perspektywy zarządzania kwestiami zróżnicowanego rozwoju, wchodzą liderzy odpowiadalni za koordynację działań banku w obszarze środowiskowym, społecznym i ładzie korporacyjnego. Komitet tworzy:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b12",
+          "page": 130,
+          "element_type": "list",
+          "text": "- główny Lider ESG (Chief ESG Officer) - w randze członka Zarządu - od września 2024 r. jest to Mateusz Szczurek,\n- lider ds. środowiskowych (Environmental Officer),\n- lider ds. społecznych (Social Officer),\n- lider ds. ładu korporacyjnego (Governance Officer),\n- członkowie reprezentujący inne obszary banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b13",
+          "page": 130,
+          "element_type": "other",
+          "text": "Ikona dokumentu z lupą i tekst 'ZOBACZ WIĘCEJ' w kolorze brązowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b14",
+          "page": 130,
+          "element_type": "text",
+          "text": "Zadania Komitetu ESG oraz innych komitetów działających w banku opisujemy w rozdziale VI.4.2. Zarząd.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b15",
+          "page": 130,
+          "element_type": "subsection-header",
+          "text": "Komórki odpowiadające za zarządzanie ryzykiem ESG",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p130_b16",
+          "page": 130,
+          "element_type": "text",
+          "text": "Główną jednostką odpowiadającą za identyfikacje, pomiar, monitorowanie, kontrole oraz ograniczanie ryzyka ESG jest Biuro Ryzyka ESG stanowiące część Pionu Ryzyka Branzowego i ESG. Biuro odpowiada za m.in. przygotowanie raportu z oceny ryzyka ESG przekazywanegodo Komitetu ESG, Zarządu oraz Rady Nadzorczej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b17",
+          "page": 130,
+          "element_type": "text",
+          "text": "W procesie zarządzania ryzykiem ESG zaangażowane są także Biuro Weryfikacji Wartości Zabezpieczeń, Department Inwestycji, Department Ryzyka Finansowego, Department Ryzyka Operacyjnego, Department Strategii Ryzyka Kredytowego, Department Zarządzania Zmianami i Procesami, Department Zgodności oraz komórki relacyjne banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b18",
+          "page": 130,
+          "element_type": "other",
+          "text": "Ikona globu z tekst 'ZOBACZ WIĘCEJ' w kolorze brązowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b19",
+          "page": 130,
+          "element_type": "text",
+          "text": "Szczegółowy opis struktury zarządzania ryzykiem ESG opisujemy w sprawozdaniu Ujawnienia ryzyka ESG BGK w stanie na dzień 31.12.2024 r. (Filar III, ESG) dostępnym na stronie internetowej banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p130_b20",
+          "page": 130,
+          "element_type": "footnote",
+          "text": "stronie internetowej banku",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    }
+  ]
+}

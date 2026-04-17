@@ -1,0 +1,1942 @@
+{
+  "chapter_id": "I",
+  "title": "I Jedyny taki bank",
+  "page_start": 3,
+  "page_end": 13,
+  "pages": [
+    {
+      "page_num": 3,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [],
+      "blocks": []
+    },
+    {
+      "page_num": 4,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [
+        "List Prezesa Zarządu"
+      ],
+      "blocks": [
+        {
+          "block_id": "p4_b0",
+          "page": 4,
+          "element_type": "section-header",
+          "text": "1. List Prezesa Zarządu",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p4_b1",
+          "page": 4,
+          "element_type": "other",
+          "text": "Identyfikator dokumentu GRI 2-22 oraz czerwony znacznik akcyzowy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p4_b2",
+          "page": 4,
+          "element_type": "picture",
+          "text": "Portret mężczyzny w okularach, ubrany w ciemny garnitur i niebieską krawatę, na czarnym okrągłym tle.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p4_b3",
+          "page": 4,
+          "element_type": "text",
+          "text": "Szanowni Państwo,\n\nW minionym roku obchodziliśmy jubileusz stulecia BGK. To wielki przywilej kierować instytucją z tak wielkim dziedzictwem i znaczeniem dla rozwoju społeczno-gospodarczego kraju. Warto podkreślić jednak, że chcę misją polskiego banku rozwoju pozostaje niezmienną.\nw zależności od uwarunkowanych gospodarcych podejmujemy działania, które w największy sposób odpowiadają na aktualne potrzeby.\n\nRok 2024 przyniósł wzrost PKB Polski o 2,9% r./r. Nasza gospodarka radzi sobie dobrze, zwłaszcza na tle innych państw UE. Jesteśmy jednak świadomi, że przed Europą stoją poważne wyzwania - utrzymanie konkurencyjności i rozwój innowacji. Sytuacja geopolityczna nie pozostawia złudzeń, ze priorytetem Polski musi być wzmacnianie odporności na zmiany i bezpieczeństwo strategiczne. Rozumiem je zarówno w kontekście militarnym, jak i inwestycji w sektorze energetycznym.\n\nW minionym roku wygenerowaliśmy 389 mld zł wsparcia dla gospodarki, czyli o 9% więcej niż w roku 2023. Wysoki wynik finansowy i silna pozycja kapitałowa BGK na koniec 2024 r. budują stabilność i bezpieczeństwo państwowego banku rozwoju, co wspiera wzrost działalności na rzecz zrównoważonego rozwoju gospodarczego kraju zapisanego w naszej misji.\n\nWydarzeniem, które zdeterminowało kierunek zaangażowania banku w 2024 r. było z całą pewnością odblokowanie środków z Krajowego Planu Odbudowy i Zwiększania Odporności (KPO). BGK odpowiadała za dystrybucję ponad l40 mld zł, czyli połowy wszystkich środków z polskiego KPO. Rola, jaka została nam powierzona, jest potwierdzeniem niekwestionowanych kompetencji naszych pracowników we wdrażaniu programów wsparcia z Unii Europejskiej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p4_b4",
+          "page": 4,
+          "element_type": "text",
+          "text": "Po zaledwie kilku miesiącach możemy mówić o konkretnych efektach działania programu.\n\nZawarliliśmy umowy z resortami na wszystkie powierzone BGK instrumenty z KPO - 5 instrumentów pożyczkowych i 3 instrumenty dotacyjne. Zrealizowaliśmy też wszystkie cele zapisane w umowach na 2024 r. Wszystkie moje niezaprzeczalne transformacje miast pospiesiliśmy do końca 2024 r, az 430 umów, co oznacza, że zrealizowaliśmy cel na 214%. Wśród beneficjentów są samorządy ze wszystkich województw, zarówno duże, jak i małe miasta.\n\nPodpisaliśmy umowę na rekordową kwotę 11 mld zł z Funduszem Wsparcia Energetyki. Pieniądze z KPO przyspieszą rozwój sieci elektroenergetycznej. To największe w historii finansowanie tego rodzaju inwestycji w Polsce.\n\nPodpisaliśmy też pierwszą umowę pożyczki na budowę dwóch morskich farm wiatrowych. Projekty te przyczynią się do dekarbonizacji polskiej energetyki, a jednocześnie zwiększą dywersyfikację źródeł energii dla naszej gospodarki.\n\nZa sprawą pożyczki wspierającej zieloną transformację miast z KPO, rok 2024 był okresem wzmożonej współpracy z partnerami sektora samorządowego. Warto jednak podkreślić, że także finansowanie udzielone JST w ramach działalności własnej były wyższe niż w 2023 roku. Łączna kwota finansowanych udzielonych samorządom i ich spółkom w 2024 roku to 7.4 mld zł.\n\nWażną rolę BGK jest efektywnie wspieranie sektora publicznego w jego działaniach. Współpracujemy z polskim rządem, wspierając poszczególne resorty w realizacji ważnych dla Polaków zadań",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 5,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p5_b0",
+          "page": 5,
+          "element_type": "text",
+          "text": "publicznych. W 2024 roku sprawdzaniem tej skuteczności były działania mające na celu zwiększowanie skutków podejmowanych działań. W nadzwyczajnym trybie wdrożyliśmy rządowe rozwiązania wspierające samorządy w budowie mieszkań na terenie powodzionowych. W porozumieniu z Ministerstwa Finansów i w dialogu z całym sektorem bankowym wprowadziliśmy także zmiany w Funduszu Wsparcia Kredytobiorców. To realna pomoc dla osób z obsarów dotkniętych katakizmem. Ktoś pobarczył kredyty mieszkaniowe. Podwierdziliśmy naszą sprawność operacyjną – także w sytuacjach nadzwyczajnych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p5_b1",
+          "page": 5,
+          "element_type": "text",
+          "text": "Aby zapewnić płynność finansową programów wspierających rozwój Polski, Bank Gospodarstwa Krajowego jest aktywny na rynkach międzynarodowych. W minionym roku przezywaliśmy podwyższy podatków czasami emisji obligacji na rynku europejskim. Pozyskaliśmy łącznie 3,5 mld USD na rzecz Funduszu Przeciwdziałania COVID-19 oraz Kijowskiego Funduszu, którego bank jest operatorem.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p5_b2",
+          "page": 5,
+          "element_type": "text",
+          "text": "Niezmiennie wspieramy polskie firmy przez finansowanie lub zabezpieczenia ekspansji. W 2024 roku do rynków zagranicznych, w których towarzyszymy polskim eksporterom, dołączyły Kostaryka i Salwador.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p5_b3",
+          "page": 5,
+          "element_type": "text",
+          "text": "Pod koniec 2024 roku Bank Gospodarstwa Krajowego otworzył przedstawicielstwo w Kijowie. Jego zadaniem jest z jednej strony wspieranie działalności polskich firm w odbudowie Ukrainy, a z drugiej – pomoc w odbudowie tego kraju z wykorzystaniem środków Komisji Europejskiej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p5_b4",
+          "page": 5,
+          "element_type": "text",
+          "text": "W 2024 roku zaangażowanie kredytowo-gwarancyjne BGK wyniosło 190 mld zł i było najwyższe w historii. Cały czas udoskonalamy naszą ofertę wspierania przedsiębiorczości, także dzięki partnerstwa na poziomie międzynarodowym. W 2024 roku podpisaliśmy umowę z Europejskim Funduszem Inwestycyjnym na uruchomienie nowego produktu gwarancyjnego z regwarancją EFI.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p5_b5",
+          "page": 5,
+          "element_type": "text",
+          "text": "Kluczem do podtrzymania konkurencyjności gospodarki jest wspieranie innowacyjnych firm. Między innymi dlatego woryginujemy zainteresowanie w instrumenty kapitałowe. W 2024 roku BGK zaangażował się w Three Seas Initiative Innovation Fund, prowadzony przez Europejski Fundusz Inwestycyjny.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p5_b6",
+          "page": 5,
+          "element_type": "text",
+          "text": "Zrównoważony rozwój jest wpisany w misiję Banku Gospodarstwa Krajowego. W maju 2024 agencja Fitch potwierdził rating ESG na poziomie 2, w pieciostopieniu skali, gdzie 1 to ocena najwyższa, i powdyaszył ocenę banku do 64. W minionym roku jako piąty polski bank dołączyliśmy do inicjatywy Partnership for Carbon Accounting Financials (PCAF).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p5_b7",
+          "page": 5,
+          "element_type": "text",
+          "text": "Jako nowy Zarząd BGK podjeliśmy także szereg ważnych decyzji. W 2024 roku rozpoczęliśmy intensywne prace nad nową strategią banku. Ogłoszenie dokumentu nastąpio w przeddzień publikacji ninieszego raportu. Strategia określa ambicje i cele banku na najbliższe pięć lat. Przez jej przyjęcie kierują nas: obserwowani chęmy skupiać się przedziału wspodswiatu. Są to: siła gospodarka, wzmacnianie konkurencyjności przedsiębiorstw i odporności samorządów oraz bycie partnerem dla instytucji państwowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p5_b8",
+          "page": 5,
+          "element_type": "subsection-header",
+          "text": "Zapraszam do lektury raportu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p5_b9",
+          "page": 5,
+          "element_type": "text",
+          "text": "Mirosław Czekaj",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p5_b10",
+          "page": 5,
+          "element_type": "text",
+          "text": "Prezes Zarządu BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 6,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [
+        "Kim jesteśmy?",
+        "Podsumowanie 2024 roku"
+      ],
+      "blocks": [
+        {
+          "block_id": "p6_b0",
+          "page": 6,
+          "element_type": "section-header",
+          "text": "2. Kim jesteśmy?",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p6_b1",
+          "page": 6,
+          "element_type": "text",
+          "text": "GRI 2-1",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p6_b2",
+          "page": 6,
+          "element_type": "text",
+          "text": "Bank Gospodarstwa Krajowego to państwowy bank rozwoju - jedna z pięciu największych takich instytucji w Europie. Od 100 lat wspieramy zrównoważony rozwój społeczno-gospodarczy Polski. Ponad 2 400 pracowników banku realizuje naszą misję poprzez m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p6_b3",
+          "page": 6,
+          "element_type": "list",
+          "text": "- inicjowanie i realizację programów służących wzrostowi ekonomicznemu i spójności społecznej Polski.\n- zarządzanie programami europejskimi i dystrybucje środków unijnych (w tym KPO) oraz funkcje operatora funduszy przepływowych.\n- wspieranie ekspansji zagranicznej polskich przedsiębiorstw oraz działalność inwestycyjną w kraju i za granicą.\n- pobudzanie rozwoju kapitału społecznego i wsparcie działań na rzecz zaangażowania społecznego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p6_b4",
+          "page": 6,
+          "element_type": "text",
+          "text": "To nie wszystkie nasze działania. Więcej informacji przedstawiliśmy w tym raporcie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p6_b5",
+          "page": 6,
+          "element_type": "section-header",
+          "text": "3. Podsumowanie 2024 roku",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p6_b6",
+          "page": 6,
+          "element_type": "subsection-header",
+          "text": "Wygenerowane wsparcie gospodarki",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p6_b7",
+          "page": 6,
+          "element_type": "text",
+          "text": "W 2024 r. wygenerowaliśmy łącznie 389 mld zł (wzrost o 9% r/r) wsparcia dla gospodarki. Nasze zaangażowanie kredytowo-gwarancyjne wraz z działalnością zleconą zmobilizowało dodatkowy kapitał na rynku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p6_b8",
+          "page": 6,
+          "element_type": "picture",
+          "text": "Zdjęcie wnętrza budynku z elementami architektury, widać sufit z drewnianą strukturą, białe lampy sufitowe oraz kolumny. W oddali widać ludzi w wnętrzu obszernego pomieszczenia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p6_b9",
+          "page": 6,
+          "element_type": "text",
+          "text": "Wygenerowane wsparcie gospodarki w 2024 roku:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p6_b10",
+          "page": 6,
+          "element_type": "text",
+          "text": "389 mld zł",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p6_b11",
+          "page": 6,
+          "element_type": "table",
+          "text": "Struktura wygenerowanego wsparcia gospodarki w 2024 roku.\n\n| Kategoria | Wartość (mld zł) |\n|---|---|\n| zmobilizowany kapitał | 158 |\n| działalność zlecona | 179 |\n| finansowanie własne | 52 |\n| razem | 389 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 7,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p7_b0",
+          "page": 7,
+          "element_type": "subsection-header",
+          "text": "Cele Zrównoważonego Rozwoju ONZ (Sustainable Development Goals, SDGs)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p7_b1",
+          "page": 7,
+          "element_type": "text",
+          "text": "Nasza strategia wspiera większość Celów Zrównoważonego Rozwoju ONZ. 82% z 389 mld zł wsparcia dla gospodarki wygenerowanego przez BGK wspomogło realizację 11 z 17 Celów. Większość, bo az 79% kwoty wsparcia, realizowało 4 poniższe cele:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p7_b2",
+          "page": 7,
+          "element_type": "list",
+          "text": "7. Czysta i dostępna energia (26%)\n8. Wzrost gospodarczy i godna praca (18%)\n9. Innowacyjność, przemysł i infrastruktura (21%)\n11. Zrównoważone miasta i społeczności (14%)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p7_b3",
+          "page": 7,
+          "element_type": "text",
+          "text": "18% wygenerowanej kwoty wsparcia gospodarki nie przyczyniło się do realizacji Celów Zrównoważonego Rozwoju. Są to m.in. finansowanie obronności, sektora paliwowego oraz podmiotów obsługujących finanse publiczne. Jako bank rozwoju wspieramy bezpieczeństwo energetyczne Polski poprzez dostaczanie instrumentów finansowych służących nieprzerwanyn dostom surowców energetycznych. Odgrywamy też kluczową rolę w finansowaniu transformacji energetycznej, a także budowaniu potencjału obronnego kraju. Dzięki temu zaaspokoajamy strategiczne i jednocześnie podstawowe potrzeby państwa i społeczeństwa; bez czego zrównoważony rozwój nie byłby możliwy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p7_b4",
+          "page": 7,
+          "element_type": "text",
+          "text": "Nasza działalność wykracza poza finansowanie – innymi inicjatywami także przyczyniamy się do realizacji celów SDG. Kluczowe aktywności BGK wspierają osiągnięcie następujących celów:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p7_b5",
+          "page": 7,
+          "element_type": "list",
+          "text": "3. Dobre zdrowie i jakość życia.\n4. Dobra jakość edukacji.\n10. Mniej nierówności.\n11. Zrównoważone miasta i społeczności.\n12. Odpowiedzialna konsumpcja i produkcja.\n13. Działania w dziedzinie klimatu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p7_b6",
+          "page": 7,
+          "element_type": "text",
+          "text": "Szczegóły dotyczące działań BGK przyczyniających się do osiągnięcia Celów Zrównoważonego Rozwoju opisane są w dalszej części raportu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p7_b7",
+          "page": 7,
+          "element_type": "picture",
+          "text": "Koło diagram przedstawiające 17 Celów Zrównoważonego Rozwoju ONZ z podziałem na sektory z numerami od 1 do 17 i odpowiadającymi im ikonami. Diagram pokazuje procentowy udział poszczególnych celów wspieranych przez BGK. Dominujące sektory to: Cel 7 (26%), Cel 8 (18%), Cel 9 (21%), i Cel 11 (14%). Pozostałe cele zajmują mniejsze powierzchnie, a niektóre są oznaczone jako <1%. W centrum diagramu znajduje się napis 'CELE ZRÓWNOWAŻONEGO ROZWOJU' z logiem SDG.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 8,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p8_b0",
+          "page": 8,
+          "element_type": "subsection-header",
+          "text": "Jubileusz 100-lecia istnienia BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p8_b1",
+          "page": 8,
+          "element_type": "text",
+          "text": "Świetowaliśmy nasze stuleciehasłem „Historia przyszłości. Gdzie przeszłość i przyszłość spotykają się w nowoczesnym cyklu rozwoju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b2",
+          "page": 8,
+          "element_type": "picture",
+          "text": "Logo BGK 100 lecia - liczba 100 z czerwonym znakiem oraz napis Polski Bank Rozwoju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b3",
+          "page": 8,
+          "element_type": "subsection-header",
+          "text": "Znaczący rozwój cyfrowych płatności publicznoprawnicznych rozliczonych przez BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p8_b4",
+          "page": 8,
+          "element_type": "text",
+          "text": "Współpraca z Ministerstwem Cyfryzacji przyniosła skok z 2 tys. do 88 tys. płatności BLIK w móbylatelu, a wdrożenie kart Visa i Mastercard w aplikacji dofinansowano w konkursie XII Cashless Congress. W 2024 r. dla partnerów banku rozliczyliśmy transakcje w kwocie ponad 336 mln zł co oznacza wzrost o ponad 132% w stosunku do 2023 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b5",
+          "page": 8,
+          "element_type": "picture",
+          "text": "Logo BLIK - białe litery na czarnym tle.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b6",
+          "page": 8,
+          "element_type": "subsection-header",
+          "text": "EBI wspiera pierwszy polski program satelitarny kredytem dla BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p8_b7",
+          "page": 8,
+          "element_type": "text",
+          "text": "Europejski Bank Inwestycyjny (EBI) udzielił BGK kredytu w wysokości 300 mln euro, który umożliwił Polsce sfinansowanie dwóch satelitów obserwacyjnych Ziemi. Projekt jest wspierany w ramach Strategicznej Inicjatywy EBI na rzecz Bezpieczeństwa Europejskiego i jest zgodny z nowym polem działania Grupy EBI dla bezpieczeństwa i przemysłu obronnego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b8",
+          "page": 8,
+          "element_type": "picture",
+          "text": "Satelita na orbicie Ziemi z panelami słonecznymi, widok z kosmosu na niebieską planetę.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b9",
+          "page": 8,
+          "element_type": "picture",
+          "text": "Logo PCAF Partnership for Carbon Accounting Financials.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b10",
+          "page": 8,
+          "element_type": "subsection-header",
+          "text": "BGK członkiem PCAF",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p8_b11",
+          "page": 8,
+          "element_type": "text",
+          "text": "Dołączyliśmy do Partnership for Carbon Accounting Financials – jako piąty bank z Polski.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b12",
+          "page": 8,
+          "element_type": "subsection-header",
+          "text": "Ratingi",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p8_b13",
+          "page": 8,
+          "element_type": "list",
+          "text": "- W listopadzie agencja ratingowa Moody's przyznała dotychczasowy rating kredytowy dla BGK. Bank posiadał rating emitento na poziomie .A2' zarowno w valucie zagranicznej, jak i krajowej, i jego program obligacji śródziemterminowych (MTN) otrzymał rating (P)A2⁰.\n- Poziomy ratingów są na równi z ratingiem kredytowym Polski (A2), co według Moody's potwierdzała istotną rolę BGK w rozwoju polskiej gospodarki.\n- W maju Sustainable Fitch potwierdził rating ESG na poziomie 2 (w pieciopunktowej skali, gdzie 1 oznacza najlepszą ocenę, 5 najgorszą) i podwyższył ocenę banku do 64. Rating ten odzwierciedła istotny poziom zrównoważonego finansowania banku oraz dobre wyniki w zakresie ESG.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b14",
+          "page": 8,
+          "element_type": "subsection-header",
+          "text": "KPO: zielona transformacja miast",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p8_b15",
+          "page": 8,
+          "element_type": "text",
+          "text": "Propozycja Krajowego Planu Odbudowy o pożyczki na łączną kwotę blisko 1,3 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b16",
+          "page": 8,
+          "element_type": "text",
+          "text": "Dbając o czystym powietrzu cel Krajowego Planu Odbudowy i Zwiększania Odporności wspierajac zaademianie 23 miast i bardziej zrównoważone gospodarowanie zasobami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b17",
+          "page": 8,
+          "element_type": "picture",
+          "text": "Logo Krajowy Plan Odbudowy - czerwone poziome linie tworzące schemat struktury.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b18",
+          "page": 8,
+          "element_type": "subsection-header",
+          "text": "Największa z dotychczasowych emisja obligacji BGK w USA",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p8_b19",
+          "page": 8,
+          "element_type": "text",
+          "text": "W lipca przeprowadziliśmy największa z dotychczasowych emisje obligacji na rynku amerykańskim. Nabywcy znaleźli 10-letnie obligacje na rzecz Funduszu Przeciwdziałania COVID-19 oraz 30-letnie obligacje na rzecz Krajowego Funduszu Drogowego - w sumie na kwotę 3,5 mld USD  Łączny popyt na obie serie obligacji dołgowych ukształtował się na rekordowym poziomie 6.6 mld USD.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b20",
+          "page": 8,
+          "element_type": "subsection-header",
+          "text": "Rekordowe zaangażowanie biliowe i pozabiliansowe",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p8_b21",
+          "page": 8,
+          "element_type": "text",
+          "text": "Nasze zaangażowanie kredytowo-gwarancyjne bilansowe i pozabilansowe wyniosło na koniec 2024 r. 190 mld zł było najwyższe w historii. W porównaniu do 2023 r. wzrosło o 11,3%",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b22",
+          "page": 8,
+          "element_type": "subsection-header",
+          "text": "Nowe przedstawicielstwo BGK w Kijowie",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p8_b23",
+          "page": 8,
+          "element_type": "text",
+          "text": "Otworzyliśmy w grudniu nowe przedstawicielstwo w Kijowie. Zadaniem przedstawicielstwa jest min. wspieranie modernizacji i odbudowy kraju ze środków KE, a także pomoc polskim przedsiębiorcom w prowadzeniu inwestycji w Ukrainie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p8_b24",
+          "page": 8,
+          "element_type": "picture",
+          "text": "Widok na kościół z charakterystyczną pozłacaną kopułą w Kijowie, zabudowania miasta na tle.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 9,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [
+        "Najważniejsze wydarzenia w 2024 roku"
+      ],
+      "blocks": [
+        {
+          "block_id": "p9_b0",
+          "page": 9,
+          "element_type": "section-header",
+          "text": "4. Najważniejsze wydarzenia w 2024 roku",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p9_b1",
+          "page": 9,
+          "element_type": "picture",
+          "text": "Oś czasu przedstawiająca najważniejsze wydarzenia w 2024 roku z podziałem na miesiące (styczeń do grudnia), zawierająca punkty czasowe z opisami kluczowych inicjatyw, zmian i podpisanych umów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b2",
+          "page": 9,
+          "element_type": "text",
+          "text": "Styczeń",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b3",
+          "page": 9,
+          "element_type": "list",
+          "text": "- Opublikowaliśmy raport o zsobach i ograniczeniach w obszarze cyfryzacji przedsiębiorstw.\n- Rozpoczęliśmy obchody 100-lecia BGK.\n- Zajęliśmy 3 miejsce w polskim rankingu międzynarodowej instytu cji badawczej Top Employer.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b4",
+          "page": 9,
+          "element_type": "text",
+          "text": "Luty",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b5",
+          "page": 9,
+          "element_type": "list",
+          "text": "- Mirosław Czekaj został powołany na prezesa Zarządu BGK.\n- Zawarliśmy umowę z MFiPR na realizację pierwszego instrumentu pożyczkowego KPO - pożyczki na zieloną transformację miast.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b6",
+          "page": 9,
+          "element_type": "text",
+          "text": "Marzec",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b7",
+          "page": 9,
+          "element_type": "list",
+          "text": "- Wspólnie z MFiPR ogłosilismy nowy nabór na pożyczki z FERS (służące budowaniu kapitału społecznego).\n- Ogłosiliśmy nowe instrumenty gwarancyjne z FENG - Gwarancje Biznesmox Plus i Ekomak.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b8",
+          "page": 9,
+          "element_type": "text",
+          "text": "Kwiecień",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b9",
+          "page": 9,
+          "element_type": "list",
+          "text": "- Podsumowaliśmy nasze wsparcie dla sektorów i społeczności w 2023 r. na rekorowym poziomie 6,6 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b10",
+          "page": 9,
+          "element_type": "text",
+          "text": "Maj",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b11",
+          "page": 9,
+          "element_type": "list",
+          "text": "- Wprowadziliśmy Apromax - nową gwarancję z dotacją dla sektora roślinnego.\n- Zorganizowaliśmy I7 Ogólnopolską Konferencję BGK dla JST.\n- Zorganizowaliśmy AECM Annual Event - konferencję międzynarodowego stowarzyszenia instytucji gwarancyjnych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b12",
+          "page": 9,
+          "element_type": "text",
+          "text": "Czerwiec",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b13",
+          "page": 9,
+          "element_type": "list",
+          "text": "",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b14",
+          "page": 9,
+          "element_type": "text",
+          "text": "Lipiec",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b15",
+          "page": 9,
+          "element_type": "list",
+          "text": "- Udostępniliśmy sektorowi bankowym gwarancję Inwestycja z gwarancją EFI.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b16",
+          "page": 9,
+          "element_type": "text",
+          "text": "Sierpień",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b17",
+          "page": 9,
+          "element_type": "list",
+          "text": "",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b18",
+          "page": 9,
+          "element_type": "text",
+          "text": "Wrzesień",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b19",
+          "page": 9,
+          "element_type": "list",
+          "text": "- Umochliliśmy unijne pożyczki na dostępność dla przedsiębiorców z maksymalną kwotą finansowania do 1 mln zł.\n- Jako agent rozliczeniowy w sektorze finansów publicznychzaczęliśmy rozliczać transakcje płatniczymi w aplikacji mObywatel.\n- Rozpoczęliśmy podpisywanie umów z miastami i gminami na pożyczki wspierające zieloną transformację miast z KPO.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b20",
+          "page": 9,
+          "element_type": "text",
+          "text": "Październik",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b21",
+          "page": 9,
+          "element_type": "list",
+          "text": "- Na Kongresie Odbudowy Ukrainy podpisaliśmy umowę z MFiPR na rzecz wsparcia polskich przedsiębiorstw uczestniczących lub planujących udział w odbudowie i modernizacji Ukrainy oraz z dwoma ukraińskimi przedsiębiorcami ze środkami ukraińskich przedsiębiorców z łącznym wsparciu 4 mld zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b22",
+          "page": 9,
+          "element_type": "text",
+          "text": "Listopad",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b23",
+          "page": 9,
+          "element_type": "list",
+          "text": "- Zawarliśmy umowę z 2 MKiS na realizację dotowania instrumentu z KPO na inwestycje w technologie wodorowe.\n- Podpisaliśmy z jednym z samorządów umowy pożyczek wspierających zieloną transformację miast na łączną recordową kwotę.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b24",
+          "page": 9,
+          "element_type": "text",
+          "text": "Grudzień",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p9_b25",
+          "page": 9,
+          "element_type": "list",
+          "text": "- Podpisaliśmy pierwsze umowy pożyczek w dwóch kolejnych instrumentów - na transformację ścieżek energetycznych i na budowę morskich farm wiatrowych.\n- Podpisaliśmy do końca grudnia umowę z BGK na pożyczki wspierającą zieloną transformację miast z KPO, znaczące przekraczając cel na 2024 r. (1. 200 umów).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 10,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [
+        "Charakterystyka Grupy Kapitałowej BGK"
+      ],
+      "blocks": [
+        {
+          "block_id": "p10_b0",
+          "page": 10,
+          "element_type": "section-header",
+          "text": "5. Charakterystyka Grupy Kapitałowej BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p10_b1",
+          "page": 10,
+          "element_type": "text",
+          "text": "GRI 2-6, 2-1",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p10_b2",
+          "page": 10,
+          "element_type": "text",
+          "text": "Grupa Kapitałowa BGK na dzień 31 grudnia 2024 roku składała się z podmiotów skonsolidowanych metodą pełną oraz podmiotów stowarzyszonych, konsolidowanych metodą praw własności. Jednostką dominującą w Grupie jest Bank Gospodarstwa Krajowego - jedyny państwowy bank rozwoju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p10_b3",
+          "page": 10,
+          "element_type": "text",
+          "text": "Szczegóły o działalności podmiotów naszej Grupy opisaliśmy w rozdziale V.8 Wyniki finansowe i strukturze naszej Grupy BGK. Zestawienie jednostek zależnych i stowarzyszonych znajduje się także w skonsolidowanym sprawozdaniu finansowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p10_b4",
+          "page": 10,
+          "element_type": "caption",
+          "text": "GRAFIKA 1. Struktura Grupy Kapitałowej BGK w zakresie podmiotów skonsolidowanych metodą pełną:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p10_b5",
+          "page": 10,
+          "element_type": "picture",
+          "text": "Diagram organizacyjny przedstawiający strukturę Grupy Kapitałowej BGK. Na szczycie znajduje się Bank Gospodarstwa Krajowego, poniżej którego rozgałęziają się następujące podmioty: Fundusz Ekspansji Zagranicznej FIZ AN', Vinci S.A., Vinci S.A. HiTech Alternatywna Spółka Inwestycyjna S.K.A., Vinci S.A. IQ Alternatywna Spółka Inwestycyjna S.K.A., oraz Vinci S.A. Da Gama Alternatywna Spółka Inwestycyjna S.K.A.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p10_b6",
+          "page": 10,
+          "element_type": "caption",
+          "text": "GRAFIKA 2. Struktura podmiotów skonsolidowanych przez BGK metodą praw własności:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p10_b7",
+          "page": 10,
+          "element_type": "picture",
+          "text": "Diagram organizacyjny przedstawiający strukturę podmiotów skonsolidowanych metodą praw własności. Na szczycie znajduje się Bank Gospodarstwa Krajowego, poniżej którego znajduje się Fundusz Trojomoża' i Fundusze poręczeniowe utworzone z samorządami. Z tych podmiotów rozgałęziają się dalsze podmioty: Spółki w portfelu Vinci S.A. Da Gama ASI S.K.A., Spółki w portfelu FEZ FIZ AN, Spółki w portfelu Vinci S.A. HiTech ASI S.K.A., Korporacja Ubezpieczeń Kredytów Eksportowych S.A.¹, Spółki w portfelu Vinci S.A. IQ ASI S.K.A., oraz PFR Fundusz Inwestycji FIZ AN.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p10_b8",
+          "page": 10,
+          "element_type": "text",
+          "text": "Szczegółowe informacje na temat wszystkich jednostek stowarzyszonych przedstawiliśmy w skonsolidowanym sprawozdawdzaniu finansowym Grupy Kapitałowej BGK (nota 1.3).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p10_b9",
+          "page": 10,
+          "element_type": "footnote",
+          "text": "¹ FEZ FIZ AN",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p10_b10",
+          "page": 10,
+          "element_type": "footnote",
+          "text": "² Three Seas Initiative Investment Fund S.A. SICAV-RAIF",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p10_b11",
+          "page": 10,
+          "element_type": "footnote",
+          "text": "³ KUKE S.A",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 11,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [
+        "Kluczowe dane finansowe"
+      ],
+      "blocks": [
+        {
+          "block_id": "p11_b0",
+          "page": 11,
+          "element_type": "text",
+          "text": "Konsekwentnie i od lat wspieramy zrównoważony rozwój społeczny i gospodarczy w Polsce. Komercyjną działalność bankową odpowiadającą na potrzeby rynkowe łączymy z działaniami podejmowanymi na zlecenie lub wspólnie z administracją rządową i samorządową. Wspólpracujemy bliskie z władzami ministerstw i instytucjami rozwojem, notatując przypisane nam w umowach zadania z największą starannością. Zasadą w banku jest zach Ł ować racjonalnego poziomu zwrotu na ryzyko, a przed realizacją projektów oceniamy je pod kątem kryteriów ESG i zrównoważonego rozwoju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p11_b1",
+          "page": 11,
+          "element_type": "text",
+          "text": "Dla funduszy przepływowych, utworzonych, powierconych lub przekazanych BGK prowadzmy wydorębnie księgi rachunkowe. Sporzadzamy też dla funduszy odrębne bilanse, rachunki zysków i strat oraz sprawozdania z realizacji planu finansowego. Dane finansowe - księgowe dotyczące funduszy znajdują się w załączniku 1.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p11_b2",
+          "page": 11,
+          "element_type": "text",
+          "text": "Jako Grupa Kapitałowa umożliwiamy rozwój szeroko rozumianej krajowej gospodarki poprzez min:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p11_b3",
+          "page": 11,
+          "element_type": "list",
+          "text": "- finansowanie projektów infrastrukturalnych i samorządowych,\n- poręczenia i gwarancje dla przedsiębiorstw,\n- współfinansowanie ekspansji zagranicznej polskich firm i projektów eksportowych,\n- uczestnictwo w konsorcjach i mobilizacje kapitału dla gospodarki, rozwój programów gwarancyjnych i poręczeniowych oraz strukturyzowanie transakcji,\n- wspieranie rozwoju mieszkalnictwa, w tym społecznego budownictwa (SBC), budownictwa na wynajęm, w szczególności gminnego oraz termomodernizacji i remontów budynków mieszkalnych,\n- uzupełnianie systemu bankowego, w tym wypełnianie luki rynkowej w kluczowych obszarach gospodarki: po spraw programem aktywizujących sektory opóźne stagnację poprzez działalność antycykliczne - finansujemy projekty o istotnym znaczeniu dla gospodarki oraz wspieramy jej rozwój w obszarach, w których rynek nie dział efektywnie, a także współpracujemy z innymi instytucjami finansowymi na partnerskich zasadach, uzupełniając ich ofertę.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p11_b4",
+          "page": 11,
+          "element_type": "text",
+          "text": "W zakresie naszych działań jest również konsolidacja finansów publicznych oraz zarządzanie programami europejskimi i dystrybucja środków unijnych w całej Polsce - jesteśmy odpowiedzialni za dystrybucje części środków z Krajowego Planu Odbudowy i Zwiększania Odporności. Więcej o KPO w rozdziale V.2. Krajowy Plan Odbudowy i Zwiększania Odporności.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p11_b5",
+          "page": 11,
+          "element_type": "section-header",
+          "text": "6. Kluczowe dane finansowe",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p11_b6",
+          "page": 11,
+          "element_type": "subsection-header",
+          "text": "Kluczowe dane finansowe Grupy Kapitałowej BGK za 2024 rok",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p11_b7",
+          "page": 11,
+          "element_type": "text",
+          "text": "Wynik netto Grupy BGK za 2024 r. wyniósł 3 562 mln zł i był niższy o 170 mln zł r/r. Główną przyczyną spadku wyniku były wyższe o 274 mln zł koszty związane z odpisami i rezerwami na ochronę straty kredytowe oraz odpisami aktualizującymi wyceny instrumentów kapitałowych. Stopa zwrotu z kapitału (ROE) wypracowana przez Grupę w 2024 roku ukształtowała się na poziomie 8,8%, a wskaźnik C/I osiągnął wartość 18,5%, jedną z niższych w sektorze bankowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p11_b8",
+          "page": 11,
+          "element_type": "text",
+          "text": "Na koniec 2024 r. suma bilansowa Grupy BGK wyniosła 270 267 mln zł i była wyższa o 47 268 mln zł r/r. Głównym czynnikiem wzrostu sumy bilansowej była wyższa wartość depozytów klientów o 42 170 mln zł (przede wszystkim na rachunkach Ministerstw i Funduszy). Środki były inwestowane w głównej mierze w aktywa płynne, stąd znaczące wzrosty na lokatach w NBP (45 997 mln zł) oraz na transakcjach z przyrzeczeniem odkupu (16 904 mln zł). W części pozostałej powzięte wynikowe przez niższe saldo duźnych papierów wartościowych (20 976 mln zł). Saldo kredytów i obligacji komercyjnych wzrosło r/r o 1 611 mln zł, a inwestycji kapitałowych o 1 258 mln zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p11_b9",
+          "page": 11,
+          "element_type": "text",
+          "text": "Łączny współczynnik kapitałowy pozostał na wysokim, bezpiecznym poziomie 30,6³¹. Silna pozycja kapitałowa BGK na koniec 2024 r. pozwala na realizację misji BGK i umacniającej wartość działalności wspierającej gospodarcze kraju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p11_b10",
+          "page": 11,
+          "element_type": "caption",
+          "text": "Tabela 1. Podstawowe parametry finansowe działalności Grupy Kapitałowej BGK (w mln zł)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p11_b11",
+          "page": 11,
+          "element_type": "table",
+          "text": "Podstawowe parametry finansowe działalności Grupy Kapitałowej BGK w latach 2020–2024.\n\n| dochodowość | 2024 | 2023 | 2022 | 2021 | 2020 |\n|---|---|---|---|---|---|\n| Wynik na działalności bankowej | 5 319 | 5 265 | 3 704 | 1 565 | 1 459 |\n| Koszty administracyjne | -979 | -868 | -685 | -652 | -624 |\n| Wynik z tytułu rezer/odpisów | -673 | -399 | -301 | -332 | -385 |\n| Udział w zyskach i stratach jednostek stowarzyszonych | 733 | 705 | 32 | 253 | -25 |\n| Wynik brutto | 4 361 | 4 561 | 2 673 | 1 094 | 447 |\n| Wynik netto | 3 562 | 3 732 | 2 162 | 875 | 367 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p11_b12",
+          "page": 11,
+          "element_type": "footnote",
+          "text": "³¹ Powiższy wskaźnik wyliczony jest w ujęciu jednostkowym z uwagi na brak komplementności dokonywanego konsolidacji ostrożnościowej zgodnie z przepisami rozporządzenia CRR",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 12,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p12_b0",
+          "page": 12,
+          "element_type": "subsection-header",
+          "text": "wybrane pozycje bilansowe",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p12_b1",
+          "page": 12,
+          "element_type": "table",
+          "text": "Wybrane pozycje bilansowe BGK na dzień 31 grudnia w latach 2020–2024.\n\n| Pozycja | 31.12.2024 | 31.12.2023 | 31.12.2022 | 31.12.2021 | 31.12.2020 |\n|---|---|---|---|---|---|\n| Kredyty, obligacje (komunalne i komercyjne) brutto | 58 097 | 56 487 | 50 606 | 45 886 | 45 964 |\n| Długoterminowe papiery wartościowe i instrumenty pochodne³ | 119 706 | 140 682 | 125 657 | 81 957 | 64 972 |\n| Inwestycje kapitałowe netto | 8 839 | 7 581 | 5 894 | 6 782 | 5 880 |\n| Zobowiązania wobec klientów | 203 752 | 161 582 | 153 816 | 150 804 | 116 138 |\n| Kapitał ogółem | 42 231 | 40 112 | 30 688 | 24 722 | 23 924 |\n| Suma bilansowa | 270 267 | 222 999 | 207 021 | 196 644 | 160 326 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p12_b2",
+          "page": 12,
+          "element_type": "subsection-header",
+          "text": "pozabilansowe zobowiązania udzielone",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p12_b3",
+          "page": 12,
+          "element_type": "table",
+          "text": "Pozabilansowe zobowiązania udzielone przez BGK na dzień 31 grudnia w latach 2020–2024.\n\n| Pozycja | 31.12.2024 | 31.12.2023 | 31.12.2022 | 31.12.2021 | 31.12.2020 |\n|---|---|---|---|---|---|\n| Linie i limity kredytowe oraz pozostałe zobowiązania | 98 574 | 83 492 | 77 314 | 55 048 | 51 896 |\n| Certyfikaty zobowiązanie do przyszłych wpłat | 2 017 | 2 289 | 3 160 | 2 463 | 3 015 |\n| Zobowiązania gwarancyjne | 33 844 | 31 183 | 27 938 | 18 233 | 18 058 |\n| Pozostałe zobowiązania | 60 | 393 | 389 | 246 | 829 |\n| Suma | 134 495 | 117 357 | 108 801 | 75 990 | 73 799 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p12_b4",
+          "page": 12,
+          "element_type": "subsection-header",
+          "text": "kluczowe wskaźniki",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p12_b5",
+          "page": 12,
+          "element_type": "table",
+          "text": "Kluczowe wskaźniki finansowe BGK w latach 2020–2024.\n\n| Wskaźnik | 2024 | 2023 | 2022 | 2021 | 2020 |\n|---|---|---|---|---|---|\n| C/I | 18.5% | 16.9% | 18.9% | 35.7% | 42.2% |\n| ROE (wynik netto / śr. fundusze ogółem) | 8.8% | 10.6% | 7.9% | 3.3% | 1.4% |\n| ROA (wynik netto / śr. aktywa) | 1.3% | 1.6% | 1.0% | 0.4% | 0.2% |\n| Marża odsetkowa (wynik z tytułu odsetek / śr. aktywa) | 1.6% | 1.8% | 1.4% | 0.5% | 0.6% |\n| Łączny współczynnik kapitałowy | 30.6% | 33.4% | 31.4% | 29.4% | 33.9% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p12_b6",
+          "page": 12,
+          "element_type": "subsection-header",
+          "text": "Kluczowe dane finansowe BGK za 2024 rok",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p12_b7",
+          "page": 12,
+          "element_type": "text",
+          "text": "W 2024 r. BGK wypracował 2 902 mln zł wyniku netto, tj. o 248 mln zł mniej niż w roku poprzednim. Spośród zwizaany był przede wszystkim ze wzrostem odsetek (480 mln zł r/r) w części kompensowanym wzrostem wyniku z działalności bankowej (178 mln zł r/r), o szczególności wynikiem odsettowym (o 73 mln zł r/r) zwizanym ze wzrostem sald długytków i pasywów odsettowych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p12_b8",
+          "page": 12,
+          "element_type": "text",
+          "text": "Na koniec 2024 roku suma bilansowa BGK wyniosła 268 990 mln zł, o 46 636 mln zł powyżej końca 2023 roku. Głównym czynnikiem wzrostu sumy bilansowej było wyższa wartość depozytów klientów o 42 162 mln zł (przede wszystkim ze wzrostem w Ministerstwu Finansów). Środki były inwestowane w głównej mierze w aktywa płynne, stąd znaczące wzrosty w obligacjach w NBP (45 997 mln zł) oraz BSB (16 909 mln zł), w części inwestowane przez niższe saldo dużych papierów wartościowych (20 977 mln zł). Saldo kredytów i obligacji komercyjnych wzrosło r/r o 1 614 mln zł, o inwestycji kapitałowych o 520 mln zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p12_b9",
+          "page": 12,
+          "element_type": "text",
+          "text": "Łączny współczynnik kapitałowy pozostawał na wysokim, bezpiecznym poziomie 30.6⁶. Silna pozycja kapitałowa BGK na koniec 2024 r. pozwala na realizację misji BGK i umożliwia wespierające rozwój gospodarczy kraju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p12_b10",
+          "page": 12,
+          "element_type": "caption",
+          "text": "Tabela 2. Podstawowe parametry finansowe działalności BGK (w mln zł)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p12_b11",
+          "page": 12,
+          "element_type": "table",
+          "text": "Podstawowe parametry finansowe działalności BGK w latach 2020–2024.\n\n| dochodowoość | 2024 | 2023 | 2022 | 2021 | 2020 |\n|---|---|---|---|---|---|\n| Wynik na działalności bankowej | 5 305 | 5 127 | 3 727 | 1 794 | 1 468 |\n| Koszty administracyjne | -982 | -852 | -675 | -522 | -522 |\n| Wynik z tytułu rezerw/uposiów | -751 | -271 | -282 | -392 | -522 |\n| Wynik brutto | 3 556 | 3 862 | 2 693 | 842 | 370 |\n| Wynik netto | 2 902 | 3 150 | 2 178 | 696 | 316 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p12_b12",
+          "page": 12,
+          "element_type": "footnote",
+          "text": "³ Obligacje korporacyjne i komunalne ujmowane w kredytach i obligacjach (komercyjnych i komunalnych)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p12_b13",
+          "page": 12,
+          "element_type": "footnote",
+          "text": "⁶ Powyższy wskaźnik wyznazczony jest w ujęciu jednostkowym z uwagi iż brak konieczoności diskontowania konsolidacji ostroznościowej zgodnie z przepisami rozporządzenia CRR",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 13,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "I Jedyny taki bank",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p13_b0",
+          "page": 13,
+          "element_type": "caption",
+          "text": "wybrane pozycje bilansowe",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p13_b1",
+          "page": 13,
+          "element_type": "table",
+          "text": "Wybrane pozycje bilansowe BGK na dzień 31.12 w latach 2020-2024.\n\n| Pozycja | 31.12.2024 | 31.12.2023 | 31.12.2022 | 31.12.2021 | 31.12.2020 |\n|---|---|---|---|---|---|\n| Kredyty, obligacje (komunalne i komercyjne) brutto | 57 992 | 56 377 | 50 451 | 45 830 | 45 935 |\n| Zobowiązania wobec banków centralnych i instrumenty podobne⁸ | 119 673 | 140 630 | 125 605 | 81 939 | 64 954 |\n| Inwestycje kapitałowe netto | 7 587 | 7 066 | 5 755 | 6 589 | 7 714 |\n| Zobowiązania wobec klientów | 203 793 | 161 631 | 153 830 | 150 811 | 116 258 |\n| Kapitał ogółem | 40 919 | 39 420 | 30 448 | 24 514 | 23 874 |\n| Suma bilansowa | 268 990 | 222 354 | 206 793 | 196 442 | 160 301 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p13_b2",
+          "page": 13,
+          "element_type": "caption",
+          "text": "pozabilansowe zobowiązania udzielone",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p13_b3",
+          "page": 13,
+          "element_type": "table",
+          "text": "Pozabilansowe zobowiązania udzielone BGK na dzień 31.12 w latach 2020-2024.\n\n| Pozycja | 31.12.2024 | 31.12.2023 | 31.12.2022 | 31.12.2021 | 31.12.2020 |\n|---|---|---|---|---|---|\n| Linie i limity kredytowe oraz pozostałe zobowiązania | 98 574 | 83 492 | 77 314 | 55 048 | 51 896 |\n| Certyfikaty, zobowiązanie do wypłat wplat | 2 017 | 2 289 | 3 160 | 2 530 | 3 113 |\n| Zobowiązania gwarancyjne | 33 844 | 31 183 | 27 938 | 18 233 | 18 058 |\n| Pozostałe zobowiązania | 60 | 393 | 389 | 246 | 829 |\n| Suma | 134 495 | 117 357 | 108 801 | 76 057 | 73 896 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p13_b4",
+          "page": 13,
+          "element_type": "caption",
+          "text": "kluczowe wskaźniki",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p13_b5",
+          "page": 13,
+          "element_type": "table",
+          "text": "Kluczowe wskaźniki finansowe BGK w latach 2020-2024.\n\n| Wskaźnik | 2024 | 2023 | 2022 | 2021 | 2020 |\n|---|---|---|---|---|---|\n| C/I | 18.2% | 17.1% | 18.4% | 30.9% | 35.8% |\n| ROE (wynik netto / śr. fundusze ogółem) | 7.2% | 8.9% | 8.0% | 2.9% | 1.4% |\n| ROA (wynik netto / śr. aktywa) | 1.2% | 1.5% | 1.1% | 0.4% | 0.2% |\n| Marża odsetkowa (wynik z tytułu odsetek / śr. aktywa) | 1.8% | 2.0% | 1.6% | 0.5% | 0.6% |\n| Łączny współczynnik kapitałowy | 30.6% | 33.4% | 31.4% | 29.4% | 33.9% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p13_b6",
+          "page": 13,
+          "element_type": "picture",
+          "text": "Portret mężczyzny w średnim wieku w garniturze i okularach, na jasnym tle. Po lewej stronie znajduje się tekst z cytatem i podpisem.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p13_b7",
+          "page": 13,
+          "element_type": "text",
+          "text": "Działania podjęte w 2024 r. oraz nasze wyniki finansowe to dowód na profesjonalizm Banku Gospodarki Krajowej i odpowiedzialne zarządzanie środkami publicznymi. Cały czas pamiętamy o naszej roli i pozycji polskiego banku rozwoju. Łączne wsparcie, które wygenerowaliśmy dla gospodarki sięga 389 mld zł. To dla nas szczególnie ważne, bo zysk nie jest dla BGK celem samym w sobie. Na pierwszym miejscu stawiamy wzmacnianie polskiej gospodarki.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p13_b8",
+          "page": 13,
+          "element_type": "text",
+          "text": "Mirosław Czekaj, Prezes Zarządu BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p13_b9",
+          "page": 13,
+          "element_type": "picture",
+          "text": "Wnętrze nowoczesnego budynku z dużymi okiennymi przeszkleniami, kolumnami wsparcia i minimalistycznym designem. Widoczne są jasne sufity i naturalne światło wpadające przez okna.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p13_b10",
+          "page": 13,
+          "element_type": "footnote",
+          "text": "⁸ Obligacje korporacyjne i komunalne ujmowane w kredytach i obligacjach (komercyjnych i komunalnych)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    }
+  ]
+}

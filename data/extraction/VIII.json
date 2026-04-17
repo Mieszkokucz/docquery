@@ -1,0 +1,842 @@
+{
+  "chapter_id": "VIII",
+  "title": "VIII Perspektywy",
+  "page_start": 142,
+  "page_end": 147,
+  "pages": [
+    {
+      "page_num": 142,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VIII Perspektywy",
+      "sections": [],
+      "blocks": []
+    },
+    {
+      "page_num": 143,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VIII Perspektywy",
+      "sections": [
+        "Otoczenie gospodarcze",
+        "Nowa perspektywa: strategia 2025-2030"
+      ],
+      "blocks": [
+        {
+          "block_id": "p143_b0",
+          "page": 143,
+          "element_type": "section-header",
+          "text": "1. Otoczenie gospodarcze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p143_b1",
+          "page": 143,
+          "element_type": "subsection-header",
+          "text": "Procesy cenowe i geopolityka pozostają głównym źródłem niepewności makroekonomicznej",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p143_b2",
+          "page": 143,
+          "element_type": "text",
+          "text": "W BGK przewidujemy stabilizację globalnego tempa wzrostu gospodarczego w 2025 r. Dalej wygasać będą napięcia na rynku surowców energetycznych oraz popandemiczne fluktuacje popytу na dobra trwałe użytku. Ścieżka stóp procentowych w strefie euro jest niznormalizowana na mniejszych niepewności niż w USA. Podwyższona zmienność będzie dotycząć również konsumpcji w Chinach gdzie problemy na rynku nieruchomości mogą negatywnie wpłynąć na konsumpcję gospodarstw domowych oraz dynamikę CPI.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p143_b3",
+          "page": 143,
+          "element_type": "text",
+          "text": "W 2025 r. następować będzie poprawa krajowej koniunkury i przyspieszenie nieznego tempa wzrostu PKB do ok. 3.5%, czyli powyżej poziomu długoterminowej średniej. Sprzyjać temu powinien wzrost realnych dochodów gospodarstw domowych oraz ożywienie w inwestycjach. Jednoczenie tempo wzrostu będzie osłabiane przez ujemną kontrybucie eksportu netto i utrzymująca się restrykcyjną politykę monetarną. Towarzyszyć temu będzie stopniowe obniżanie dynamiki cen konsumpcyjnych. Roczny CPI oscyluje wokół 5% początku 2025 r. Niemiej w kolejnych kwartałach powinien obniżać się i w konsekwencji zakończyć rok deliktanie poniżej górnego pasma odchyleń od celu NBP. Zejście do samego przedziału pasma nastąpi natomiast prawdopodobnie w 2026 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p143_b4",
+          "page": 143,
+          "element_type": "caption",
+          "text": "WYKRES 8. Dynamika PKB i poziom inflacji (consumer price index, CPI; w %)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p143_b5",
+          "page": 143,
+          "element_type": "picture",
+          "text": "Wykres liniowy pokazujący dynamikę PKB i poziom inflacji (CPI) w latach 2024-2027. Wykres zawiera cztery linie: CPI (na koniec okresu) zmniejszającą się z 4,7% w 2024 do 3,0% w 2027, CPI (średni) malejącą z 3,6% do 2,5%, GDP rosnącą z 2,9% do 3,5% a następnie malejącą do 2,7%, oraz dodatkową linię pokazującą zmienność wartości od 4,6% do 3,1% w latach 2024-2026.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p143_b6",
+          "page": 143,
+          "element_type": "text",
+          "text": "Głównym źródłem niepewności w najbliższych miesiącach pozostają kwestie geopolityczne, przede wszystkim związane ze scenariuszami zakończenia wojny na Ukrainie oraz wydarzeniami na Bliskim Wschodzie. Dodatkowym elementem zwiększającym czymniki ryzyka jest polityka handlowa nowej amerykańskiej administracji i jej przelozenie na wymianę towarową USA-",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p143_b7",
+          "page": 143,
+          "element_type": "text",
+          "text": "reszta świata. Wydarzenia te mają bezpośredni wpływ na rynki surowcowe i procesy cenowe, a w konsekwencji na konsumpcję, kształt polityk monetarnych i zagregowany popyt.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p143_b8",
+          "page": 143,
+          "element_type": "section-header",
+          "text": "2. Nowa perspektywa: strategia 2025-2030",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p143_b9",
+          "page": 143,
+          "element_type": "text",
+          "text": "Podstawowe cele naszej działalności określone w przepisach to wspieranie polityki gospodarczej Rady Ministrów, rządowych programów społeczno-gospodarczych (w tym poreceniowo-gwarancyjnych) oraz programów samorządności lokalnej i rozwoju regionalnego. W nowej strategii pokorią na lata 2025 - 2030 określiśmy kierunki biznesowe odpowiadające na potrzeby przenikalających liście grup odbiorców - przedsiębiorstw, społeczności oraz państwa.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p143_b10",
+          "page": 143,
+          "element_type": "text",
+          "text": "Wyzwania i potrzeby, takie jak mobilizacja kapitału, odporność społeczno-gospodarcza, demografia, innowacje, tempo nauki i technologia, bezpieczeństwo oraz transformacja energetyczna mają często złożony i przekrojowy charakter. Zostało to ujęte w formie kontinuacji misji oraz nowej wizji banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p143_b11",
+          "page": 143,
+          "element_type": "other",
+          "text": "Ikona globusa z napisem 'ZOBACZ WIĘCEJ' oraz informacją: Informacje o naszej nowej strategii znajdują się na stronie internetowej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p143_b12",
+          "page": 143,
+          "element_type": "picture",
+          "text": "Infografika pokazująca strukturę nowej strategii bankowej 2025-2030. Na górze znajdują się trzy główne filary: 'Dynamiczna, innowacyjna i konkurencyjna gospodarka', 'Sprawne samorządy, oaktywne i nowoczesne społeczności lokalne i regionalne' oraz 'Istotny partner finansowy instytucji publicznych'. W środku znajduje się fraza 'Hub eksperckiej wiedzy i kompetencji w zakresie finansowania przedsięwzięć rozwojowych'. Na dole znajduje się diagram DNA z trzema wartościami: 'ODPOWIEDZIALNOŚĆ', 'ZESPOŁOWOŚĆ' i 'PROFESJONALIZM'.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 144,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VIII Perspektywy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p144_b0",
+          "page": 144,
+          "element_type": "picture",
+          "text": "Nocne zdjęcie budynku z architekturą nawiązującą do stylu Art Déco, oświetlonego, z logo \"Operacji\" na fasadzie oraz posąg w pierwszym planie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b1",
+          "page": 144,
+          "element_type": "text",
+          "text": "Chcemy budować kompetencje pozwalające na identyfikację potrzeb przedsiębiorstw oraz uwzględnienie perspektywy MON.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b2",
+          "page": 144,
+          "element_type": "text",
+          "text": "Będziemy nadal oferować instrumenty działalności zlecenej finansowane ze środków europejskich i krajowych, które maksymalizują efekt dźwigni i skutecznie wspierają rozwój polskich firm. Planujemy kontynuować promowanie działań i produktów wspierających polski eksport oraz ekspansję przedsiębiorstw. także poza rynki UE.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b3",
+          "page": 144,
+          "element_type": "text",
+          "text": "Nasze wsparcie obejmie również działania rozwojowe w tym z wykorzystaniem instrumentów Komisji Europejskiej, takich jak Ukraine Facility i EFSD+. Jednocześnie BGK będzie pomagać firmom w identyfikacji wyzwań oraz dostosowywaniu się do potrzeb cyfryzacji, automatyzacji i transformacji w duchu twin transition - łączącej zrównoważony rozwój z cyfrową zmianą.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b4",
+          "page": 144,
+          "element_type": "text",
+          "text": "Skoncentrujemy się także na budowaniu bezpieczeństwa energetycznego Polski, wspierając transformację sektora energetycznego - elektroenergetyki, ciepłownictwa i gazu - w kierunku nisko- i zeroemisyjnych rozwiązań oraz zwiększania efektywności energetycznej gospodarki.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b5",
+          "page": 144,
+          "element_type": "text",
+          "text": "W średniej perspektywie będziemy wspierać projekty organizujące ryzyko powstania luki wytworczej, stabilizujące rynek energii i obniżające koszty energii elektrycznej oraz ciepła. W perspektywie długoterminowej bank będzie aktywnie wspierał dalszy rozwój energetyki zbilansuwanego, zeroemisyjnego rynku energetycznego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b6",
+          "page": 144,
+          "element_type": "text",
+          "text": "Wkład banku w transformację energetyczną będzie realizowany przy jednoczesnej dbałości o stabilność i bezpieczeństwo energetyczne oraz zapewnienie cen energii umożliwiających zachowanie konkurencyjności polskiej gospodarki. Działania w zakresie energetyki będą realizowane nie tylko we współpracy z sektorem energetycznym i przedsiębiorstwami energochłonnymi, ale także szerokiej współpracy z jednostkami samorządu terytorialnego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b7",
+          "page": 144,
+          "element_type": "text",
+          "text": "BGK będzie też wzmacniać odporność kraju, finansując inwestycje w infrastrukturę transportową i przesyłową, w tym budowę zintegrowanego systemu składów komunikacyjnych, cyfryzację oraz modernizację infrastruktury łączącej Polskę z krajami sąsiadującymi. Stawiamy także na rozwój usług intermodalnych i logistyki podwójnego zastosowania (dual-use). Nowym priorytetem jest również wsparcio strategicznych projektów rządowych oraz dekarbonizacja transportu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b8",
+          "page": 144,
+          "element_type": "other",
+          "text": "Obramowanie ze zdjęciem budynku zawierające etykiety \"MISJA\" i \"WIZJA\" z opisami celów banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b9",
+          "page": 144,
+          "element_type": "text",
+          "text": "Jak bank rozwoju naszym głównym celem nie jest maksymalizacja zysku. To dlatego nasza strategia jest unikalna i tym różni się od strategii banków komercyjnych. Naszą kluczową rolą jest mobilizacja efektywnie wykorzystanie kapitału prywatnego we wspieraniu rozwoju gospodarczego i społecznego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b10",
+          "page": 144,
+          "element_type": "subsection-header",
+          "text": "Dynamiczna, innowacyjna i konkurencyjna gospodarka",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p144_b11",
+          "page": 144,
+          "element_type": "text",
+          "text": "Jest to odpowiedź na potrzeby biznesu, a także wyzwania gospodarczę w skali mikro. BGK skoncentruje się m.in. na inwestowaniu w innowacje (Venture Capital, Private Equity, Venture Building, Fundusze z EFI, wykorzystanie Vinci S.A.), dużych projektach infrastrukturalnych oraz projektach międzynarodowych i ekspozycji zagranicznej. Chcemy pozostać stabilnym konsorcjantem dużych projektów, co wpłynie na zwiększenie aktywności innych instytucji finansowych oraz ich udziału w finansowaniu rozwoju gospodarczego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b12",
+          "page": 144,
+          "element_type": "text",
+          "text": "BGK będzie też istotnym partnerem dla polskiego przemysłu obronnego, zapewniając finansowanie instrumentami działalności własnej oraz obsługę instrumentów powierzonych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p144_b13",
+          "page": 144,
+          "element_type": "text",
+          "text": "Konkurencyjność polskiego przemysłu i przedsiębiorstw musi operać się na czystym powiertzu. wodozie i środowisku. Dlatego też, chcemy angażować się w projekty gospodarki obiegu zamkniętego, które pozwolą efektywnie wykorzystać osadę, soły, i inicjatywy związane z retencją wody. chroniczne kraj przed skutkami postępującej suszy hydrologicznej. Jednocześnie będziemy kontynuować działania na rzecz dekarbonizacji, dążąc do neutralności klimatycznej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 145,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VIII Perspektywy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p145_b0",
+          "page": 145,
+          "element_type": "picture",
+          "text": "Ikona przedstawiająca budynek bankowy z symbolem pieniądza w lewym górnym rogu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p145_b1",
+          "page": 145,
+          "element_type": "subsection-header",
+          "text": "Sprawne samorządy, aktywne i gospodarne społeczności lokalne i regionalne",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p145_b2",
+          "page": 145,
+          "element_type": "text",
+          "text": "Wsparcie rozwoju na poziomie regionalnym i lokalnym jest jednym z podstawowych zadań BGK jako krajowego banku rozwoju. Chcemy wzmacniać naszą rolę jako stabilnego źródła finansowania samorządów i rozwijać ofertę finansowania zwrotnego celów społecznych jako alternatywy dla dotacji. Juk bez opoiwiadali na kluczowe wyzwania związane z potrzebami mieszkalniowymi i ochroną zdrowia Polaków. Wspomożemy proces transformacji szpitali poprzez finansowania restrukturyzacji rozszerzające możliwości oraz finansowania wspierające inwestycje i modernizacje w podmiotach leczniczych. Współpraca ze szpitalami zostanie uzupełniona o działalania edukacyjne dotyczące ESG, zielonęj transformacji, nowoczesnych metod leczenia oraz optymalnego zarządzania w celu podniesienia jakości opieki zdrowotnej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p145_b3",
+          "page": 145,
+          "element_type": "text",
+          "text": "BGK będzie kontynuował również swoją działalność w zakresie budownictwa mieszkaniowego dostępnego cenowo. Bank planuje dostarczyć instrumenty finansowe wspierające realizację rządowych programów mieszkaniowych oraz kontynuować rozwój budownictwa społecznego i komunalnego przy wykorzystaniu Funduszu Dopłat. W zakresie budownictwa społecznego, w tym spółdzielczego, BGK będzie aktywnie wspierać wdrażanie programu SBC (edycja 2025).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p145_b4",
+          "page": 145,
+          "element_type": "text",
+          "text": "W obszarze budownictwa własościowego bank zamierza zapewnić doskonałość operacyjną we wdrażaniu i obsługę nowych programów mieszkaniowych. W kontekście termomodernizacji i remontów, w tym przystosowań, BGK będzie wspierać działania na rzecz poprawy efektywności energetycznej budynków wielorodzinnych oraz modernizacji zasobów mieszkaniowych gmin.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p145_b5",
+          "page": 145,
+          "element_type": "picture",
+          "text": "Ikona przedstawiająca osoby w sieciach łączności, symbolizująca partnerstwo instytucji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p145_b6",
+          "page": 145,
+          "element_type": "subsection-header",
+          "text": "Istotny partner finansowy instytucji publicznych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p145_b7",
+          "page": 145,
+          "element_type": "text",
+          "text": "Relacje BGK z instytucjami publicznych, w tym w szczególności z Ministerstwem Finansów, są kluczowe w dostarczaniu usług i kompetencji wspierających zadania publiczne oraz realizacji programów polityki gospodarczej państwa. Chcemy aby nasze działania - np. nowa strategia zarządzania środkami funduszy umiejscowionych w BGK - przybyliły wzmienne korzysci w tym obszarze.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p145_b8",
+          "page": 145,
+          "element_type": "text",
+          "text": "Isłotnym zadaniem będzie zwiększenie zakresu i podniesienie jakości obsługi finansowej sektora publicznego. Oznaczać to będzie aktywną cyfryzacje systemu rozliczeń, w którym BGK jest ogentem rozliczeniowym. Rozwój współpracy z organizacjami płatniczymi oraz dostępcmi rozwiązań IT pozwoli rozszerzyć model odplatności w sektore publicznym (BLIK karty płatnicze). Wzrośnie też liczba jednostek samorządu terytorialnego przytstępujących do oferty mobilnych logowanodów i nowych kanałów sprzedaży produktów. 2.0. Będziemy kontynuować obsługę płatności ze średków europejskich w ramach kolejnych perspektyw finansowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p145_b9",
+          "page": 145,
+          "element_type": "text",
+          "text": "Wzmocnienie współpracy z Ministerstwem Finansów w zakresie zarządzania długiem publicznym i stabilizacji polskiego rynku finansowego będzie zadaniem o fundamentalnej wagi rozsi godanej przę państwa. Efektywnie realizować będziemy NGM, zagospodarowanie funduszy umiejscowionych w BGK oraz transakcje z publiczymi i prywatnymi podmiotami na rynku walutowym, kapitałowym, pieniężnym i instrumentów pochodnych. Nasze działania marketingowe będą ścisłe skoordynowane z NB, aby osiągnąć jak najlepsze całościowe efekty w kontekście całego rynku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p145_b10",
+          "page": 145,
+          "element_type": "text",
+          "text": "Planowane kierunki biznesowe będą wspierane przez wewnętrzne działania zorientowane na modernizację i doskonalenie procesów bankowych. BGK podejmie inicjatywy transformacyjne, dzielą którym wzmocni swoją rolę nowoczesnej instytucji finansowej, która zapewnia kompleksowe wsparcie dla zainteresujący. Aby sprostać ambintnym celom strategicznym i oczekiwaniom partnerów biznesowych, bank będzie opierać swoje procesy, technologię i narzędzia, uwzględniając najwyższe standardy bezpieczeństwa oraz obowiązujące regulacje.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p145_b11",
+          "page": 145,
+          "element_type": "text",
+          "text": "Priorytetem stanie się również odpowiedność cyfrowa banku, oparta na cyberbezbieczeństwie i świadomości cyfrowej pracowników. Jest to kluczowa kwestia w kontekście ospoędy roli BGK w finansowaniu potrzeb polskich sił zbrojnych. Nowy model zarządzania IT zapewni sprawne wdrażanie rozwiązań rozwojowych oraz stabilność i dostępność systemów bankowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p145_b12",
+          "page": 145,
+          "element_type": "text",
+          "text": "Wszystkie działania będą realizowane w zgodzie z obowiązującymi przepisami, a nowe wymogi regulacje wdrażane terminowo. BGK zatrudio pracowników o wysokich i często unikalnych kompetencjach powstałych przy współtworzeniu obsługiede wielu produktów i instrumentów finansowych w ramach programów rządowych i unijnych. Chcemy dalej wykorzystować ten potencjał, dostarczając coraz lepsze rozwiązania klientom, interesariuszom i polskiemu społeczeństwu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 146,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VIII Perspektywy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p146_b0",
+          "page": 146,
+          "element_type": "subsection-header",
+          "text": "Hub eksperckiej wiedzy i kompetencji w zakresie finansowania przedsięwzięć rozwojowych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p146_b1",
+          "page": 146,
+          "element_type": "text",
+          "text": "To szereg działań skoncentrowanych na wspieraniu rozwoju naszych pracowników i kadry menedżerskiej. Kluczowym elementem tego procesu będzie intensyfikacja działań związanych z rozwijaniem systemów cyfrowych, które pozwoli na zapamiętanie jeszcze lepszych rozwiązań dla klientów banku, interesujących nas w zdolnie - polskim obywatelem.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p146_b2",
+          "page": 146,
+          "element_type": "text",
+          "text": "Planujemy także aktywnie wspierać rozwój społeczny, angażując się w inicjatywy mające na celu poprawę jakości życia lokalnych społeczności oraz wspieranie zrównoważonego rozwoju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p146_b3",
+          "page": 146,
+          "element_type": "text",
+          "text": "Poprzez inwestycje w technologię i kompetencje zespołów oraz wsparcię rozwoju społecznego dążymy do podnoszenia jakości świadczonych usług oraz wypracowania innowacyjnych rozwiązań, które odpowiadają na zmieniające się potrzeby rynku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p146_b4",
+          "page": 146,
+          "element_type": "picture",
+          "text": "Czarno-białe zdjęcie historyczne przedstawiające pracowników w fabryce lub warsztacie, zatrudnionych przy pracach manualnych. Widoczni są mężczyźni w kapeluszach i ubraniach roboczych, pracujący przy maszynach i urządzeniach.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p146_b5",
+          "page": 146,
+          "element_type": "subsection-header",
+          "text": "Wyzwania społeczno-gospodarcze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p146_b6",
+          "page": 146,
+          "element_type": "text",
+          "text": "Wiele wskazuje na to, że w 2025 roku niepewność ponownie stanie się kluczowym hasłem definiującym sytuację społeczno-gospodarczą Polski. Niższe ograniczenia zjawiskami procesu, których przebieg jest obciąż trudny do prognozowania. Trudno przewidzieć, w jaki sposób zmieniająca się zapatrywania administracji prezydentów Trumpa - zmuszają też dotyczące polityki handlowej i zaangażowania militarnego Stanów Zjednoczonych w Europie. Co za tym idzie, trudno przewidywać dalszy los wojny w Ukrainie i ewentualne warunki jej zakończenia. Niewiadomą jest również polityka gospodarcza, jaka będzie przeważić nowy rząd niemiec. przyszłość rządu we Francji, a także jak daleko idące będą zmiany dotychczasowego ustroju bezpieczeństwa Komisji Europejskiej, w sierpniu finansowania obronności. Na wszystko nakłada się nieprzewidywalność dotyczącą dynamiki rozwoju sztucznej inteligencji. Nowe technologie, powstające już nie tylko w Dolinie Krzemowej, ale też w Chinach, cały czas mogą silnie wpływać na przewidywania dotyczące procesy gospodarczych w najbliższych latach, a także na wyceny aktywów finansowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p146_b7",
+          "page": 146,
+          "element_type": "text",
+          "text": "Jednocześnie okoliczności, które można uznać za pewne to:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p146_b8",
+          "page": 146,
+          "element_type": "list",
+          "text": "- Polska przez pierwsze sześć miesięcy 2025 r. pełni prezydencję w Radzie Unii Europejskiej, a jej priorytety są zorganizowane wokół zagadnienia bezpieczeństwa.\n- Polska będzie w najbliższym czasie inwestowała więcej w rozwój swoich zdolności obronnych i możliwości rodzimego przemysłu zbrojeniowego.\n- Ruszyły pierwsze programy zaplanowane w ramach Krajowego Planu Odbudowy i Zwiększania Odporności, a w 2025 r. alokacja środków przyspieszyć.\n- Komisja Europejska nie odwraca się od dotychczasowej strategii zielonej transformacji, choć najprawdopodobniej złagodzi wymogi regulacyjne i nieco inaczej rozłoży akcenty pomiędzy różne priorytety. Oznacza to, że proces transformacji energetycznej Polski będzie kontynuowany.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p146_b9",
+          "page": 146,
+          "element_type": "text",
+          "text": "Wygląda na to, że inwestycje i bezpieczeństwo, obok niepewności, będą kolejnymi ważnymi hasłami opisującymi rok 2025.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p146_b10",
+          "page": 146,
+          "element_type": "text",
+          "text": "Biorąc pod uwagę prawdopodobieństwo ziszczenia się poszczególnych scenariuszy oraz ich potencjalny wpływ na polską gospodarkę, na szczególną uwagę zasługują w naszej opinii trzy zagadnienia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p146_b11",
+          "page": 146,
+          "element_type": "text",
+          "text": "Pierwsze z nich to wojna w Ukrainie. Wyczerpanie obu stron konfliktu, zmieniające się nastroje społeczne w państwach wspierających Ukrainę oraz plany administracji przyszydenta Trumpa, pozwalają przewidywać, że rok 2025 przyniesie zakończenie lub przynajmniej zamrożenie konfliktu. Jakiekolwiek zakończenie gorącej fazy wojny w Ukrainie będzie miało z kolei odczuwalny wpływ na polską gospodarkę.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 147,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VIII Perspektywy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p147_b0",
+          "page": 147,
+          "element_type": "list",
+          "text": "- Po pierwsze, zakończenie wojny będzie prawdopodobnie oznaczało wzmocnienie powiązań Ukrainy z państwami zachodnimi, a na pewno większe włączenie Ukrainy w międzynarodową wymianę handlową. Dla części polskich przedsiębiorców może to oznaczać nasilona presję konkurencyjną (np. w rolnictwie lub sektorze przewozowym).\n- Po drugie, proces tworzenia nowego modelu gospodarki Ukraina będzie okazja dla zaangażowania polskich firm. Z jednej strony oznacza to zwiększoną aktywność wybranych firm, o drugiej może mieć wpływ na ceny na polskim rynku i tempo realizowanych w Polsce inwestycji. Jeżeli jednak wojna zostanie przerwana w najbliższym czasie, to oczekiwanie pełnowymiarowego procesu odbudowy zniszczonej infrastruktury może okazać się nieprawdopodobne.\n- Po trzecie, można spodziewać się odpływu uchodźców, którzy przez ostatnie lata osiedlieli się w Polsce - bezpośrednim skutkiem będzie spadek konsumpcji i odpływ pracowników z wielu branż polskiej gospodarki (a koszty pracy i dostępność pracowników stworzyli dla polskich przedsiębiorców wyzwanie już w 2024 roku). Ten proces jest wysoce niepewny i prawdopodobnie będzie miał dość ograniczoną skalę oraz umiarkowane tempo.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p147_b1",
+          "page": 147,
+          "element_type": "picture",
+          "text": "Czarno-biała fotografia historycznego budynku administracyjnego z kolumnadą, otoczonego przechodzącymi ludźmi i jeżdżącymi dorożkami, pochodząca z pierwszej połowy XX wieku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p147_b2",
+          "page": 147,
+          "element_type": "text",
+          "text": "Na szczególnie uwagę będzie zasługiwała również polityka handlowa, jaką wobec administracja prezydenta Trumpa. Fragmentacja globalnego handlu jest czymiś, co obserwujemy już od jakiegoś czasu, ale wzrost barier handlowych pomiędzy sojuszniczymi państwami, które dotychczas były traktowane jako członkowie jednego bloku, może nadać tempo procesowi zupełnie nową dynamikę. Stany Zjednoczone odpowiadały w 2023 roku za osiągnięcie 31% polskiego eksportu, ale oprócz tego do Stanów Zjednoczonych trafiało w 2023 roku również 10% towarów eksportowanych przez Niemcy, które są naszym głównym partnerem handlowym. Wojna handlowa pomiędzy Stanami Zjednoczonymi i Unią Europejską może dodatkowo pogorszyć sytuację europejskiego przemysłu i zmusi przedsiębiorstwa członkowskie do szukania nowych partnerów handlowych w mniej oczywistych regionach.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p147_b3",
+          "page": 147,
+          "element_type": "text",
+          "text": "W 2025 r. należy spodziewać się istotnego wzrostu pożiomu polskich inwestycji - jest to uzasadnione napływem środków unijnych związanym z realizacją Krajowego Planu Odbudowy i Zwiększenia Odporności i lwowiacją transformacją energetyczną, nie też rosnącymi potrzebami obronnymi kraju. Wzrost nakładów na środki trwałe będzie wspierał wzrost gospodarki, o pomiędzy tym przyzwyczajać się do poprawy produktywności polskich przedsiębiorców i obniżać koszty energii. Wyzwaniem może być odpowiednie wykorzystanie tego potencjału. Cały czas utrzymują się restrykcyjne warunki dostępu do kredytów i poddawane stop procedurze. Chociaż w najbliższych miesiącach można spodziewać się w tym zakresie poprawy, to polscy przedsiębiorcy nadal będą mieć trudności z pozyskaniem kapitału, który pozwoliłby im na udział w planowanych projektach inwestycyjnych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p147_b4",
+          "page": 147,
+          "element_type": "text",
+          "text": "Dodatkowym utrudnieniem jest stosunkowo krótki horyzont czasowy, w jakim będą musiały zostać zrealizowane planowane inwestycje. KPO ma ściśle określony harmonogram, a projekty zwizane z poprawą potencjału obronnego Polski muszą zostać zrealizowane jak najszybciej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p147_b5",
+          "page": 147,
+          "element_type": "text",
+          "text": "To oznacza, że z perspektywy BGK w najbliższym roku szczególnie ważne będą działania zwizane ze wspieraniem polskich przedsiębiorców w realizacji projektów inwestycyjnych. Wkłóczcza tych wymagających polskiego sektora zagranicznego i wspierających zieloną transformację. Kluczowe stają się też wszelkie działania ukierunkowane na wspieranie obecności polskich produktów na zagranicznych rynkach, które nie były dotychczas pierwszym wyborem dla polskich przedsiębiorców. Ze względu na podwyższoną niepewność i ryzyko wzrostu presji konkurencyjnej ze strony podmiotów zagranicznych ważne pozostanie również wsparcie działalności bieżącej polskich przedsiębiorców.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    }
+  ]
+}
