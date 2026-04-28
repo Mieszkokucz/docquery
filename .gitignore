@@ -3,3 +3,7 @@ __pycache__/
 .env
 .venv/
 venv/
+
+# Generowane PDF-y per-rozdział (używane tylko przez notebooki eksploracyjne)
+data/debug/
+
