@@ -1,0 +1,3343 @@
+{
+  "chapter_id": "III",
+  "title": "III Pracownicy",
+  "page_start": 29,
+  "page_end": 46,
+  "pages": [
+    {
+      "page_num": 29,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": []
+    },
+    {
+      "page_num": 30,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [
+        "1.  BGK jako pracodawca"
+      ],
+      "blocks": [
+        {
+          "block_id": "p30_b0",
+          "page": 30,
+          "element_type": "section-header",
+          "text": "1. BGK jako pracodawca",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p30_b1",
+          "page": 30,
+          "element_type": "identifier",
+          "text": "GRI 3-3 temat: Kwestie pracownicze;   SDG 3, SDG 5",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p30_b2",
+          "page": 30,
+          "element_type": "text",
+          "text": "Tworzymy w BGK nowoczesne, przyjazne miejsca pracy. Zapewniamy możliwości rozwoju zawodowego i kariery wewnątrz organizacji. Potwierdzeniem naszej odpowiedzialności jako pracodawcy są otrzymane przez nas w 2024 r. certyfikaty, nagrody i wyróżnienia, m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p30_b3",
+          "page": 30,
+          "element_type": "list",
+          "text": "- certyfikat Top Employer 2024, przyznany przez Top Employers Institute po raz szósty z rzędu,\n- godło Odpowiedzialny Pracodawca – Lider HR 2024, przyznane przez redakcję „Strefy Gospodarki\", niezależnego dodatku do „Dziennika Gazety Prawnej\",\n- tytuł Best Quality Employer przyznany przez Certyfikację Krajową,\n- tytuł Friendly Workplace, przyznany przez redakcję portalu MarkaPracodawcy.pl,\n- certyfikat Inwestor w Kapitał Ludzki przyznany przez Experience Institute,\n- certyfikat HR Najwyższej Jakości przyznany przez Polskie Stowarzyszenie Zarządzania Kadrami,\n- certyfikat Dobry Pracodawca 2024,\n- certyfikat Wellbeing Leader 2024 przyznany przez Wellbeing Institute,\n- Certyfikat EB Stars przyznany przez EB Institute,\n- Nagroda Employer Branding Excellence Awards 2024 przyznana przez HRM Institute za kampanię wizerunkową z wykorzystaniem sztucznej inteligencji,\n- Nagroda Dream Employer przyznana przez Dream Employer Hub za projekt Letniej Akademii oraz Kultura Feedbacku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p30_b4",
+          "page": 30,
+          "element_type": "text",
+          "text": "Na koniec 2024 r. w BGK zatrudnionych było 2 465 osób na 2 443,4 etatach, uwzględniając pracowników na urlopach rodzicielskich, wychowawczych oraz dłuższych zwolnieniach lekarskich. W stosunku do stanu zatrudnienia z końca 2023 r., który wyniósł 2 320 osób (2 291,5 etatów), zatrudnienie wzrosło o 145 osób (151,9 etatów). Stan zatrudnienia w Grupie na 31 grudnia 2024 r. wyniósł 2 456,5 etatów, w stosunku do stanu z końca 2023 r. wzrósł o 150,8 etatów. Spowodowane jest to zwiększeniem działalności banku w wybranych obszarach (m.in. programów rządowych i współpracy międzynarodowej).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p30_b5",
+          "page": 30,
+          "element_type": "text",
+          "text": "Na dzień 31 grudnia 2024 roku zawarliśmy 96 umów cywilnoprawnych, głównie w obszarach IT oraz funduszy europejskich. W obszarze IT prace wspierające dotyczyły m.in. tworzenia oprogramowania, monitorowania wydajności aplikacji i ich testowania oraz pisania scenariuszy testowych. W obszarze funduszy europejskich zleciliśmy obsługę funduszy i programów europejskich wspierających rozwój społeczno-gospodarczy kraju.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p30_b6",
+          "page": 30,
+          "element_type": "identifier",
+          "text": "GRI 2-7, GRI 2-8",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p30_b7",
+          "page": 30,
+          "element_type": "infographic",
+          "text": "Infografika przedstawiająca strukturę płci pracowników BGK z ikonami postaci kobiety i mężczyzny.\n\nPracownicy BGK\n39,4%\n971 mężczyzn\n+6,4% zmiana r/r\n60,6%\n1 494 kobiet\n+6,2% zmiana r/r",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p30_b8",
+          "page": 30,
+          "element_type": "caption",
+          "text": "| Tabela 4. Całkowita liczba pracowników BGK w podziale na rodzaj umowy i płeć",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p30_b9",
+          "page": 30,
+          "element_type": "table",
+          "text": "Tabela przedstawiająca całkowitą liczbę pracowników BGK według rodzaju umowy i płci na 31.12.2024 i 31.12.2023.\nWartości wyrażone w liczbie osób.\n\n| | 31.12.2024 kobiety | 31.12.2024 mężczyźni | 31.12.2024 suma | 31.12.2023 kobiety | 31.12.2023 mężczyźni | 31.12.2023 suma |\n|---|---|---|---|---|---|---|\n| Czas określony | 170 | 130 | 300 | 169 | 124 | 293 |\n| Czas nieokreślony | 1 324 | 841 | 2 165 | 1 238 | 789 | 2 027 |\n| Suma | 1 494 | 971 | 2 465 | 1 407 | 913 | 2 320 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p30_b10",
+          "page": 30,
+          "element_type": "caption",
+          "text": "| Tabela 5. Całkowita liczba pracowników BGK w podziale na wymiar czasu pracy i płeć",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p30_b11",
+          "page": 30,
+          "element_type": "table",
+          "text": "Tabela przedstawiająca całkowitą liczbę pracowników BGK według wymiaru czasu pracy i płci na 31.12.2024 i 31.12.2023.\nWartości wyrażone w liczbie osób.\n\n| | 31.12.2024 kobiety | 31.12.2024 mężczyźni | 31.12.2024 suma | 31.12.2023 kobiety | 31.12.2023 mężczyźni | 31.12.2023 suma |\n|---|---|---|---|---|---|---|\n| Pełen etat | 1 471 | 959 | 2 430 | 1 374 | 897 | 2 271 |\n| Część etatu | 23 | 12 | 35 | 33 | 16 | 49 |\n| Suma | 1 494 | 971 | 2 465 | 1 407 | 913 | 2 320 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 31,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [
+        "2.  Warunki pracy"
+      ],
+      "blocks": [
+        {
+          "block_id": "p31_b0",
+          "page": 31,
+          "element_type": "identifier",
+          "text": "GRI 2-30",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b1",
+          "page": 31,
+          "element_type": "text",
+          "text": "Wszystkie osoby zatrudnione w BGK na umowę o pracę są objęte regulaminem wynagrodzeń, uzgodnionym ze stroną społeczną.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b2",
+          "page": 31,
+          "element_type": "section-header",
+          "text": "2. Warunki pracy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p31_b3",
+          "page": 31,
+          "element_type": "identifier",
+          "text": "GRI 2-19, GRI 2-20, GRI 3-3 temat: Kwestie pracownicze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b4",
+          "page": 31,
+          "element_type": "identifier",
+          "text": "SDG 3, SDG 8",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b5",
+          "page": 31,
+          "element_type": "subsection-header",
+          "text": "Wynagrodzenia dla pracowników",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p31_b6",
+          "page": 31,
+          "element_type": "text",
+          "text": "Kwestie wynagrodzeń regulują w BGK przede wszystkim Polityka wynagrodzeń oraz Regulamin wynagradzania pracowników. Ich zapisy definiują strukturę wynagrodzeń, zasady wyceny stanowisk pracy, taryfikator, systemy motywacyjne oraz jednoznaczny zakaz dyskryminacji przy ustalaniu wynagrodzenia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b7",
+          "page": 31,
+          "element_type": "text",
+          "text": "Wynagrodzenia pracowników składają się z dwóch elementów: część stała obejmuje wynagrodzenie zasadnicze wypłacane za powierzoną pracę oraz świadczenia pieniężne przyznawane na podstawie przepisów obowiązującego prawa, część zmienna to wynagrodzenia, których wysokość zależy od wyników pracy pracownika i wyników finansowych banku. W skład zmiennych składników wynagradzania wchodzą: premia roczna, tzw. premia POP oraz nagroda Top Up za szczególne osiągnięcia pracownika w danym roku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b8",
+          "page": 31,
+          "element_type": "text",
+          "text": "Wysokość premii POP zależy od indywidualnej oceny pracy, uwzględniającej stopień realizacji celów oraz ocenę postawy zgodnie z wartościami BGK. Bank nie przyznaje gwarantowanego wynagrodzenia zmiennego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b9",
+          "page": 31,
+          "element_type": "identifier",
+          "text": "TCFD 1.A",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b10",
+          "page": 31,
+          "element_type": "text",
+          "text": "Wynagrodzenia wyższej kadry zarządzającej są powiązane z wynikami zrównoważonego rozwoju poprzez wyznaczenie osobom zajmującym te stanowiska co najmniej jednego celu ESG. Może być on realizowany indywidualnie lub solidarnościowo, zaś łączna waga wyznaczonych celów ESG nie może być mniejsza niż 10% w sumie celów i powinny",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b11",
+          "page": 31,
+          "element_type": "text",
+          "text": "one stanowić istotny udział w realizowaniu przez bank założeń strategii. Cele ESG są zatwierdzane oraz rozliczane przez Komitet ESG.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b12",
+          "page": 31,
+          "element_type": "text",
+          "text": "Z uwagi na formę prawną BGK, charakter prowadzonej działalności oraz indywidualny profil ryzyka, nie wypłacamy zmiennej części wynagrodzenia w akcjach ani innych instrumentach. W BGK nie przyznajemy bonusów ani premii motywacyjnych za dołączenie do organizacji, a odprawy wypłacane są zgodnie z zasadami Kodeksu pracy. Pracownicy mogą otrzymać nagrodę za polecenie osoby do pracy w BGK na zasadach określonych w Regulaminie programu poleceń pracowniczych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b13",
+          "page": 31,
+          "element_type": "picture",
+          "text": "Zdjęcie przedstawiające regały z książkami w bibliotece oraz ikonę dokumentu po lewej stronie. Obok zdjęcia lista dokumentów regulujących obszar wynagrodzeń w BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p31_b14",
+          "page": 31,
+          "element_type": "list",
+          "text": "- Polityka wynagrodzeń pracowników BGK\n- Polityka zmiennych składników wynagrodzeń zidentyfikowanych pracowników mających istotny wpływ na profil ryzyka w BGK\n- Regulamin wynagradzania pracowników BGK\n- Regulamin wynagradzania Członków Zarządu BGK\n- Regulamin ZFŚS",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 32,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p32_b0",
+          "page": 32,
+          "element_type": "text",
+          "text": "Pracownikowi, którego stosunek pracy ustał w związku z przejściem na rentę lub emeryturę, bank wypłaca dodatkową odprawę w wysokości uzależnionej od stażu pracy, według kryteriów określonych w Regulaminie wynagradzania. Dodatkowo każdy pracownik odchodzący na emeryturę otrzymuje od banku upominek wraz z pisemnym podziękowaniem od Zarządu Banku i informacją o możliwości wstąpienia do Koła Seniora BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b1",
+          "page": 32,
+          "element_type": "text",
+          "text": "Monitorujemy poziomy wynagrodzeń rynkowych dla wszystkich stanowisk w banku, analizujemy standardy rynkowe w tym zakresie i bierzemy udział w badaniach wynagrodzeń realizowanych przez podmioty zewnętrzne.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b2",
+          "page": 32,
+          "element_type": "text",
+          "text": "W stosunku do pracowników o istotnym wpływie na profil ryzyka w BGK (tzw. MRT – material risk takers), bank ma prawo wstrzymać, obniżyć lub ograniczyć wypłatę odroczonego wynagrodzenia zmiennego, jeśli wystąpiły sytuacje z udziałem tych pracowników, które spowodowały znaczne straty banku. Warunki powodujące redukcję wynagrodzenia określone zostały w Polityce zmiennych składników wynagrodzeń.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b3",
+          "page": 32,
+          "element_type": "text",
+          "text": "W odniesieniu do członków Zarządu zastosowanie mają:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b4",
+          "page": 32,
+          "element_type": "list",
+          "text": "- Ustawa o zasadach kształtowania wynagrodzeń osób kierujących niektórymi spółkami,\n- oświadczenie Ministra Rozwoju i Technologii w sprawie zasad kształtowania wynagrodzeń Członków Zarządu Banku Gospodarstwa Krajowego,\n- Regulamin wynagradzania Członków Zarządu Banku Gospodarstwa Krajowego uchwalony przez Radę Nadzorczą.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b5",
+          "page": 32,
+          "element_type": "text",
+          "text": "ZOBACZ WIĘCEJ\nWięcej informacji na temat wynagrodzeń Zarządu znajduje się w rozdziale VI. 4.2. Zarząd.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b6",
+          "page": 32,
+          "element_type": "identifier",
+          "text": "GRI 2-21",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b7",
+          "page": 32,
+          "element_type": "text",
+          "text": "W 2024 r. wynagrodzenie całkowite najlepiej opłaconego pracownika w organizacji było 5,5 razy większe od mediany wynagrodzenia pozostałych pracowników. Wzrost wynagrodzenia całkowitego wspomnianego pracownika w stosunku do 2023 roku wyniósł 16%, podczas gdy mediana całkowitego wynagrodzenia pozostałych zatrudnionych wzrosła o 26,4%. W rezultacie współczynnik będący ilorazem tych wartości przyjął wartość 0,61.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b8",
+          "page": 32,
+          "element_type": "identifier",
+          "text": "GRI 202-1",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b9",
+          "page": 32,
+          "element_type": "caption",
+          "text": "Wykres 1. Wynagrodzenie pracowników BGK najniższego szczebla w stosunku do płacy minimalnej¹⁵",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b10",
+          "page": 32,
+          "element_type": "infographic",
+          "text": "Wykres słupkowy przedstawiający wynagrodzenie pracowników BGK najniższego szczebla w stosunku do płacy minimalnej dla kobiet i mężczyzn w latach 2023-2024.\n\nkobiety:\n31.12.2023: 133%\n31.12.2024: 121%\nzmiana r/r: -12 p.p.\n\nmężczyźni:\n31.12.2023: 139%\n31.12.2024: 128%\nzmiana r/r: -11 p.p.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b11",
+          "page": 32,
+          "element_type": "text",
+          "text": "Wynagrodzenie pracowników najniższego szczebla w BGK wyniosło w 2024 r. 121% ustawowego wynagrodzenia minimalnego w przypadku kobiet oraz 128% w przypadku mężczyzn. Zmiana tych wartości w porównaniu do 2023 r. wynika ze stosunkowo wysokiego wzrostu wynagrodzenia minimalnego w Polsce, który wyniósł 19%, natomiast dynamika wzrostu wynagrodzeń na najniższych szczeblach pracowników w banku była niższa i wyniosła ok. 9%.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p32_b12",
+          "page": 32,
+          "element_type": "footnote",
+          "text": "¹⁵ W niniejszym raporcie zmieniliśmy metodykę definiowania pracowników najniższego szczebla – dane dotyczą pracowników na najniższej kategorii zaszeregowania. Wartości za 2023 r. zostały odpowiednio zaktualizowane.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 33,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p33_b0",
+          "page": 33,
+          "element_type": "subsection-header",
+          "text": "Benefity pracownicze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p33_b1",
+          "page": 33,
+          "element_type": "identifier",
+          "text": "GRI 401-2",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b2",
+          "page": 33,
+          "element_type": "text",
+          "text": "Każdy pracownik BGK – bez względu na rodzaj umowy oraz wymiar etatu – może liczyć na atrakcyjne świadczenia pozapłacowe. Oferowane benefity dla pracowników zatrudnionych na umowę o pracę to m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b3",
+          "page": 33,
+          "element_type": "list",
+          "text": "- pakiety medyczne,\n- karty MultiSport, dofinansowania do uczestnictwa w bractwach sportowych,\n- grupowe pracownicze ubezpieczenia na życie,\n- pracowniczy program emerytalny (PPE), na który pracodawca wpłaca maksymalną możliwą składkę wynoszącą 7% podstawy określonej w przepisach powszechnych,\n- 2 dni wolnego na opiekę nad dzieckiem do 14 roku życia, bez względu na to, czy drugi rodzic wykorzystał dzień wolny na ten cel u swojego pracodawcy,\n- kafeteria benefitów,\n- nagrody jubileuszowe,\n- środki z kasy zapomogowo-pożyczkowej,\n- odprawy emerytalne w kwocie wyższej niż przewiduje Kodeks pracy,\n- dodatkowy dzień wolny dla osoby, która w danym roku kalendarzowym wykorzystała cały przysługujący jej urlop wypoczynkowy,\n- bezpłatna przerwa od pracy, tzw. sabbatical, na okres od 1 do 6 miesięcy (dla pracowników mających co najmniej 10-letni staż pracy w BGK; jej celem jest zapobieganie wypaleniu zawodowemu).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b4",
+          "page": 33,
+          "element_type": "text",
+          "text": "W ramach zakładowego funduszu świadczeń socjalnych oferujemy:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b5",
+          "page": 33,
+          "element_type": "list",
+          "text": "- świadczenia z tytułu urodzenia dziecka,\n- świadczenia dla pracowników i ich dzieci z okazji świąt Bożego Narodzenia,\n- dofinansowanie m.in. nauki języków obcych, wypoczynku (świadczenie urlopowe), biletów na imprezy kulturalne i sportowe, zakupu książek i sprzętu sportowego, opieki nad dziećmi w żłobkach i przedszkolach.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b6",
+          "page": 33,
+          "element_type": "text",
+          "text": "Zasady korzystania oraz zasady gromadzenia, wydatkowania i przeznaczenia środków z Zakładowego Funduszu Świadczeń Socjalnych określa Regulamin ZFŚS.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b7",
+          "page": 33,
+          "element_type": "text",
+          "text": "Po przepracowaniu w BGK pełnych dwóch lat, pracownik ma dodatkowo możliwość skorzystania z pożyczek udzielanych z ZFŚS na cele mieszkaniowe lub remontowe.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b8",
+          "page": 33,
+          "element_type": "text",
+          "text": "Świadczenia finansowane z funduszu socjalnego przysługują też emerytowanym pracownikom BGK. Mogą oni liczyć na:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b9",
+          "page": 33,
+          "element_type": "list",
+          "text": "- dofinansowanie działalności Koła Seniora BGK: w 2024 r. Koło obchodziło 20-lecie działalności, które uświetniliśmy uroczystym spotkaniem,\n- dofinansowanie wypoczynku, rekreacji oraz uczestnictwa w wydarzeniach kulturalnych,\n- zapomogi socjalne i losowe,\n- pożyczki na cele remontowe,\n- świadczenie z okazji świąt Bożego Narodzenia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b10",
+          "page": 33,
+          "element_type": "picture",
+          "text": "Zdjęcie kobiety w okularach wskazującej na wystawę fotograficzną lub artystyczną na ścianie, obok ramka z hashtagiem #NiezwykliPracownicyBGK i opisem pracownicy BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b11",
+          "page": 33,
+          "element_type": "text",
+          "text": "#NiezwykliPracownicyBGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b12",
+          "page": 33,
+          "element_type": "text",
+          "text": "Ania w BGK dba o prosty język, a poza pracą ożywia historie związane z architekturą i sztuką. W zeszłym roku współtworzyła projekt „Miastomijanie",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p33_b13",
+          "page": 33,
+          "element_type": "text",
+          "text": "Źródło: Fundacja Puszka; autor: Sisi Cecylia",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 34,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p34_b0",
+          "page": 34,
+          "element_type": "subsection-header",
+          "text": "Urlopy rodzicielskie",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p34_b1",
+          "page": 34,
+          "element_type": "identifier",
+          "text": "GRI 401-3",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b2",
+          "page": 34,
+          "element_type": "caption",
+          "text": "Tabela 6. Liczba pracowników BGK uprawnionych do urlopu rodzicielskiego oraz tych, którzy powrócili do pracy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b3",
+          "page": 34,
+          "element_type": "table",
+          "text": "Tabela przedstawia liczbę pracowników BGK uprawnionych do urlopu rodzicielskiego oraz tych, którzy powrócili do pracy, z podziałem na kobiety i mężczyzn w latach 2024 i 2023.\nWartości podane jako liczby bezwzględne oraz wskaźniki procentowe.\n\n| liczba pracowników | 2024 kobiety | 2024 mężczyźni | 2024 suma | 2023 kobiety | 2023 mężczyźni | 2023 suma |\n|---|---|---|---|---|---|---|\n| uprawnionych do urlopu rodzicielskiego | 41 | 29 | 70 | 58 | 40 | 98 |\n| którzy skorzystali z urlopu rodzicielskiego | 41 | 18 | 59 | 58 | 4 | 62 |\n| którzy powrócili do pracy po wykorzystaniu urlopu rodzicielskiego | 18 | 17 | 35 | 23 | 3 | 26 |\n| którzy w poprzednim roku powrócili do pracy po urlopie rodzicielskim i byli zatrudnieni minimum 12 miesięcy | 21 | 3 | 24 | 50 | 2 | 52 |\n| Wskaźnik powrotu do pracy¹⁶ | 100,0% | 94,1% | 97,1% | 100,0% | 100,0% | 100,0% |\n| Wskaźnik utrzymania zatrudnienia | 91,3% | 100,0% | 92,3% | 96,2% | 100,0% | 94,6% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b4",
+          "page": 34,
+          "element_type": "text",
+          "text": "Wskaźnik powrotu do pracy liczony jest jako iloraz liczby pracowników, którzy w 2024 roku powrócili do pracy po wykorzystaniu urlopu rodzicielskiego do liczby pracowników, którym w tym samym okresie kończył się urlop rodzicielski i powinni powrócić do pracy. Dla ogółu pracowników spadł on o 2.9 p.p. w porównaniu do poprzedniego okresu sprawozdawczego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b5",
+          "page": 34,
+          "element_type": "text",
+          "text": "Wskaźnik utrzymania zatrudnienia liczony jest jako iloraz liczby pracowników, którzy w 2023 roku powrócili do pracy po urlopie rodzicielskim i byli zatrudnieni przez minimum 12 miesięcy do liczby pracowników, którzy powrócili do pracy po urlopie rodzicielskim w 2023 r. Dla ogółu pracowników spadł on o 2.3 p.p. w porównaniu do poprzedniego okresu sprawozdawczego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b6",
+          "page": 34,
+          "element_type": "subsection-header",
+          "text": "Promocja zdrowia i zdrowego stylu życia",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p34_b7",
+          "page": 34,
+          "element_type": "identifier",
+          "text": "GRI 403-6",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b8",
+          "page": 34,
+          "element_type": "subsection-header",
+          "text": "Program wellbeingowy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p34_b9",
+          "page": 34,
+          "element_type": "text",
+          "text": "Wspieramy dobrostan pracowników, a naszą strategię wellbeingową Power Bank opieramy na czterech filarach:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b10",
+          "page": 34,
+          "element_type": "list",
+          "text": "- przyjazne środowisko pracy,\n- zdrowie fizyczne i psychiczne,\n- bezpieczeństwo finansowe,\n- dobre relacje – utrzymanie więzi i poczucie przynależności.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b11",
+          "page": 34,
+          "element_type": "text",
+          "text": "Power Bank od 2024 r. wspierany jest przez program Liderzy Wellbeingu. Wybrani pracownicy promują dobre praktyki wellbeingowe oraz wdrażają zmiany w zakresie dobrostanu pracowników zachęcając m.in. do wspólnych wyzwań i aktywności.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b12",
+          "page": 34,
+          "element_type": "text",
+          "text": "W 2024 r. Wellbeing Institute docenił naszą organizację i po raz kolejny przyznał certyfikat Wellbeing Leader. Eksperci uznali, że skutecznie wspieramy dobrostan pracowników w siedmiu obszarach:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b13",
+          "page": 34,
+          "element_type": "list",
+          "text": "- świadomość,\n- zdrowie psychiczne,\n- zdrowie fizyczne,\n- relacje międzyludzkie,\n- fizyczne warunki miejsca pracy,\n- systemy i procesy,\n- kultura organizacyjna.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p34_b14",
+          "page": 34,
+          "element_type": "footnote",
+          "text": "¹⁶ W niniejszym raporcie wprowadziliśmy korektę danych wskaźnika powrotu do pracy za 2023 r.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 35,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p35_b0",
+          "page": 35,
+          "element_type": "subsection-header",
+          "text": "Zdrowie fizyczne i psychiczne",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p35_b1",
+          "page": 35,
+          "element_type": "identifier",
+          "text": "GRI 3-3 temat: Kwestie pracownicze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p35_b2",
+          "page": 35,
+          "element_type": "text",
+          "text": "Zapewniamy pracownikom abonamentową, prywatną opiekę medyczną.. Dostępne pakiety umożliwiają korzystanie z usług medycznych także poza siecią placówek wskazanych przez usługodawcę, na zasadzie kwartalnej refundacji kosztów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p35_b3",
+          "page": 35,
+          "element_type": "text",
+          "text": "W zakresie opieki abonamentowej pracownicy mają dostęp do lekarzy specjalistów, w tym do psychiatry, psychologa oraz stomatologa wraz z opcją sanacji.. Dodatkowo, każda osoba zatrudniona może wykupić po preferencyjnych cenach pakiety medyczne dla osób bliskich.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p35_b4",
+          "page": 35,
+          "element_type": "text",
+          "text": "Prowadzimy działania edukacyjne promujące profilaktykę zdrowotną oraz zdrowy i aktywny styl życia. W 2024 roku zaprosiliśmy pracowników na Dni Zdrowia, podczas których eksperci-dietetycy dzielili się wiedzą na temat zdrowego odżywiania. Osoby zatrudnione miały także okazję sprawdzić ciśnienie tętnicze, wykonać analizę składu ciała oraz skorzystać z masażu biurowego. Wsparcie zdrowych nawyków żywieniowych miał też na celu zorganizowany cykl spotkań z dietetykiem, podczas których rozmawialiśmy m.in. o zbilansowanej diecie w biurze.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p35_b5",
+          "page": 35,
+          "element_type": "text",
+          "text": "Zaangażowaliśmy się również w projekt Healthy Cities Lux Med, który promuje aktywność fizyczną i zdrowy styl życia. Wyzwanie polegało na codziennym wykonywaniu co najmniej 6 tysięcy kroków, co można monitorować za pomocą aplikacji mobilnej. Nasz bank zajął 14. miejsce wśród firm i 2. miejsce pod względem aktywnych użytkowników. Wspólnie wykonaliśmy ponad 96,5 mln kroków. Za każdego z 500 aktywnych w wyzwaniu pracowników BGK, organizator zasadził jedno drzewo. Wspieramy także aktywność fizyczną związaną z dojazdami do pracy – w centrali banku dostępna jest rowerownia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p35_b6",
+          "page": 35,
+          "element_type": "text",
+          "text": "W II połowie roku zaprosiliśmy pracowników do udziału w akcji Październik miesiącem zdrowia psychicznego. W każdy październikowy czwartek organizowaliśmy spotkania z psychologami poświęcone trosce o zdrowie psychiczne, walce ze stygmatyzacją społeczną osób dotkniętych depresją i przełamywaniu tabu, jakim jest otwarte mówienie o trudnościach emocjonalnych. W banku funkcjonuje też Employee Assistance Program (EAP) – profesjonalne, poufne źródło informacji oraz wsparcia psychologicznego dla wszystkich pracowników i członków ich rodzin. Wsparcie obejmuje trudne sytuacje w życiu zawodowym i prywatnym. Pomocy udziela zespół psychologów, terapeutów, psychoterapeutów oraz coachów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p35_b7",
+          "page": 35,
+          "element_type": "picture",
+          "text": "Zdjęcie mężczyzny w czerwonej bluzie z napisem 'szlachetna PACZKA', ubranego w szarą czapkę i szalik, uśmiechającego się do zdjęcia. W tle widoczne są kartony.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p35_b8",
+          "page": 35,
+          "element_type": "text",
+          "text": "#NiezwykliPracownicyBGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p35_b9",
+          "page": 35,
+          "element_type": "text",
+          "text": "Marek w pracy koordynuje projekty unijne, a po godzinach żegluje, zdobywa górskie szczyty z psem i od 9 lat zmienia świat na lepsze jako wolontariusz Szlachetnej Paczki.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p35_b10",
+          "page": 35,
+          "element_type": "subsection-header",
+          "text": "Zabezpieczenie emerytalne",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p35_b11",
+          "page": 35,
+          "element_type": "text",
+          "text": "Jednym z elementów budowania dobrostanu pracowników jest troska o ich bezpieczeństwo finansowe oraz edukację finansową. W 2024 r. zorganizowaliśmy dwie tury spotkań z ekspertem z zakresu systemu zabezpieczenia emerytalnego. Były one poświęcone m.in. zasadom gromadzenia kapitału w ramach pracowniczego programu emerytalnego (PPE) oraz możliwości oszczędzania w ramach indywidualnych kont emerytalnych (IKE) i indywidualnych kont zabezpieczenia emerytalnego (IKZE). Pracownicy mogą skorzystać z produktów IKE Korpo i IKZE Korpo. Przeprowadziliśmy również cykl spotkań w Roku Edukacji Ekonomicznej o finansach osobistych, gdzie rozmawialiśmy o oszczędzaniu, inwestowaniu, inflacji, podatkach i rozliczeniach.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p35_b12",
+          "page": 35,
+          "element_type": "text",
+          "text": "Pracownicy BGK odchodzący na emeryturę bądź rentę mogą dołączyć do Koła Seniora, które skupia ponad 240 osób. Koło realizuje swoją działalność głównie w trzech obszarach: sanatoryjno-rehabilitacyjnym, turystyczno-rekreacyjnym i kulturalnym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 36,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p36_b0",
+          "page": 36,
+          "element_type": "subsection-header",
+          "text": "Poczucie przynależności",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p36_b1",
+          "page": 36,
+          "element_type": "subsection-header",
+          "text": "Bractwa sportowe",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p36_b2",
+          "page": 36,
+          "element_type": "text",
+          "text": "W BGK od lat działają bractwa sportowe, łączące pracowników wokół wspólnych pasji. Na koniec 2024 r. w banku bractw było 10. Refundujemy ich członkom połowę kosztów udziału w treningach, a także opłaty za udział w wydarzeniach sportowych – pod warunkiem właściwej ekspozycji logo BGK. Pomagamy również w organizacji sportowych turniejów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b3",
+          "page": 36,
+          "element_type": "subsection-header",
+          "text": "Działania na rzecz rodziców",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p36_b4",
+          "page": 36,
+          "element_type": "text",
+          "text": "W BGK promujemy partnerstwo w związku i podział urlopu rodzicielskiego między rodziców. W 2024 r. jako partner strategiczny Fundacji Share The Care promowaliśmy wartości rodzinne i równy udział obojga rodziców w wychowaniu dzieci. Wzięliśmy udział w kampaniach promujących bank jako pracodawcę przyjaznego rodzicom i we współpracy z fundacją zaproponowaliśmy pracownikom możliwość przystąpienia do grup wsparcia dla ojców oraz mam. Dodatkowo, zapewniliśmy rodzicom dostęp do webinarów – Rodzicielstwo w zgodzie z prawem oraz Rodzicielstwo w partnerstwie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b5",
+          "page": 36,
+          "element_type": "picture",
+          "text": "Zdjęcie kobiety biegnącej przez płotki na bieżni stadionu lekkoatletycznego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b6",
+          "page": 36,
+          "element_type": "text",
+          "text": "#NiezwykliPracownicyBGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b7",
+          "page": 36,
+          "element_type": "text",
+          "text": "W pracy Julia zaopatruje BGK w sprawne rozwiązania, a po pracy - pokonuje płotki na bieżni. 6 medali mistrzostw Polski mówi wszystko!",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b8",
+          "page": 36,
+          "element_type": "text",
+          "text": "Przez cały okres urlopów macierzyńskiego, rodzicielskiego i wychowawczego utrzymujemy kontakt z pracownikami. Wysyłamy im cyklicznie newsletter #rodzinkaBGK, w którym opisujemy m.in. najważniejsze wydarzenia w banku, zmiany w prawie pracy, uprawnienia rodzicielskie i benefity.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b9",
+          "page": 36,
+          "element_type": "text",
+          "text": "Dla pracowników i ich dzieci organizujemy Dzień z Dzieckiem w Biurze oraz Mikołajki. W każdym z wydarzeń bierze udział około 1200 dzieci pracowników.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b10",
+          "page": 36,
+          "element_type": "subsection-header",
+          "text": "Rada pracowników",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p36_b11",
+          "page": 36,
+          "element_type": "text",
+          "text": "Zgodnie z przepisami prawa, osoby zatrudnione w BGK wyłoniły reprezentującą ich Radę pracowników. Przekazujemy Radzie informacje dotyczące:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b12",
+          "page": 36,
+          "element_type": "list",
+          "text": "- działalności i sytuacji ekonomicznej banku oraz przewidywanych w tym zakresie zmian,\n- stanu, struktury i przewidywanych zmian zatrudnienia oraz działań mających na celu utrzymanie poziomu zatrudnienia,\n- działań, które mogą powodować istotne zmiany w organizacji pracy lub podstawach zatrudnienia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b13",
+          "page": 36,
+          "element_type": "text",
+          "text": "Rada pracowników konsultowała w 2024 r. 10 kwestii pracowniczych i uczestniczyła w spotkaniach ze związkami zawodowymi.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b14",
+          "page": 36,
+          "element_type": "subsection-header",
+          "text": "Związki zawodowe",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p36_b15",
+          "page": 36,
+          "element_type": "text",
+          "text": "W banku działają dwie organizacje związkowe:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b16",
+          "page": 36,
+          "element_type": "list",
+          "text": "- zakładowa organizacja Ogólnopolskiego Pracowniczego Związku Zawodowego Konfederacja Pracy – organizacja reprezentatywna w rozumieniu Kodeksu pracy, której stanowiska we wszelkich sprawach z zakresu prawa pracy wymagające konsultacji, opinii bądź akceptacji związków zawodowych zgodnie z przepisami są wiążące dla pracodawcy. Na koniec 2024 r. reprezentatywny związek zawodowy zrzeszał 708 osób (506 osób na koniec 2023 r.). Stanowiło to 28,7% ogółu pracowników banku, podczas gdy rok wcześniej odsetek ten wynosił 21,8%.\n- od czerwca 2024 r. BGK został objęty działaniem drugiej organizacji – Międzyzakładowej Organizacji Związkowej Nowa Idea Nr 2.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p36_b17",
+          "page": 36,
+          "element_type": "text",
+          "text": "Przedstawiciele strony społecznej są zapraszani do współpracy przy wszystkich istotnych projektach dotyczących spraw pracowniczych. Negocjacje odbywają się w partnerskiej atmosferze, z poszanowaniem interesów obu stron. W 2024 r. ze związkami zawodowymi omawiane były między innymi zmiany w Regulaminie Pracy oraz w Regulaminie ZFŚS.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 37,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [
+        "3.  Dbałość o pracowników"
+      ],
+      "blocks": [
+        {
+          "block_id": "p37_b0",
+          "page": 37,
+          "element_type": "section-header",
+          "text": "3. Dbałość o pracowników",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p37_b1",
+          "page": 37,
+          "element_type": "identifier",
+          "text": "GRI 3-3 temat: Kwestie pracownicze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p37_b2",
+          "page": 37,
+          "element_type": "identifier",
+          "text": "SDG 8",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p37_b3",
+          "page": 37,
+          "element_type": "subsection-header",
+          "text": "Rekrutacja",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p37_b4",
+          "page": 37,
+          "element_type": "picture",
+          "text": "Ikona dokumentów/książek oraz zdjęcie regału z książkami w tle.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p37_b5",
+          "page": 37,
+          "element_type": "text",
+          "text": "Dokumenty regulujące ten obszar w BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p37_b6",
+          "page": 37,
+          "element_type": "list",
+          "text": "- Polityka rekrutacji i zatrudniania kadry zarządzającej w Banku Gospodarstwa Krajowego\n- Zasady rekrutacji pracowników w Banku Gospodarstwa Krajowego\n- Zasady realizacji praktyk w Banku Gospodarstwa Krajowego",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p37_b7",
+          "page": 37,
+          "element_type": "text",
+          "text": "Nasze działania rekrutacyjne i wizerunkowe są prowadzone zgodnie z Polityką Dostępności Banku Gospodarstwa Krajowego. Kierujemy je zarówno do studentów w Polsce, jak i do polskich studentów za granicą, zachęcając ich do powrotu do kraju po ukończeniu studiów. Monitorujemy doświadczenia kandydatów w badaniu Candidate Experience. Pozwala nam to stale podnosić jakość procesu rekrutacji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p37_b8",
+          "page": 37,
+          "element_type": "infographic",
+          "text": "Infografika przedstawiająca wskaźnik polecenia udziału w naborze do BGK przez kandydatów w 2024 roku.\n\nKandydaci, którzy w 2024 r. zdecydowanie poleciliby udział w naborze do BGK osobom o podobnym profilu\n63,8%\n+3,4 p.p.\nzmiana r/r",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p37_b9",
+          "page": 37,
+          "element_type": "text",
+          "text": "Każda osoba, która chce zacząć pracę w BGK może liczyć na przejrzysty i jednolity proces rekrutacji. Nasze regulacje gwarantują kandydatom równe szanse oraz wspierają różnorodność. Osoby odpowiedzialne za rekrutację kierują się zasadą równego traktowania – niedopuszczalne są jakiekolwiek przejawy dyskryminacji ze względu na płeć, wiek, stopień sprawności, rasę, wyznanie, narodowość, poglądy polityczne, przynależność związkową, pochodzenie etniczne czy orientację seksualną.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p37_b10",
+          "page": 37,
+          "element_type": "text",
+          "text": "Zależy nam, aby do naszego banku trafiały osoby najlepiej nadające się do tej pracy – dlatego podczas rekrutacji sięgamy po nowoczesne narzędzia wspierające dobór kandydatów i efektywność procesu. Wykorzystujemy testy predyspozycji i testy psychometryczne oraz sztuczną inteligencję – współpracujemy w tym zakresie z polskimi firmami, w tym start-upami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p37_b11",
+          "page": 37,
+          "element_type": "text",
+          "text": "Dbamy o to, by już na etapie oferty pracy przyszły pracownik czuł się częścią społeczności BGK. Co najmniej tydzień przed rozpoczęciem pracy nowi pracownicy otrzymują dostęp do platformy onboardingowej Startuj z BGK. Wdrożenie wspiera wyznaczony opiekun, który pomaga w poznaniu zespołu i obowiązków. Po rozpoczęciu pracy badamy satysfakcję i doświadczenia nowych osób w ramach programu adaptacyjnego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 38,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p38_b0",
+          "page": 38,
+          "element_type": "identifier",
+          "text": "GRI 401-1",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p38_b1",
+          "page": 38,
+          "element_type": "caption",
+          "text": "| Wykres 2. Wskaźnik zatrudnienia¹⁷",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p38_b2",
+          "page": 38,
+          "element_type": "infographic",
+          "text": "Wykres słupkowy przedstawiający wskaźnik zatrudnienia w BGK w podziale na płeć dla lat 2023 i 2024.\n\nkobiety:\n2023: 17,3%\n2024: 12,3%\nzmiana r/r: -5,0 p.p.\n\nmężczyźni:\n2023: 22,6%\n2024: 18,0%\nzmiana r/r: -4,6 p.p.\n\nsuma:\n2023: 19,4%\n2024: 14,6%\nzmiana r/r: -4,8 p.p.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p38_b3",
+          "page": 38,
+          "element_type": "caption",
+          "text": "| Wykres 3. Wskaźnik rotacji¹⁸",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p38_b4",
+          "page": 38,
+          "element_type": "infographic",
+          "text": "Wykres słupkowy przedstawiający wskaźnik rotacji w BGK w podziale na płeć dla lat 2023 i 2024.\n\nkobiety:\n2023: 5,8%\n2024: 6,6%\nzmiana r/r: +0,8 p.p.\n\nmężczyźni:\n2023: 9,5%\n2024: 11,2%\nzmiana r/r: +1,7 p.p.\n\nsuma:\n2023: 7,3%\n2024: 8,4%\nzmiana r/r: +1,1 p.p.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p38_b5",
+          "page": 38,
+          "element_type": "caption",
+          "text": "| Tabela 7. Całkowita liczba nowych pracowników BGK w podziale na płeć i wiek",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p38_b6",
+          "page": 38,
+          "element_type": "table",
+          "text": "Całkowita liczba nowych pracowników BGK w podziale na płeć i wiek w latach 2023 i 2024.\nWartości wyrażone w liczbach bezwzględnych.\n\n| wiek pracowników | 2024 kobiety | 2024 mężczyźni | 2024 suma | 2023 kobiety | 2023 mężczyźni | 2023 suma |\n|---|---|---|---|---|---|---|\n| Poniżej 30 lat | 54 | 50 | 104 | 68 | 55 | 123 |\n| Od 30 do 50 lat | 110 | 98 | 208 | 164 | 130 | 294 |\n| Powyżej 50 lat | 20 | 27 | 47 | 11 | 21 | 32 |\n| **Suma** | **184** | **175** | **359** | **243** | **206** | **449** |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p38_b7",
+          "page": 38,
+          "element_type": "caption",
+          "text": "| Tabela 8. Całkowita liczba odejść pracowników w podziale na płeć i wiek",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p38_b8",
+          "page": 38,
+          "element_type": "table",
+          "text": "Całkowita liczba odejść pracowników BGK w podziale na płeć i wiek w latach 2023 i 2024.\nWartości wyrażone w liczbach bezwzględnych.\n\n| wiek pracowników | 2024 kobiety | 2024 mężczyźni | 2024 suma | 2023 kobiety | 2023 mężczyźni | 2023 suma |\n|---|---|---|---|---|---|---|\n| Poniżej 30 lat | 13 | 16 | 29 | 14 | 17 | 31 |\n| Od 30 do 50 lat | 56 | 68 | 124 | 50 | 54 | 104 |\n| Powyżej 50 lat | 30 | 25 | 55 | 18 | 16 | 34 |\n| **Suma** | **99** | **109** | **208** | **82** | **87** | **169** |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p38_b9",
+          "page": 38,
+          "element_type": "footnote",
+          "text": "¹⁷ Wskaźnik zatrudnienia liczony jest jako iloraz liczby nowych pracowników do liczby wszystkich zatrudnionych (na 31.12.2024) pracowników.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p38_b10",
+          "page": 38,
+          "element_type": "footnote",
+          "text": "¹⁸ Wskaźnik rotacji liczony jest jako iloraz liczby pracowników, którzy odeszli z organizacji do liczby wszystkich zatrudnionych (na 31.12.2024) pracowników.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 39,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p39_b0",
+          "page": 39,
+          "element_type": "subsection-header",
+          "text": "Praktyki i staże",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p39_b1",
+          "page": 39,
+          "element_type": "text",
+          "text": "W 2024 r. zaprosiliśmy studentów do Letniej Akademii BGK – płatnych praktyk trwających od jednego do trzech miesięcy. Naszym celem było przyciągnięcie utalentowanych młodych osób, zwiększenie rozpoznawalności BGK jako nowoczesnego i atrakcyjnego pracodawcy oraz jednoczesnie wsparcie bieżącej działalności banku, szczególnie w okresie urlopowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p39_b2",
+          "page": 39,
+          "element_type": "text",
+          "text": "Uczestnikom praktyk zapewniliśmy udział w programie szkoleniowym obejmującym m.in. spotkania z ekspertami, coaching, warsztaty ogólnorozwojowe oraz symulacyjną grę biznesową z zarządzania projektami. Praktykanci uczestniczyli też w bankowym wolontariacie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p39_b3",
+          "page": 39,
+          "element_type": "text",
+          "text": "| Efekty projektu Letnia Akademia BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p39_b4",
+          "page": 39,
+          "element_type": "infographic",
+          "text": "Infografika przedstawiająca efekty projektu Letnia Akademia BGK na tle zdjęcia biurowego.\n\n10 068 aplikacji\n104 osoby odbywające praktyki w BGK\n48 praktykantów zatrudnionych na umowę o pracę w BGK\n67 uczestników gry symulacyjnej z zarządzania projektami\n4,7/5 średnia ocena szkoleń i spotkań z ekspertami\n34 przeprowadzone szkolenia eksperckie i ogólnorozwojowe\n93% uczestników programu deklaruje, że poleciłoby go znajomym\n93% praktykantów rozważyłoby powrót do BGK w przyszłości",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p39_b5",
+          "page": 39,
+          "element_type": "subsection-header",
+          "text": "Edukacja i rozwój",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p39_b6",
+          "page": 39,
+          "element_type": "identifier",
+          "text": "GRI 3-3 temat: Kwestie pracownicze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p39_b7",
+          "page": 39,
+          "element_type": "text",
+          "text": "Kompetencje naszych pracowników to kompetencje BGK. Dlatego dbamy o rozwój zawodowy wszystkich osób zatrudnionych w banku. Oferujemy długofalowe programy szkoleniowe i rozwojowe dopasowane do potrzeb banku i indywidualnych potrzeb pracowników. Zachęcamy do samodzielnego zarządzania własnym rozwojem i ścieżką kariery. Pracownicy mogą tworzyć własne plany szkoleniowe, a w wyborze szkoleń z oferty banku wspierają ich menedżerowie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p39_b8",
+          "page": 39,
+          "element_type": "subsection-header",
+          "text": "Szkolenia i programy rozwoju kompetencji zawodowych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p39_b9",
+          "page": 39,
+          "element_type": "identifier",
+          "text": "GRI 404-1, 404-2",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p39_b10",
+          "page": 39,
+          "element_type": "caption",
+          "text": "| Tabela 9. Średnia liczba godzin szkoleniowych w zależności od płci i kategorii zatrudnienia",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p39_b11",
+          "page": 39,
+          "element_type": "table",
+          "text": "Średnia liczba godzin szkoleniowych w zależności od płci i kategorii zatrudnienia w latach 2024 i 2023.\nWartości wyrażone w godzinach.\n\n| | 2024 | 2023 |\n|---|---|---|\n| **Płeć** | | |\n| Kobiety | 51,5 | 48,9 |\n| Mężczyźni | 54,0 | 43,2 |\n| **Suma – wszyscy pracownicy** | **52,5** | **46,7** |\n| **Kategoria zatrudnienia** | | |\n| Wyższa kadra zarządzająca | 49,8 | 64,7 |\n| Średnia kadra zarządzająca | 97,0 | 59,2 |\n| Pozostali pracownicy | 46,4 | 42,6 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 40,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p40_b0",
+          "page": 40,
+          "element_type": "text",
+          "text": "Rozwijamy ofertę szkoleniową dla osób na stanowiskach kierowniczych. Skierowane do nich w 2024 r. programy rozwojowe to:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p40_b1",
+          "page": 40,
+          "element_type": "list",
+          "text": "- Onboarding menedżerski adresowany do osób, które awansowały ze stanowisk specjalistycznych/eksperckich na stanowiska kierownicze. Udział w szkoleniu wzięło 75 osób.\n- Przywództwo Przyszłości – program dla menedżerów zespołów i dyrektorów biur. W 2024 roku szkolenie ukończyły 62 osoby, a 68 pracowników kontynuuje naukę w roku 2025.\n- Mentoring – program, w którym doświadczeni menedżerowie BGK dzielą się wiedzą i doświadczeniem z menedżerami o krótszym stażu. W banku mamy 30 mentorów i zakończyliśmy w 2024 roku 37 procesów mentoringowych.\n- Coaching – program dla menedżerów umożliwiający realizację indywidualnych celów rozwojowych we współpracy z coachem. W 2024 roku zorganizowaliśmy 78 godzin coachingu zewnętrznego i 27 godzin coachingu wewnętrznego.\n- Kompetencje Cyfrowe – kompleksowy program rozwojowy trwający w BGK od 2023 roku. W 2024 roku zaprosiliśmy menedżerów na 7 webinarów oraz szkolenie wewnętrzne dotyczące sztucznej inteligencji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p40_b2",
+          "page": 40,
+          "element_type": "text",
+          "text": "Dbamy też o jakość codziennej współpracy wewnątrz banku. Aby wspierać kulturę feedbacku przygotowaliśmy filmy, szkolenia, warsztaty oraz konkursy zachęcające do udzielania szczerej informacji zwrotnej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p40_b3",
+          "page": 40,
+          "element_type": "text",
+          "text": "Oferujemy także szeroki wybór projektów rozwojowych oraz zamkniętych szkoleń wewnętrznych i zewnętrznych dla pracowników na stanowiskach niemenedżerskich. W 2024 r. były to:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p40_b4",
+          "page": 40,
+          "element_type": "list",
+          "text": "- Kompetencje Przyszłości – szkolenie pomagające rozwinąć myślenie kontekstowe, pracę interdyscyplinarną oraz udzielanie informacji zwrotnych. Program w 2024 r. ukończyły 433 osoby.\n- Szkolenia specjalistyczne i ogólnorozwojowe m.in. z zakresu kompetencji miękkich oraz pakietów biurowych. W szkoleniach udział wzięło 1 744 pracowników.\n- Bank Staży – program, który umożliwia poznanie pracy w innych komórkach lub jednostkach banku, rozszerzenie kompetencji i lepsze zrozumienie funkcjonowania organizacji. W 2024 roku Bank Staży odbył się już po raz czwarty, a uczestniczyło w nim 52 pracowników.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p40_b5",
+          "page": 40,
+          "element_type": "list",
+          "text": "- Cykl webinarów Rozwojowe piątki – od 2024 roku w każdy piątek o stałej porze zapraszamy pracowników na onlineowe rozmowy rozwojowe. Tematy spotkań to m.in. sztuczna inteligencja, zdrowie i dobre samopoczucie w pracy, umiejętności miękkie oraz kompetencje zawodowe. Każde spotkanie prowadzi ekspert z danej dziedziny oraz doświadczeni pracownicy BGK. Do końca roku zorganizowaliśmy 22 webinary.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p40_b6",
+          "page": 40,
+          "element_type": "subsection-header",
+          "text": "Inne formy wsparcia pracowników w rozwoju",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p40_b7",
+          "page": 40,
+          "element_type": "text",
+          "text": "W naszej wewnętrznej platformie e-learningowej w 2024 r. pojawiło się 59 nowych szkoleń, zarówno specjalistycznych, jak i rozwijających umiejętności miękkie. Dodatkowo, nasza oferta szkoleniowa obejmuje:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p40_b8",
+          "page": 40,
+          "element_type": "list",
+          "text": "- dofinansowanie kursów językowych (51 osób w 2024 r.),\n- dofinansowanie studiów (48 osób w 2024 r.),\n- dostęp do platformy językowej eTutor i nauki języków hiszpańskiego, włoskiego, francuskiego, angielskiego i niemieckiego. W 2024 roku ze szkoleń skorzystało 1 945 pracowników i 370 osób towarzyszących,\n- dostęp do kursów internetowych na platformie Udemy – w 2024 r. zwiększyliśmy liczbę licencji do 250,\n- program wymiany doświadczeń z największymi europejskimi bankami rozwoju If I were you.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p40_b9",
+          "page": 40,
+          "element_type": "text",
+          "text": "Pracownicy, z którymi bank zakończył współpracę, są objęci dobrowolnym Programem Outplacementowym. Oferujemy w jego ramach m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p40_b10",
+          "page": 40,
+          "element_type": "list",
+          "text": "- analizę mocnych stron i obszarów do rozwoju – testy kompetencyjne, ról zespołowych, logiczne, numeryczne,\n- wsparcie w przygotowaniu dokumentów aplikacyjnych i profilu na LinkedIn,\n- przekazanie informacji dotyczących poruszania się po rynku zatrudnienia,\n- zapoznanie z nowoczesnymi metodami selekcji oraz przygotowanie do rozmów kwalifikacyjnych,\n- doradztwo w zakresie budowania relacji zawodowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 41,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p41_b0",
+          "page": 41,
+          "element_type": "caption",
+          "text": "| Tabela 10. Statystyki dotyczące szkoleń rozwojowych pracowników BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b1",
+          "page": 41,
+          "element_type": "table",
+          "text": "Statystyki dotyczące szkoleń rozwojowych pracowników BGK w latach 2024 i 2023.\nWartości liczbowe i orientacyjne.\n\n| | 2024 | 2023 |\n|---|---|---|\n| Liczba przeszkolonych pracowników | 2 087 | 2 079 |\n| Liczba godzin szkoleniowych | 109 636 | 97 433 |\n| Liczba szkoleń otwartych (dostępnych na rynku) | 488 | 415 |\n| Liczba szkoleń zamkniętych (przygotowanych dla BGK) | 387 | 189 |\n| Liczba szkoleń e-learningowych dostępnych na platformie wewnętrznej | 146 | 101 |\n| Liczba odsłon szkoleń e-learningowych | ok. 29 000 | ok. 17 000 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b2",
+          "page": 41,
+          "element_type": "subsection-header",
+          "text": "Proces Oceny Pracy (POP)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p41_b3",
+          "page": 41,
+          "element_type": "identifier",
+          "text": "GRI 404-3",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b4",
+          "page": 41,
+          "element_type": "text",
+          "text": "Wszystkie osoby pracujące w BGK na podstawie umowy o pracę uczestniczą w okresowym Procesie Oceny Pracy. Proces wspiera naszych menedżerów i pracowników w realizacji celów biznesowych oraz stanowi ważny element motywacyjny w organizacji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b5",
+          "page": 41,
+          "element_type": "text",
+          "text": "W 2024 r. ocena pracownika odbywała się w oparciu o dwa równoważne kryteria – zrealizowanie celów oraz postawę pracownika. Drugie kryterium oceniane jest w odniesieniu do zdefiniowanych zachowań, w trzystopniowej skali. Wypłata premii rocznej jest warunkowana uzyskaniem minimum 80% z każdej części składowej oceny.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b6",
+          "page": 41,
+          "element_type": "text",
+          "text": "Każdego roku wyciągamy wnioski i doskonalimy proces oceny, wprowadzając nowe narzędzia i praktyki. Dzięki temu Proces Oceny Pracy w BGK jest prosty, przyjazny, przejrzysty i efektywny.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b7",
+          "page": 41,
+          "element_type": "caption",
+          "text": "| Etapy Procesu Oceny Pracy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b8",
+          "page": 41,
+          "element_type": "infographic",
+          "text": "Diagram przedstawiający etapy Procesu Oceny Pracy w formie schematu z węzłami i strzałkami.\n\nKaskada celów do dyrektorów\nKaskada celów do menedżerów i pracowników\nI przegląd okresowy\nII przegląd okresowy\nSamoocena, ocena wstępna i kalibracja\nOcena końcowa (w tym odwołania)\nKaskada celów na kolejny rok",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b9",
+          "page": 41,
+          "element_type": "subsection-header",
+          "text": "Bezpieczeństwo i higiena pracy (BHP)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p41_b10",
+          "page": 41,
+          "element_type": "identifier",
+          "text": "GRI 3-3 temat: Kwestie pracownicze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b11",
+          "page": 41,
+          "element_type": "identifier",
+          "text": "GRI 403-1, 403-2, 403-3, 403-4, 403-5, 403-6, 403-7, 403-9, 403-10",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b12",
+          "page": 41,
+          "element_type": "text",
+          "text": "Praca w BGK to praca bezpieczna. Ściśle przestrzegamy wszystkich przepisów BHP i wewnętrznych instrukcji dotyczących bezpieczeństwa pracy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p41_b13",
+          "page": 41,
+          "element_type": "text",
+          "text": "Opracowaliśmy i regularnie aktualizujemy oceny ryzyka zawodowego dla każdego stanowiska pracy, uwzględniając również ryzyka psychospołeczne, pracę zdalną oraz potrzeby osób z niepełnosprawnościami, kobiet w ciąży i karmiących piersią. W ocenie ryzyka zawodowego biorą udział m.in. służba BHP, lekarz medycyny pracy oraz przedstawiciele pracowników. Do zapoznania się z oceną ryzyka zawodowego zobowiązana jest każda osoba zaczynająca pracę w banku oraz osoby zatrudnione każdorazowo w sytuacji wprowadzenia zmian na stanowisku pracy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 42,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p42_b0",
+          "page": 42,
+          "element_type": "subsection-header",
+          "text": "| Dobre praktyki BHP",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p42_b1",
+          "page": 42,
+          "element_type": "picture",
+          "text": "Ikona apteczki medycznej w stylu liniowym, kolor złotobrązowy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b2",
+          "page": 42,
+          "element_type": "text",
+          "text": "Chronimy zdrowie i życie pracowników i klientów udostępniając apteczki, dyspensery plastrów oraz **24** automatyczne defibrylatory.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b3",
+          "page": 42,
+          "element_type": "picture",
+          "text": "Ikona grupy ludzi z symbolem medycznym, kolor złotobrązowy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b4",
+          "page": 42,
+          "element_type": "text",
+          "text": "**60** naszych pracowników jest **Liderami Pierwszej Pomocy**, wyznaczonymi do udzielania pierwszej pomocy przedmedycznej. Cyklicznie przechodzą oni dodatkowe szkolenia podnoszące ich kompetencje w tym zakresie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b5",
+          "page": 42,
+          "element_type": "picture",
+          "text": "Ikona tarczy z dłonią, kolor złotobrązowy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b6",
+          "page": 42,
+          "element_type": "text",
+          "text": "Regularnie kontrolujemy **stan BHP** we wszystkich placówkach oraz magazynach.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b7",
+          "page": 42,
+          "element_type": "picture",
+          "text": "Ikona laptopa z tarczą, kolor złotobrązowy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b8",
+          "page": 42,
+          "element_type": "text",
+          "text": "Wdrożyliśmy reguły **bezpiecznego i higienicznego** wykonywania pracy zdalnej oraz zasady ich kontroli.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b9",
+          "page": 42,
+          "element_type": "picture",
+          "text": "Ikona dokumentu z listą, kolor złotobrązowy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b10",
+          "page": 42,
+          "element_type": "text",
+          "text": "Zachęcamy pracowników do **zgłaszania wszystkich spraw** związanych z BHP poprzez platformę intranetową.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b11",
+          "page": 42,
+          "element_type": "text",
+          "text": "Wykwalifikowany zespół BHP w BGK nie tylko weryfikuje stan bezpieczeństwa, ale pełni też rolę profesjonalnych doradców i mentorów. W banku rozwijamy różnorodne formy promowania bezpieczeństwa i higieny pracy m.in. poprzez ankietę ergonomiczną, która pomaga regularnie udoskonalać warunki, w jakich pracują osoby zatrudnione w organizacji.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b12",
+          "page": 42,
+          "element_type": "text",
+          "text": "Eksperci BHP zwracają w BGK szczególną uwagę na trzy obszary:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b13",
+          "page": 42,
+          "element_type": "list",
+          "text": "- środowisko fizyczne (m.in. narzędzia i organizacja stanowisk, ergonomia, otoczenie),\n- zachowania pracowników (przestrzeganie zasad BHP, współpraca, odpowiedzialność),\n- cechy pracowników (wiedza, umiejętności, motywacja).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b14",
+          "page": 42,
+          "element_type": "text",
+          "text": "Wiedza zespołu BHP jest regularnie aktualizowana i rozszerzana poprzez szkolenia i kursy związane z bezpieczeństwem pracy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b15",
+          "page": 42,
+          "element_type": "text",
+          "text": "Angażujemy pracowników w ciągłą poprawę bezpieczeństwa. Każda osoba zatrudniona może swobodnie zgłaszać sytuacje potencjalnie niebezpieczne i zauważone zagrożenia, a kadra kierownicza i pracownicy służby BHP przy zaangażowaniu pracowników wypracowują skuteczne i trwałe rozwiązania.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b16",
+          "page": 42,
+          "element_type": "text",
+          "text": "W banku działa komisja bezpieczeństwa i higieny pracy, w skład której wchodzą w równej liczbie przedstawiciele pracodawcy, w tym lekarz medycyny pracy, oraz pracowników. Komisja spotyka się co trzy miesiące i wspiera BGK w działaniach na rzecz zapewnienia bezpieczeństwa i ochrony zdrowia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b17",
+          "page": 42,
+          "element_type": "text",
+          "text": "Zgodnie z przepisami, prowadzimy wstępne i okresowe szkolenia z BHP, dzięki którym każda osoba zatrudniona w BGK zna:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b18",
+          "page": 42,
+          "element_type": "list",
+          "text": "- podstawowe przepisy i zasady BHP,\n- zasady udzielania pierwszej pomocy,\n- czynniki środowiska pracy,\n- ryzyko zawodowe związane z wykonywaną pracą,\n- sposoby ochrony przed zagrożeniami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b19",
+          "page": 42,
+          "element_type": "caption",
+          "text": "Tabela 11. Liczba pracowników BGK przeszkolonych w zakresie BHP w podziale na typ szkolenia",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p42_b20",
+          "page": 42,
+          "element_type": "table",
+          "text": "Liczba pracowników BGK przeszkolonych w zakresie BHP w podziale na typ szkolenia w latach 2024 i 2023.\nWartości podane jako liczby bezwzględne.\n\n| | 2024 | 2023 |\n|---|---|---|\n| Wstępne | 362 | 456 |\n| Okresowe | 1 705 | 159 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 43,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [
+        "4.  Zarządzanie różnorodnością"
+      ],
+      "blocks": [
+        {
+          "block_id": "p43_b0",
+          "page": 43,
+          "element_type": "text",
+          "text": "Dodatkowo organizujemy szkolenia z zasad udzielania pierwszej pomocy przedmedycznej, w których w 2024 r. wzięło udział 235 pracowników banku, w tym 154 pracowników oddziałów regionalnych. W 2024 r. zorganizowaliśmy też dla 147 pracowników korzystających z samochodów służbowych szkolenia z bezpiecznej jazdy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b1",
+          "page": 43,
+          "element_type": "text",
+          "text": "Praca w BGK ma charakter administracyjno-biurowy, dlatego ewentualne wypadki są klasyfikowane jako lekkie. Urazy to głównie zwichnięcia, skręcenia i złamania związane z przemieszczaniem się, kierowaniem samochodem lub używaniem przedmiotów. W 2024 r. nie odnotowaliśmy ofiar śmiertelnych ani poważnych obrażeń związanych z pracą.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b2",
+          "page": 43,
+          "element_type": "caption",
+          "text": "Tabela 12. Liczba wypadków, którym ulegli pracownicy BGK, z podziałem na płeć",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b3",
+          "page": 43,
+          "element_type": "table",
+          "text": "Liczba wypadków pracowników BGK z podziałem na płeć w latach 2023–2024.\nWartości wyrażone w liczbach bezwzględnych.\n\n| | 2024 | 2023 |\n|---|---|---|\n| Kobiety | 2 | 3 |\n| Mężczyźni | 1 | 2 |\n| **Suma** | **3** | **5** |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b4",
+          "page": 43,
+          "element_type": "text",
+          "text": "Wskaźnik wypadków związanych z pracą, liczony jako liczba wypadków podzielona przez liczbę przepracowanych godzin i pomnożona przez 200 000 h wyniósł w 2024 r. 0,15. W 2024 r. nie odnotowaliśmy żadnych wypadków wśród pracowników, których praca lub miejsce pracy jest kontrolowane przez bank. W 2024 r. nie odnotowaliśmy również przypadków chorób zawodowych związanych z pracą.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b5",
+          "page": 43,
+          "element_type": "picture",
+          "text": "Ikona książek/dokumentów oraz zdjęcie regałów z książkami w tle, po prawej stronie blok informacyjny o dokumentach regulujących obszar w BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b6",
+          "page": 43,
+          "element_type": "subsection-header",
+          "text": "Dokumenty regulujące ten obszar w BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p43_b7",
+          "page": 43,
+          "element_type": "list",
+          "text": "- Polityka Szacunek w miejscu pracy\n- Kodeks Etyki BGK\n- Procedura antymobbingowa BGK\n- Procedura zgłaszania naruszeń w BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b8",
+          "page": 43,
+          "element_type": "section-header",
+          "text": "4. Zarządzanie różnorodnością",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p43_b9",
+          "page": 43,
+          "element_type": "identifier",
+          "text": "GRI 2-23, 2-24",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b10",
+          "page": 43,
+          "element_type": "identifier",
+          "text": "GRI 3-3 temat: Kwestie pracownicze",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b11",
+          "page": 43,
+          "element_type": "identifier",
+          "text": "SDG 5",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b12",
+          "page": 43,
+          "element_type": "text",
+          "text": "Jednoznacznie odrzucamy wszystkie oznaki dyskryminacji i deklarujemy w BGK brak tolerancji dla ich przejawów. Wszyscy nasi pracownicy mogą liczyć na równe traktowanie – bez względu na płeć, wiek, narodowość i pochodzenie etniczne, wyznanie, przekonania polityczne, orientację seksualną, stopień sprawności czy przynależność związkową.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b13",
+          "page": 43,
+          "element_type": "text",
+          "text": "Cenimy różnorodność zespołów i widzimy w niej siłę naszej organizacji. Gwarantujemy szacunek dla każdego pracownika i równość traktowania poprzez:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b14",
+          "page": 43,
+          "element_type": "list",
+          "text": "- zapisy regulacji wewnętrznych,\n- przyjęte i przestrzegane wartości i zwyczaje nakazujące traktowanie każdej osoby z szacunkiem,\n- budowanie świadomości pracowników, m.in. poprzez szkolenia i warsztaty,\n- niedyskryminujące zasady wynagradzania i dostępu do świadczeń pozapłacowych,\n- jednakowy dostęp do inicjatyw rozwojowych i szkoleń,\n- budowanie wewnętrznie zróżnicowanych zespołów pracowniczych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p43_b15",
+          "page": 43,
+          "element_type": "text",
+          "text": "Dążymy do tworzenia przyjaznego środowiska pracy, wolnego od mobbingu, dyskryminacji i innych nieetycznych zachowań.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 44,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p44_b0",
+          "page": 44,
+          "element_type": "picture",
+          "text": "Zdjęcie mężczyzny w czapce pracującego przy sprzęcie DJ-skim, w tle rośliny.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p44_b1",
+          "page": 44,
+          "element_type": "text",
+          "text": "#NiezwykliPracownicyBGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p44_b2",
+          "page": 44,
+          "element_type": "text",
+          "text": "Mikołaj w ciągu dnia analizuje rynki finansowe w BGK, a wieczorem zmienia się w DJ-a, serwując chilloutowe brzmienia w swojej audycji „blokz\" w Radiu Kapitał.\"}",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p44_b3",
+          "page": 44,
+          "element_type": "text",
+          "text": "Dbamy o to, by nasi pracownicy mieli wiedzę na temat różnorodności, praw człowieka, sposobów zgłaszania trudnych sytuacji i uzyskiwania pomocy w ich rozwiązywaniu. Nasze wartości, w szczególności związane z poszanowaniem godności każdego człowieka, jasno komunikujemy podczas szkoleń dla nowych pracowników. Wszyscy pracownicy są zobowiązani ukończyć e-learningowe szkolenie poświęcone Polityce Różnorodności i Szacunku w miejscu pracy. W 2024 r. przystąpiło do niego 87% kadry, z czego 99% uzyskało pozytywny wynik testu końcowego. Dodatkowo, wszyscy pracownicy mają dostęp do intranetowego działu Relacje pracownicze, w którym znajdują się regulacje i instrukcje dotyczące zgłaszania zachowań nieetycznych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p44_b4",
+          "page": 44,
+          "element_type": "identifier",
+          "text": "GRI 406-1",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p44_b5",
+          "page": 44,
+          "element_type": "text",
+          "text": "W 2024 r. w banku nie stwierdzono żadnych przypadków dyskryminacji lub mobbingu, w odniesieniu do których musiałyby zostać podjęte działania naprawcze.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p44_b6",
+          "page": 44,
+          "element_type": "text",
+          "text": "Różnorodność pracowników",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p44_b7",
+          "page": 44,
+          "element_type": "identifier",
+          "text": "GRI 405-1",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p44_b8",
+          "page": 44,
+          "element_type": "caption",
+          "text": "Tabela 13. Odsetek pracowników BGK należących do poszczególnych stopni zaszeregowania w podziale na płeć i wiek",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p44_b9",
+          "page": 44,
+          "element_type": "table",
+          "text": "Tabela przedstawiająca odsetek pracowników BGK według stopnia zaszeregowania, płci i wieku, na daty 31.12.2024 i 31.12.2023.\\nWartości wyrażone w procentach.\\n\\n| | 31.12.2024 kobiety | 31.12.2024 mężczyźni | 31.12.2024 suma | 31.12.2023 kobiety | 31.12.2023 mężczyźni | 31.12.2023 suma |\\n|---|---|---|---|---|---|---|\\n| **Wyższa kadra zarządzająca** | | | | | | |\\n| Poniżej 30 lat | 0% | 0% | 0% | 0% | 0% | 0% |\\n| Od 30 do 50 lat | 22% | 29% | 52% | 20% | 29% | 49% |\\n| Powyżej 50 lat | 19% | 29% | 48% | 25% | 26% | 51% |\\n| Suma¹⁹ | **42%** | **58%** | **100%** | **44%** | **56%** | **100%** |\\n| **Średnia kadra zarządzająca** | | | | | | |\\n| Poniżej 30 lat | 0% | 0% | 0% | 0% | 0% | 0% |\\n| Od 30 do 50 lat | 28% | 44% | 72% | 25% | 40% | 65% |\\n| Powyżej 50 lat | 17% | 11% | 28% | 21% | 14% | 35% |\\n| Suma | **45%** | **55%** | **100%** | **46%** | **54%** | **100%** |\\n| **Pozostali pracownicy** | | | | | | |\\n| Poniżej 30 lat | 8% | 6% | 15% | 7% | 5% | 12% |\\n| Od 30 do 50 lat | 40% | 22% | 62% | 40% | 22% | 62% |\\n| Powyżej 50 lat | 16% | 8% | 24% | 17% | 9% | 26% |\\n| Suma | **64%** | **36%** | **100%** | **64%** | **36%** | **100%** |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p44_b10",
+          "page": 44,
+          "element_type": "footnote",
+          "text": "¹⁹ Wartości za 2023 r. uległy korekcie w porównaniu do danych prezentowanych w zeszłorocznym raporcie ze względu na zidentyfikowany błąd obliczeniowy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 45,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p45_b0",
+          "page": 45,
+          "element_type": "subsection-header",
+          "text": "Różnorodność w Zarządzie i Radzie Nadzorczej",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p45_b1",
+          "page": 45,
+          "element_type": "caption",
+          "text": "| Tabela 14. Członkowie Zarządu i Rady Nadzorczej BGK w podziale na płeć i wiek",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b2",
+          "page": 45,
+          "element_type": "table",
+          "text": "Tabela przedstawiająca skład Zarządu BGK w podziale na płeć i wiek dla dat 31.12.2024 i 31.12.2023.\nWartości podane w procentach.\n\n| Zarząd | 31.12.2024 kobiety | 31.12.2024 mężczyźni | 31.12.2024 suma | 31.12.2023 kobiety | 31.12.2023 mężczyźni | 31.12.2023 suma |\n|---|---|---|---|---|---|---|\n| Poniżej 30 lat | 0% | 0% | 0% | 0% | 0% | 0% |\n| Od 30 do 50 lat | 17% | 50% | 67% | 0% | 40% | 40% |\n| Powyżej 50 lat | 0% | 33% | 33% | 20% | 40% | 60% |\n| Suma | 17% | 83% | 100% | 20% | 80% | 100% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b3",
+          "page": 45,
+          "element_type": "table",
+          "text": "Tabela przedstawiająca skład Rady Nadzorczej BGK w podziale na płeć i wiek dla dat 31.12.2024 i 31.12.2023.\nWartości podane w procentach.\n\n| Rada Nadzorcza | 31.12.2024 kobiety | 31.12.2024 mężczyźni | 31.12.2024 suma | 31.12.2023 kobiety | 31.12.2023 mężczyźni | 31.12.2023 suma |\n|---|---|---|---|---|---|---|\n| Poniżej 30 lat | 0% | 0% | 0% | 0% | 0% | 0% |\n| Od 30 do 50 lat | 8% | 33% | 42% | 9% | 45% | 55% |\n| Powyżej 50 lat | 0% | 58% | 58% | 27% | 18% | 45% |\n| Suma | 8% | 92% | 100% | 36% | 64% | 100% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b4",
+          "page": 45,
+          "element_type": "subsection-header",
+          "text": "Rozwiązania dla osób z niepełnosprawnościami",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p45_b5",
+          "page": 45,
+          "element_type": "text",
+          "text": "Wprowadzamy udogodnienia dla naszych pracowników z orzeczeniami o niepełnosprawności oraz innych osób ze szczególnymi potrzebami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b6",
+          "page": 45,
+          "element_type": "subsection-header",
+          "text": "| Zwiększamy dostępność BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p45_b7",
+          "page": 45,
+          "element_type": "picture",
+          "text": "Ikona przedstawiająca dokument z liniami tekstu – symbol napisów lub dokumentu tekstowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b8",
+          "page": 45,
+          "element_type": "text",
+          "text": "umieszczamy w materiałach napisy i audiodeskrypcję.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b9",
+          "page": 45,
+          "element_type": "picture",
+          "text": "Ikona przedstawiająca ucho z falami dźwiękowymi – symbol pętli indukcyjnej dla osób niedosłyszących.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b10",
+          "page": 45,
+          "element_type": "text",
+          "text": "zaopatrzyliśmy oddziały regionalne oraz centralę w 30 pętli indukcyjnych wspomagających osoby niesłyszące i niedosłyszące.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b11",
+          "page": 45,
+          "element_type": "picture",
+          "text": "Ikona strzałki wskazującej kierunek – symbol totemu nawigacyjnego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b12",
+          "page": 45,
+          "element_type": "text",
+          "text": "zainstalowaliśmy 20 totemów - urządzeń wskazujących drogę w biurze centrali banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b13",
+          "page": 45,
+          "element_type": "picture",
+          "text": "Ikona osoby na wózku inwalidzkim przy komputerze – symbol dostępności cyfrowej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b14",
+          "page": 45,
+          "element_type": "text",
+          "text": "prowadzimy kampanie informacyjne dotyczące dostępności i publikujemy materiały na ten temat w popularnych platformach:\n▪ Podcast z serii Dostępność przy mikrofonie\n▪ One pager o Polskim Akcie Dostępności\n▪ Dzielimy się wiedzą na konferencjach: Forum Dostępności, Targi Dostępności, konferencje regionalne ZUS, Sensorycznie i na Serio",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b15",
+          "page": 45,
+          "element_type": "picture",
+          "text": "Ikona nauczyciela przy tablicy – symbol szkoleń wdrożeniowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b16",
+          "page": 45,
+          "element_type": "text",
+          "text": "temat dostępności został na stałe włączony do szkoleń wdrożeniowych dla nowych pracowników.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p45_b17",
+          "page": 45,
+          "element_type": "text",
+          "text": "Dodatkowe informacje na temat naszego podejścia do dostępności znajdują się w raporcie w rozdziale V.3.6. Działania na rzecz dostępności.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 46,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "III Pracownicy",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p46_b0",
+          "page": 46,
+          "element_type": "caption",
+          "text": "Tabela 15. Liczba pracowników BGK z niepełnosprawnościami w podziale na płeć i wiek",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p46_b1",
+          "page": 46,
+          "element_type": "table",
+          "text": "Liczba pracowników BGK z niepełnosprawnościami według daty, płci i wieku.\nDane na 31.12.2024 i 31.12.2023.\n\n| | 31.12.2024 kobiety | 31.12.2024 mężczyźni | 31.12.2024 suma | 31.12.2023 kobiety | 31.12.2023 mężczyźni | 31.12.2023 suma |\n|---|---|---|---|---|---|---|\n| Poniżej 30 lat | 3 | 4 | 7 | 3 | 1 | 4 |\n| Od 30 do 50 lat | 10 | 14 | 24 | 10 | 14 | 24 |\n| Powyżej 50 lat | 7 | 5 | 12 | 7 | 5 | 12 |\n| **Suma** | **20** | **23** | **43** | **20** | **20** | **40** |\n| **Udział** | **1,3%** | **2,4%** | **1,7%** | **1,4%** | **2,2%** | **1,7%** |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p46_b2",
+          "page": 46,
+          "element_type": "subsection-header",
+          "text": "Stosunek wynagrodzenia kobiet do wynagrodzenia mężczyzn",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p46_b3",
+          "page": 46,
+          "element_type": "identifier",
+          "text": "GRI 405-2",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p46_b4",
+          "page": 46,
+          "element_type": "text",
+          "text": "Pracownicy banku mają równe prawa z tytułu jednakowego wypełniania takich samych obowiązków. Różnice w poziomach wynagrodzeń wynikają z oceny posiadanych kompetencji, doświadczenia i odpowiedzialności na danym stanowisku. Nie są one bezpośrednio powiązane z płcią, wiekiem, pochodzeniem czy wyznaniem zatrudnionych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p46_b5",
+          "page": 46,
+          "element_type": "caption",
+          "text": "Tabela 16. Stosunek wynagrodzeń zasadniczych kobiet do wynagrodzeń zasadniczych mężczyzn w podziale na kategorie pracowników",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p46_b6",
+          "page": 46,
+          "element_type": "table",
+          "text": "Stosunek wynagrodzeń zasadniczych kobiet do wynagrodzeń zasadniczych mężczyzn według kategorii pracowników w latach 2024 i 2023.\nWartości wyrażone w procentach.\n\n| | 2024 | 2023 |\n|---|---|---|\n| Wyższa kadra zarządzająca | 89,1% | 90,3% |\n| Średnia kadra zarządzająca | 90,0% | 88,3% |\n| Pozostali pracownicy | 85,5% | 86,1% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p46_b7",
+          "page": 46,
+          "element_type": "caption",
+          "text": "Tabela 17. Stosunek wynagrodzeń całkowitych kobiet do wynagrodzeń całkowitych mężczyzn w podziale na kategorie pracowników (uwzględnia wynagrodzenia zmienne przyznawane w zależności od poziomu realizacji celów pracownika)20",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p46_b8",
+          "page": 46,
+          "element_type": "table",
+          "text": "Stosunek wynagrodzeń całkowitych kobiet do wynagrodzeń całkowitych mężczyzn według kategorii pracowników w latach 2024 i 2023.\nWartości wyrażone w procentach.\n\n| | 2024 | 2023 |\n|---|---|---|\n| Wyższa kadra zarządzająca | 90,0% | 97,0% |\n| Średnia kadra zarządzająca | 90,9% | 88,7% |\n| Pozostali pracownicy | 78,7% | 87,1% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p46_b9",
+          "page": 46,
+          "element_type": "text",
+          "text": "Stosunek wynagrodzeń zasadniczych kobiet do wynagrodzeń zasadniczych mężczyzn dla wszystkich pracowników wyniósł w 2024 r. 79,2% (więcej o 1,1 p.p. w porównaniu do roku 2023). W przypadku wynagrodzeń całkowitych stosunek ten w roku 2024 wyniósł 74,8% (mniej o 4,6 p.p. w porównaniu do 2023 r.). Odsetki te nie są średnimi arytmetycznymi liczb zawartych w powyższych tabelach – wynika to z różnic w liczebności kobiet i mężczyzn w poszczególnych kategoriach pracowników.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p46_b10",
+          "page": 46,
+          "element_type": "text",
+          "text": "Bank zauważa istniejące różnice i podejmuje działania na rzecz ich niwelowania. Podjęte przez nas w 2024 roku działania to przegląd i zmiana modelu wartościowania – aktualizacja opisów stanowisk pracy oraz przegląd trendów rynkowych w zakresie wynagrodzeń. Jednym z naszych celów jest dostosowanie procesów i wewnętrznych regulacji do przepisów dotyczących jawności i równości wynagrodzeń, w tym dyrektywy unijnej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p46_b11",
+          "page": 46,
+          "element_type": "footnote",
+          "text": "20 Bez względu na rodzaj świadczonej pracy, zakres odpowiedzialności, indywidualne kompetencje, zajmowane stanowisko czy miejsce pracownika w strukturze.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    }
+  ]
+}

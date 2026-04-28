@@ -1,0 +1,782 @@
+{
+  "chapter_id": "IX",
+  "title": "IX Raportowanie",
+  "page_start": 148,
+  "page_end": 159,
+  "pages": [
+    {
+      "page_num": 148,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [],
+      "blocks": []
+    },
+    {
+      "page_num": 149,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [
+        "1.  Proces raportowania"
+      ],
+      "blocks": [
+        {
+          "block_id": "p149_b0",
+          "page": 149,
+          "element_type": "section-header",
+          "text": "1. Proces raportowania",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p149_b1",
+          "page": 149,
+          "element_type": "text",
+          "text": "Zintegrowany raport Grupy Kapitałowej BGK za rok 2024 przygotowaliśmy w oparciu o:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b2",
+          "page": 149,
+          "element_type": "list",
+          "text": "- wytyczne Integrated Reporting Framework,\n- wymogi sprawozdań z działalności zarządu opisane m.in. w Ustawie o rachunkowości oraz Rozporządzeniu w sprawie informacji bieżących i okresowych przekazywanych przez emitentów papierów wartościowych,\n- standardy Global Reporting Initiative (GRI 2021),\n- najlepsze praktyki rynkowe oraz wytyczne TCFD. Obliczenia naszego śladu węglowego przeprowadziliśmy zgodnie ze standardem Greenhouse Gas Protocol (GHG Protocol) – szczegóły w załączniku 8.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b3",
+          "page": 149,
+          "element_type": "text",
+          "text": "Dane finansowe prezentowane w raporcie pochodzą ze sprawozdania finansowego BGK i Grupy Kapitałowej BGK za 2024 r. i prezentowane są w ujęciu zarządczym. Sprawozdanie finansowe sporządzone zostało zgodnie z Międzynarodowymi Standardami Sprawozdawczości Finansowej (MSSF) oraz związanymi z nimi interpretacjami Komisji Europejskiej. W zakresie nieuregulowanym powyższymi standardami sporządzono je zgodnie z wymogami Ustawy o rachunkowości i jej przepisami wykonawczymi.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b4",
+          "page": 149,
+          "element_type": "text",
+          "text": "Sprawozdanie finansowe BGK i Grupy Kapitałowej BGK zostało niezależnie zbadane przez firmę audytorską oraz zatwierdzone przez Radę Nadzorczą banku. BGK nie składa w ramach sprawozdania z działalności oświadczenia na temat informacji niefinansowych zgodnie z art. 49b ust. 1 Ustawy o rachunkowości.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b5",
+          "page": 149,
+          "element_type": "identifier",
+          "text": "GRI 2-3",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b6",
+          "page": 149,
+          "element_type": "text",
+          "text": "W BGK raportujemy nasz zrównoważony rozwój w cyklu rocznym, a dane prezentowane w niniejszym raporcie zintegrowanym dotyczą okresu od 1 stycznia do 31 grudnia 2024 r., chyba, że w treści zaznaczono inaczej. Raport za 2024 r. został opublikowany 17. kwietnia 2025 r. na stronie internetowej BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b7",
+          "page": 149,
+          "element_type": "text",
+          "text": "Wszelkie pytania oraz komentarze dotyczące raportowania prosimy kierować na adres: raport.zintegrowany@bgk.pl.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b8",
+          "page": 149,
+          "element_type": "identifier",
+          "text": "GRI 2-2",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b9",
+          "page": 149,
+          "element_type": "text",
+          "text": "Bank raportuje kwestie zrównoważonego rozwoju jedynie w odniesieniu do jednostki dominującej grupy kapitałowej z uwagi na znacząco mniejszą skalę działalności pozostałych należących do niej podmiotów. Wyjątkiem są emisje CO₂, uwzględniające część śladu węglowego spółki zależnej Vinci S.A.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b10",
+          "page": 149,
+          "element_type": "text",
+          "text": "Istotne tematy raportowania zostały zdefiniowane dla banku jako podmiotu dominującego w Grupie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b11",
+          "page": 149,
+          "element_type": "identifier",
+          "text": "GRI 2-14",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b12",
+          "page": 149,
+          "element_type": "text",
+          "text": "W proces ustalania istotnych tematów raportu oraz przygotowywania jego treści zaangażowane były osoby kierujące poszczególnymi jednostkami organizacyjnymi banku oraz Zarząd BGK. Zarząd zatwierdził również treść dokumentu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b13",
+          "page": 149,
+          "element_type": "identifier",
+          "text": "GRI 2-4",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b14",
+          "page": 149,
+          "element_type": "text",
+          "text": "W odniesieniu do zeszłorocznego raportu wprowadziliśmy korekty danych wskaźników: GRI 202-1, GRI 305-1, GRI 305-2, GRI 305-3, GRI 305-4, GRI 306-3, GRI 401-3, GRI 405-1. Zmiany prezentacji zostały wprowadzone przy wskaźnikach GRI 202-1, GRI 305-3 oraz GRI 305-4. Szczegółowe wyjaśnienia znajdują się bezpośrednio pod wskaźnikami.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b15",
+          "page": 149,
+          "element_type": "subsection-header",
+          "text": "Proces określenia istotnych tematów raportowania",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p149_b16",
+          "page": 149,
+          "element_type": "identifier",
+          "text": "GRI 3-1, 3-2",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b17",
+          "page": 149,
+          "element_type": "text",
+          "text": "W 2024 r. zweryfikowaliśmy aktualność listy tematów istotnych, która określona została na potrzeby raportu zintegrowanego za rok 2023. Zrealizowaliśmy w tym celu proces dialogu z interesariuszami, podczas którego:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p149_b18",
+          "page": 149,
+          "element_type": "list",
+          "text": "- Przeprowadziliśmy trzy panele dialogowe z kluczowymi zewnętrznymi interesariuszami BGK – przedstawicielami sektora komercyjnego (w tym partnerów biznesowych i banków komercyjnych), sektora publicznego (w tym ministerstw oraz jednostek samorządu terytorialnego) oraz zagranicznych banków rozwoju. Sesje dialogowe zrealizowane zostały w listopadzie 2024 r., wzięło w nich udział łącznie 65 osób reprezentujących 52 instytucje.\n- Zrealizowaliśmy badanie opinii interesariuszy wewnętrznych – pracowników BGK. W badaniu tym zebrano 149 odpowiedzi.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 150,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [
+        "2.  Informacja o podmiocie uprawnionym do badania sprawozdań, ujawnienia podlegające badaniu oraz atestacja danych niefinansowych"
+      ],
+      "blocks": [
+        {
+          "block_id": "p150_b0",
+          "page": 150,
+          "element_type": "text",
+          "text": "Proces finalnego ustalania listy tematów istotnych obejmował:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p150_b1",
+          "page": 150,
+          "element_type": "list",
+          "text": "1. Analizę danych jakościowych zebranych w trakcie sesji panelowych, która polegała na organizacji i kodyfikacji danych w celu ustalenia powtarzalnych motywów i istotnych zagadnień podejmowanych przez interesariuszy w trakcie spotkań.\n2. Analizę danych ilościowych pozyskanych w ramach badania opinii interesariuszy i pracowników. Podczas badania weryfikowano 30 tematów potencjalnie istotnych.\n3. Zatwierdzenie wyników badania istotności oraz listy tematów istotnych przez Komitet ESG.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p150_b2",
+          "page": 150,
+          "element_type": "text",
+          "text": "Lista istotnych tematów obejmuje siedem zagadnień i nie zmieniła się w porównaniu do raportu za rok 2023. Są to:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p150_b3",
+          "page": 150,
+          "element_type": "list",
+          "text": "1. **Bezpieczeństwo** (zagadnienie obejmuje m.in. kontekst bezpieczeństwa strategicznego i energetycznego oraz cyberbezpieczeństwa).\n2. **Rozwój lokalnych społeczności** (przez co rozumiemy m.in. kreowanie nowych miejsc pracy, ochronę dziedzictwa kultury, odpowiednie warunki mieszkaniowe, dostęp do wody i warunki sanitarne).\n3. **Zdrowie i jakość życia** (temat uwzględnia m.in. dostęp do usług ochrony zdrowia, promowanie zdrowego trybu życia, a także działania na rzecz dobrobytu i jakości życia społeczeństwa).\n4. **Zmiana klimatu** (w tym m.in. kwestie adaptacji do zmian klimatu, wspierania transformacji energetycznej, ograniczania negatywnego oddziaływania na środowisko oraz uwzględniania kwestii związanych z klimatem w zarządzaniu ryzykiem).\n5. **Kwestie pracownicze** (obejmujące m.in. bezpieczeństwo zatrudnienia, integrację osób z niepełnosprawnościami, BHP, równe traktowanie i równość szans).\n6. **Kultura korporacyjna, etyka, compliance i transparentność informacji** (zagadnienie uwzględnia m.in. deklarowane przez bank wartości, misję, ochronę sygnalistów oraz przestrzeganie praw człowieka).\n7. **Rozwój przemysłu i infrastruktury** (temat zidentyfikowany jako istotny m.in. ze względu na kluczową rolę transformacji gospodarki zgodnie z koncepcją zrównoważonego rozwoju).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p150_b4",
+          "page": 150,
+          "element_type": "section-header",
+          "text": "2. Informacja o podmiocie uprawnionym do badania sprawozdań, ujawnienia podlegające badaniu oraz atestacja danych niefinansowych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p150_b5",
+          "page": 150,
+          "element_type": "text",
+          "text": "Szczegółowe informacje o dacie zawarcia umowy oraz o wynagrodzeniu podmiotu uprawnionego do badania sprawozdań zostały ujawnione w nocie 53 jednostkowego sprawozdania finansowego Banku Gospodarstwa Krajowego za rok 2024.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p150_b6",
+          "page": 150,
+          "element_type": "text",
+          "text": "Realizując wymogi zawarte w art. 111a ustawy Prawo bankowe informujemy, że:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p150_b7",
+          "page": 150,
+          "element_type": "list",
+          "text": "- Bank Gospodarstwa Krajowego działa wyłącznie na terenie Rzeczypospolitej Polskiej jako jedyny bank państwowy i nie posiada zagranicznych podmiotów zależnych.\n- BGK nie zawarł umowy, o której mowa w art. 141t ust. 1 ustawy Prawo bankowe.\n- w 2024 r. BGK osiągnął zgodnie ze sprawozdaniem finansowym obrót w wysokości 15 353 mln zł (liczony jako suma przychodów odsetkowych, prowizyjnych, wyniku na instrumentach finansowych wycenianych w wartości godziwej przez rachunek zysków i strat, wyniku z rewaluacji oraz wyniku na inwestycyjnych aktywach finansowych) i zysk brutto w wysokości 2 902 mln zł, zaś podatek dochodowy wyniósł 654 mln zł,\n- BGK nie otrzymał wsparcia finansowego pochodzącego ze środków publicznych na podstawie Ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p150_b8",
+          "page": 150,
+          "element_type": "text",
+          "text": "Powyższe dane zostały zbadane przez biegłego rewidenta.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 151,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [
+        "3.  Indeks Celów Zrównoważonego Rozwoju ONZ, do których się odnosimy"
+      ],
+      "blocks": [
+        {
+          "block_id": "p151_b0",
+          "page": 151,
+          "element_type": "identifier",
+          "text": "GRI 2-5",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p151_b1",
+          "page": 151,
+          "element_type": "text",
+          "text": "Wyniki finansowe za 2024 r. zostały poddane audytowi przez niezależną firmę audytorską Forvis Mazars Audyt Sp. z o.o. (wcześniej Mazars Audyt Sp. z o.o.) w ramach audytu jednostkowego sprawozdania finansowego banku i sprawozdania skonsolidowanego Grupy BGK. Dane niefinansowe raportowane wg GRI były przedmiotem atestacji przeprowadzonej przez firmę Bureau Veritas Polska Sp. z o.o.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p151_b2",
+          "page": 151,
+          "element_type": "text",
+          "text": "Raport zintegrowany został poddany zewnętrznej atestacji (na poziomie ograniczonej pewności, tzw. limited assurance):",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p151_b3",
+          "page": 151,
+          "element_type": "list",
+          "text": "- zgodnie z postanowieniami Międzynarodowego Standardu Usług Atestacyjnych 3000 „Usługi atestacyjne inne niż badanie lub przegląd historycznych informacji finansowych\" wydanego przez Radę Międzynarodowych Standardów Rewizji Finansowej i Usług Atestacyjnych (International Auditing and Assurance Standards Board, IAASB) – w zakresie zgodności z GRI Standards opracowanymi przez Global Reporting Initiative,\n- zgodnie z normą ISO 14064-3 – w zakresie kompletności i dokładności ujawnień dotyczących emisji gazów cieplarnianych. Wskaźnik 305-3 był atestowany częściowo, z wyłączeniem kategorii 15.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p151_b4",
+          "page": 151,
+          "element_type": "section-header",
+          "text": "3. Indeks Celów Zrównoważonego Rozwoju ONZ, do których się odnosimy",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p151_b5",
+          "page": 151,
+          "element_type": "table",
+          "text": "Indeks Celów Zrównoważonego Rozwoju ONZ z odniesieniami do raportu i lokalizacją stron.\n\n| Cel Zrównoważonego Rozwoju ONZ (Sustainable Development Goal) | odniesienie w raporcie | lokalizacja |\n|---|---|---|\n| Koniec z ubóstwem | Fundusz Pomocy (FPOM) | 74, 79, 162 |\n| Dobre zdrowie i jakość życia | Ochrona zdrowia | 19 |\n| Dobre zdrowie i jakość życia | BGK jako pracodawca | 30 |\n| Dobre zdrowie i jakość życia | Warunki pracy | 31 |\n| Dobre zdrowie i jakość życia | Fundusz Dostępności | 76 |\n| Dobre zdrowie i jakość życia | Fundusz Przeciwdziałania COVID-19 (FPCOV-19) | 161 |\n| Dobre zdrowie i jakość życia | Fundusz Kredytowania Studiów Medycznych (FKSM) | 167 |\n| Dobra jakość edukacji | Fundusz Polskiej Nauki (FPN) | 164 |\n| Dobra jakość edukacji | Fundusz Kredytów Studenckich (FKS) | 167 |\n| Dobra jakość edukacji | Fundusz Kredytowania Studiów Medycznych (FKSM) | 167 |\n| Dobra jakość edukacji | Ochrona zdrowia | 19 |\n| Dobra jakość edukacji | Działania edukacyjne realizowane we współpracy z partnerami | 78 |\n| Dobra jakość edukacji | Fundusz Pomocy (FPOM) | 74, 79, 162 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 152,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p152_b0",
+          "page": 152,
+          "element_type": "table",
+          "text": "Tabela przedstawiająca Cele Zrównoważonego Rozwoju ONZ (SDG) z odniesieniami w raporcie i lokalizacją stron – lewa część strony.\n\n| Cel Zrównoważonego Rozwoju ONZ (Sustainable Development Goal) | odniesienie w raporcie | lokalizacja |\n|---|---|---|\n| Równość płci (SDG 5) | BGK jako pracodawca | 30 |\n| Równość płci (SDG 5) | Zarządzanie różnorodnością | 43 |\n| Czysta woda i warunki sanitarne (SDG 6) | Program Inwestycji Strategicznych | 174 |\n| Czysta i dostępna energia (SDG 7) | Krajowy Plan Odbudowy i Zwiększania Odporności | 59, 66, 69, 70, 171, 172 |\n| Czysta i dostępna energia (SDG 7) | Wpływ na środowisko i klimat poprzez nasze finansowania | 55 |\n| Czysta i dostępna energia (SDG 7) | Fundusz Termomodernizacji i Remontów (FTiR) | 164 |\n| Czysta i dostępna energia (SDG 7) | Fundusz Przeciwdziałania COVID-19 (FPCOV-19) | 161 |\n| Czysta i dostępna energia (SDG 7) | Bezpieczeństwo strategiczne | 18, 55 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Fundusze poręczeniowe i Krajowa Grupa Poręczeniowa | 98 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Rozwój przedsiębiorczości | 18, 56 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Spójność społeczna i terytorialna | 20, 57 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Wsparcie poszkodowanych podczas powodzi | 72 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Warunki pracy | 31 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Fundusz Dostępności | 76 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p152_b1",
+          "page": 152,
+          "element_type": "table",
+          "text": "Tabela przedstawiająca Cele Zrównoważonego Rozwoju ONZ (SDG) z odniesieniami w raporcie i lokalizacją stron – prawa część strony.\n\n| Cel Zrównoważonego Rozwoju ONZ (Sustainable Development Goal) | odniesienie w raporcie | lokalizacja |\n|---|---|---|\n| Wzrost gospodarczy i godna praca (SDG 8) | Dbałość o pracowników | 37 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Finansowanie eksportu i biznes międzynarodowy | 79 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Krajowy Fundusz Gwarancyjny (KFG) | 166, 174 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Fundusz Gwarancji Płynnościowych (FGP) | 165 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Turystyczny Fundusz Zwrotów (TFZ) | 167 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Fundusz Gwarancji Kryzysowych (FGK) | 165, 176 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Działalność poręczeniowo-gwarancyjna w ramach programów rządowych | 174 |\n| Wzrost gospodarczy i godna praca (SDG 8) | Fundusz Pomocy (FPOM) | 74, 79, 162 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Krajowy Plan Odbudowy i Zwiększania Odporności | 59, 66, 69, 70, 171, 172 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Rozwój przemysłu | 17, 56 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Infrastruktura, transport i logistyka | 17, 56 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Finansowanie eksportu i biznes międzynarodowy | 79 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Krajowy Fundusz Drogowy (KFD) | 162 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Fundusz Kolejowy (FK) | 163 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Fundusz Żeglugi Śródlądowej (FZŚ) | 166 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Fundusz Polskiej Nauki (FPN) | 164 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Rządowy Fundusz Rozwoju Dróg (RFRD) | 163 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Bezpieczeństwo strategiczne | 18, 55 |\n| Innowacyjność, przemysł, infrastruktura (SDG 9) | Program Inwestycji Strategicznych | 174 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 153,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p153_b0",
+          "page": 153,
+          "element_type": "table",
+          "text": "Tabela przedstawiająca Cele Zrównoważonego Rozwoju ONZ wraz z odniesieniami w raporcie i lokalizacją stron — lewa część strony (SDG 10 i SDG 11).\n\n| Cel Zrównoważonego Rozwoju ONZ (Sustainable Development Goal) | | odniesienie w raporcie | lokalizacja |\n|---|---|---|---|\n| SDG 10 Mniej nierówności | Mniej nierówności | Mieszkalnictwo | 20, 57 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Spójność społeczna i terytorialna | 20, 57 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Wolontariat pracowniczy | 75 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Fundusz Pomocy (FPOM) | 74, 79, 162 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Fundusz Wsparcia Kredytobiorców (FWK) | 163 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Fundusz Dopłat (FD) | 164 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Wsparcie poszkodowanych podczas powodzi | 72 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Rządowy Fundusz Mieszkaniowy (RFM) | 165 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Fundusz Kredytów Studenckich (FKS) | 167 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Rozwój mieszkalnictwa | 68 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Rozwój podmiotów ekonomii społecznej | 73 |\n| SDG 10 Mniej nierówności | Mniej nierówności | Fundusz Dostępności | 76 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Spójność społeczna i terytorialna | 20, 57 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Krajowy Plan Odbudowy i Zwiększania Odporności | 59, 66, 69, 70, 171, 172 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Mieszkalnictwo | 20, 57 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Krajowy Fundusz Drogowy (KFD) | 162 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Fundusz Dopłat (FD) | 164 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Wsparcie poszkodowanych podczas powodzi | 72 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Rządowy Fundusz Mieszkaniowy (RFM) | 165 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Rządowy Fundusz Rozwoju Dróg (RFRD) | 163 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Program Inwestycji Strategicznych | 174 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Rozwój mieszkalnictwa | 68 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Rozwój podmiotów ekonomii społecznej | 73 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Fundusz Dostępności | 76 |\n| SDG 11 Zrównoważone miasta i społeczności | Zrównoważone miasta i społeczności | Fundusz Przeciwdziałania COVID-19 (FPCOV-19) | 161 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p153_b1",
+          "page": 153,
+          "element_type": "table",
+          "text": "Tabela przedstawiająca Cele Zrównoważonego Rozwoju ONZ wraz z odniesieniami w raporcie i lokalizacją stron — prawa część strony (SDG 13, SDG 15, SDG 16, SDG 17).\n\n| Cel Zrównoważonego Rozwoju ONZ (Sustainable Development Goal) | | odniesienie w raporcie | lokalizacja |\n|---|---|---|---|\n| SDG 13 Działania w dziedzinie klimatu | Działania w dziedzinie klimatu | Krajowy Plan Odbudowy i Zwiększania Odporności | 59, 66, 69, 70, 171, 172 |\n| SDG 13 Działania w dziedzinie klimatu | Działania w dziedzinie klimatu | Mieszkalnictwo | 20, 57 |\n| SDG 13 Działania w dziedzinie klimatu | Działania w dziedzinie klimatu | Wpływ na środowisko i klimat poprzez nasze finansowania | 55 |\n| SDG 13 Działania w dziedzinie klimatu | Działania w dziedzinie klimatu | Ekologiczny Fundusz Poręczeń i Gwarancji (EFPIG) | 167 |\n| SDG 13 Działania w dziedzinie klimatu | Działania w dziedzinie klimatu | Fundusz Termomodernizacji i Remontów (FTiR) | 164 |\n| SDG 13 Działania w dziedzinie klimatu | Działania w dziedzinie klimatu | Wolontariat na rzecz środowiska | 75 |\n| SDG 13 Działania w dziedzinie klimatu | Działania w dziedzinie klimatu | Rozwój mieszkalnictwa | 68 |\n| SDG 15 Życie na lądzie | Życie na lądzie | Wolontariat na rzecz środowiska | 75 |\n| SDG 16 Pokój, sprawiedliwość i silne instytucje | Pokój, sprawiedliwość i silne instytucje | Przeciwdziałamy korupcji | 119 |\n| SDG 17 Partnerstwa na rzecz celów | Partnerstwa na rzecz celów | Działania edukacyjne realizowane we współpracy z partnerami | 78 |\n| SDG 17 Partnerstwa na rzecz celów | Partnerstwa na rzecz celów | Współpraca z międzynarodowymi instytucjami | 79 |\n| SDG 17 Partnerstwa na rzecz celów | Partnerstwa na rzecz celów | Współpraca z Międzynarodowymi Instytucjami Finansowymi (MIF) | 81 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 154,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [
+        "4.  Zestawienie wskaźników GRI"
+      ],
+      "blocks": [
+        {
+          "block_id": "p154_b0",
+          "page": 154,
+          "element_type": "section-header",
+          "text": "4. Zestawienie wskaźników GRI",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p154_b1",
+          "page": 154,
+          "element_type": "table",
+          "text": "Informacje o oświadczeniu o zastosowaniu, zastosowanych GRI i obowiązujących standardach sektorowych.\n\n| Oświadczenie o zastosowaniu | Bank Gospodarstwa Krajowego złożył raport zgodnie ze Standardami GRI dla okresu sprawozdawczego od 01.01.2024 r. do 31.12.2024 r. |\n|---|---|\n| Zastosowane GRI 1 | GRI 1: Podstawy 2021 |\n| Obowiązujące standardy sektorowe GRI | - |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p154_b2",
+          "page": 154,
+          "element_type": "table",
+          "text": "Zestawienie wskaźników GRI Standards z numerami, nazwami, lokalizacją, atestacją i pominiętymi wymaganiami.\n\n| GRI STANDARDS / inne źródło | numer wskaźnika | nazwa wskaźnika | lokalizacja | atestacja | pominięte wymagania |\n|---|---|---|---|---|---|\n| | | Organizacja i jej praktyki sprawozdawcze | | | |\n| | 2-1 | Dane na temat organizacji | 6, 10 | ✓ | |\n| | 2-2 | Podmioty objęte raportowaniem zrównoważonego rozwoju w organizacji | 149 | ✓ | |\n| | 2-3 | Okres objęty raportem, częstotliwość raportowania i dane kontaktowe | 149 | ✓ | |\n| | 2-4 | Korekty informacji | 149 | ✓ | |\n| | 2-5 | Weryfikacja zewnętrzna | 151 | ✓ | |\n| | | Działalność i pracownicy | | | |\n| | 2-6 | Rodzaje działalności, łańcuch wartości i inne relacje biznesowe | 10, 124 | ✓ | |\n| | 2-7 | Pracownicy | 30 | ✓ | |\n| | 2-8 | Osoby świadczące pracę niebędące pracownikami | 30 | ✓ | |\n| | | Zarządzanie | | | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-9 | Struktura i skład organów zarządzających | 107, 111 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-10 | Powoływanie i wybór najwyższych organów zarządzających | 111 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-11 | Przewodniczący najwyższych organów zarządzających | 111 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-12 | Rola najwyższych organów zarządzających w nadzorowaniu zarządzania wpływem | 128 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-13 | Delegowanie odpowiedzialności za zarządzanie wpływem | 130 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-14 | Rola najwyższych organów zarządzających w raportowaniu zrównoważonego rozwoju | 116, 149 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-15 | Konflikty interesów | 122 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-16 | Komunikacja kwestii krytycznych | 128 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-17 | Zbiorowa wiedza najwyższych organów zarządzających | 111, 129 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-18 | Ocena działań najwyższych organów zarządzających | 129 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-19 | Polityki wynagrodzeń | 31, 107, 111 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-20 | Proces ustalania wynagrodzeń | 31, 107, 111 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-21 | Roczny wskaźnik całkowitego wynagrodzenia | 32 | ✓ | |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 155,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p155_b0",
+          "page": 155,
+          "element_type": "table",
+          "text": "Tabela wskaźników GRI STANDARDS z numerami, nazwami wskaźników, lokalizacją, atestacją i pominiętymi wymaganiami.\nZawiera sekcje: Strategie, polityki i procedury; Angażowanie interesariuszy; Wyniki ekonomiczne; Obecność na rynku; Praktyki zakupowe; Zapobieganie korupcji.\n\n| GRI STANDARDS / inne źródło | numer wskaźnika | nazwa wskaźnika | lokalizacja | atestacja | pominięte wymagania |\n|---|---|---|---|---|---|\n| | | Strategie, polityki i procedury | | | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-22 | Oświadczenie w sprawie strategii zrównoważonego rozwoju | 4 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-23 | Zobowiązania w ramach polityk | 43, 77, 118, 125 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-24 | Realizacja zobowiązań w ramach polityk | 43, 76, 118, 125 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-25 | Procesy łagodzenia negatywnego wpływu | 118 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-26 | Mechanizmy zasięgania porad i sygnalizowania potencjalnych nieprawidłowości | 51, 122 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-27 | Zgodność z prawem i regulacjami | 119 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-28 | Członkostwo w organizacjach | 78, 82 | ✓ | |\n| | | Angażowanie interesariuszy | | | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-29 | Podejście do angażowania interesariuszy | 49 | ✓ | |\n| GRI 2: Ogólne ujawnienia 2021 | 2-30 | Układy zbiorowe | 31 | ✓ | |\n| GRI 3: Istotne zagadnienia 2021 | 3-1 | Proces określania istotnych zagadnień | 149 | ✓ | |\n| GRI 3: Istotne zagadnienia 2021 | 3-2 | Lista istotnych tematów | 149 | ✓ | |\n| Wyniki ekonomiczne | Wyniki ekonomiczne | Wyniki ekonomiczne | Wyniki ekonomiczne | Wyniki ekonomiczne | Wyniki ekonomiczne |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Zmiana klimatu | 54, 55, 60, 138 | ✓ | |\n| GRI 201: Wyniki ekonomiczne 2016 | Własny 5 | Inne ryzyka i szanse wynikające ze zmian klimatu | 138 | ✓ | |\n| Obecność na rynku | Obecność na rynku | Obecność na rynku | Obecność na rynku | Obecność na rynku | Obecność na rynku |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kwestie pracownicze | 30, 31, 35, 37, 39, 41, 43 | ✓ | |\n| GRI 202: Obecność na rynku 2016 | 202-1 | Stosunek wynagrodzenia pracowników najniższego szczebla do płacy minimalnej na danym rynku, z podziałem na płeć | 32 | ✓ | |\n| Praktyki zakupowe | Praktyki zakupowe | Praktyki zakupowe | Praktyki zakupowe | Praktyki zakupowe | Praktyki zakupowe |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kultura korporacyjna, etyka, compliance i transparentność informacji | 118 | ✓ | |\n| GRI 204: Praktyki zakupowe 2016 | 204-1 | Odsetek zakupów u lokalnych dostawców | 124 | ✓ | |\n| Zapobieganie korupcji | Zapobieganie korupcji | Zapobieganie korupcji | Zapobieganie korupcji | Zapobieganie korupcji | Zapobieganie korupcji |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kultura korporacyjna, etyka, compliance i transparentność informacji | 118 | ✓ | |\n| GRI 205: Zapobieganie korupcji 2016 | 205-1 | Jednostki biznesowe poddane analizie pod kątem ryzyk związanych z korupcją | 119 | ✓ | |\n| GRI 205: Zapobieganie korupcji 2016 | 205-2 | Komunikacja oraz szkolenia w zakresie polityk i procedur antykorupcyjnych | 119 | ✓ | |\n| GRI 205: Zapobieganie korupcji 2016 | 205-3 | Potwierdzone przypadki korupcji i podjęte działania | 119 | ✓ | |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 156,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p156_b0",
+          "page": 156,
+          "element_type": "table",
+          "text": "Tabela wskaźników GRI STANDARDS z podziałem na kategorie tematyczne, zawierająca numery wskaźników, nazwy, lokalizacje, atestację i pominięte wymagania.\n\n| GRI STANDARDS / inne źródło | numer wskaźnika | nazwa wskaźnika | lokalizacja | atestacja | pominięte wymagania |\n|---|---|---|---|---|---|\n| Zachowania antykonkurencyjne | Zachowania antykonkurencyjne | Zachowania antykonkurencyjne | Zachowania antykonkurencyjne | Zachowania antykonkurencyjne | Zachowania antykonkurencyjne |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kultura korporacyjna, etyka, compliance i transparentność informacji | 118 | ✔ | |\n| GRI 206: Zachowania antykonkurencyjne 2016 | 206-1 | Kroki prawne podjete z powodu naruszeń zasad wolnej konkurencji oraz praktyk monopolistycznych | 119 | ✔ | |\n| Podatki | Podatki | Podatki | Podatki | Podatki | Podatki |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kultura korporacyjna, etyka, compliance i transparentność informacji | 118 | ✔ | |\n| GRI 207: Podatki 2019 | 207-1 | Podejście do kwestii podatków | 123 | ✔ | |\n| Materiały i surowce | Materiały i surowce | Materiały i surowce | Materiały i surowce | Materiały i surowce | Materiały i surowce |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Zmiana klimatu | 54, 55, 60, 138 | ✔ | |\n| GRI 301: Materiały i surowce 2016 | 301-1 | Wykorzystane materiały i surowce wg masy lub objętości | 65 | ✔ | |\n| Energia | Energia | Energia | Energia | Energia | Energia |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Zmiana klimatu | 54, 55, 60, 138 | ✔ | |\n| GRI 302: Energia 2016 | 302-1 | Zużycie energii wewnątrz organizacji | 60 | ✔ | |\n| GRI 302: Energia 2016 | 302-2 | Zużycie energii na zewnątrz organizacji | 60 | ✔ | |\n| GRI 302: Energia 2016 | 302-3 | Intensywność zużycia energii | 61 | ✔ | |\n| Woda i ścieki | Woda i ścieki | Woda i ścieki | Woda i ścieki | Woda i ścieki | Woda i ścieki |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Zmiana klimatu | 54, 55, 60, 138 | ✔ | |\n| GRI 303: Woda i ścieki 2018 | 303-3 | Pobór wody | 65 | ✔ | |\n| Emisje | Emisje | Emisje | Emisje | Emisje | Emisje |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Zmiana klimatu | 54, 55, 60, 138 | ✔ | |\n| GRI 305: Emisje 2016 | 305-1 | Bezpośrednie emisje gazów cieplarnianych (zakres 1) | 61 | ✔ | |\n| GRI 305: Emisje 2016 | 305-2 | Pośrednie energetyczne emisje gazów cieplarnianych (zakres 2) | 61 | ✔ | |\n| GRI 305: Emisje 2016 | 305-3 | Inne pośrednie emisje gazów cieplarnianych (zakres 3) | 61 | częściowa | |\n| GRI 305: Emisje 2016 | 305-4 | Intensywność emisji gazów cieplarnianych | 61 | ✔ | |\n| Odpady | Odpady | Odpady | Odpady | Odpady | Odpady |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Zmiana klimatu | 54, 55, 60, 138 | ✔ | |\n| GRI 306: Odpady 2020 | 306-3 | Wytworzone odpady | 65 | ✔ | |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 157,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p157_b0",
+          "page": 157,
+          "element_type": "table",
+          "text": "Tabela zawierająca wskaźniki GRI Standards pogrupowane według kategorii: Ocena środowiskowa dostawców, Zatrudnienie, BHP, Szkolenia i edukacja. Kolumny: GRI STANDARDS / inne źródło, numer wskaźnika, nazwa wskaźnika, lokalizacja, atestacja, pominięte wymagania.\n\n| GRI STANDARDS / inne źródło | numer wskaźnika | nazwa wskaźnika | lokalizacja | atestacja | pominięte wymagania |\n|---|---|---|---|---|---|\n| Ocena środowiskowa dostawców | Ocena środowiskowa dostawców | Ocena środowiskowa dostawców | Ocena środowiskowa dostawców | Ocena środowiskowa dostawców | Ocena środowiskowa dostawców |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kultura korporacyjna, etyka, compliance i transparentność informacji | 118 | ✓ | |\n| GRI 308: Ocena środowiskowa dostawców 2016 | 308-1 | Nowi dostawcy, którzy zostali poddani ocenie pod kątem spełniania kryteriów środowiskowych | 124 | ✓ | |\n| Zatrudnienie | Zatrudnienie | Zatrudnienie | Zatrudnienie | Zatrudnienie | Zatrudnienie |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kwestie pracownicze | 30, 31, 35, 37, 39, 41, 43 | ✓ | |\n| GRI 401: Zatrudnienie 2016 | 401-1 | Nowi pracownicy i rotacja pracowników | 38 | ✓ | |\n| GRI 401: Zatrudnienie 2016 | 401-2 | Świadczenia zapewniane pracownikom pełnoetatowym, które nie przysługują pracownikom tymczasowym lub zatrudnionym w niepełnym wymiarze godzin | 33 | ✓ | |\n| GRI 401: Zatrudnienie 2016 | 401-3 | Urlopy rodzicielskie | 34 | ✓ | |\n| BHP | BHP | BHP | BHP | BHP | BHP |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kwestie pracownicze | 30, 31, 35, 37, 39, 41, 43 | ✓ | |\n| GRI 403: BHP 2018 | 403-1 | System zarządzania bezpieczeństwem i higieną pracy | 41 | ✓ | |\n| GRI 403: BHP 2018 | 403-2 | Identyfikacja zagrożeń, ocena ryzyka i badanie wypadków | 41 | ✓ | |\n| GRI 403: BHP 2018 | 403-3 | Służby bezpieczeństwa i higieny pracy | 41 | ✓ | |\n| GRI 403: BHP 2018 | 403-4 | Wpływ pracowników na decyzje, konsultacje i komunikacja w zakresie bezpieczeństwa i higieny pracy | 41 | ✓ | |\n| GRI 403: BHP 2018 | 403-5 | Szkolenia dla pracowników w zakresie bezpieczeństwa i higieny pracy | 41 | ✓ | |\n| GRI 403: BHP 2018 | 403-6 | Programy promocji zdrowia dla pracowników | 34, 41 | ✓ | |\n| GRI 403: BHP 2018 | 403-7 | Zapobieganie i łagodzenie wpływu na zdrowie i bezpieczeństwo związanego z relacjami biznesowymi organizacji | 41 | ✓ | |\n| GRI 403: BHP 2018 | 403-9 | Urazy związane z pracą | 41 | ✓ | |\n| GRI 403: BHP 2018 | 403-10 | Problemy zdrowotne związane z pracą | 41 | ✓ | |\n| Szkolenia i edukacja | Szkolenia i edukacja | Szkolenia i edukacja | Szkolenia i edukacja | Szkolenia i edukacja | Szkolenia i edukacja |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kwestie pracownicze | 30, 31, 35, 37, 39, 41, 43 | ✓ | |\n| GRI 404: Szkolenia i edukacja 2016 | 404-1 | Średnia liczba godzin szkoleniowych w roku przypadająca na pracownika | 39 | ✓ | |\n| GRI 404: Szkolenia i edukacja 2016 | 404-2 | Programy podnoszenia kwalifikacji pracowników i programy wsparcia w okresie przejściowym | 39 | ✓ | |\n| GRI 404: Szkolenia i edukacja 2016 | 404-3 | Odsetek pracowników regularnie otrzymujących oceny pracy i rozwoju kariery | 41 | ✓ | |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 158,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p158_b0",
+          "page": 158,
+          "element_type": "table",
+          "text": "Tabela wskaźników GRI STANDARDS z podziałem na kategorie tematyczne, zawierająca numery wskaźników, nazwy, lokalizacje, atestację i pominięte wymagania.\n\n| GRI STANDARDS / inne źródło | numer wskaźnika | nazwa wskaźnika | lokalizacja | atestacja | pominięte wymagania |\n|---|---|---|---|---|---|\n| Różnorodność i równość szans | Różnorodność i równość szans | Różnorodność i równość szans | Różnorodność i równość szans | Różnorodność i równość szans | Różnorodność i równość szans |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kwestie pracownicze | 30, 31, 35, 37, 39, 41, 43 | ✓ | |\n| GRI 405: Różnorodność i równość szans 2016 | 405-1 | Różnorodność organów zarządzających i pracowników | 44 | ✓ | |\n| GRI 405: Różnorodność i równość szans 2016 | 405-2 | Stosunek pensji podstawowej i wynagrodzenia kobiet i mężczyzn w podziale na kategorie pracowników i główne lokalizacje prowadzenia działalności | 46 | ✓ | |\n| Zapobieganie dyskryminacji | Zapobieganie dyskryminacji | Zapobieganie dyskryminacji | Zapobieganie dyskryminacji | Zapobieganie dyskryminacji | Zapobieganie dyskryminacji |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kwestie pracownicze | 30, 31, 35, 37, 39, 41, 43 | ✓ | |\n| GRI 406: Zapobieganie dyskryminacji 2016 | 406-1 | Przypadki dyskryminacji i podjęte działania naprawcze | 44 | ✓ | |\n| Prywatność klientów | Prywatność klientów | Prywatność klientów | Prywatność klientów | Prywatność klientów | Prywatność klientów |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Kultura korporacyjna, etyka, compliance i transparentność informacji | 118 | ✓ | |\n| GRI 418: Prywatność klientów 2016 | 418-1 | Uzasadnione skargi dotyczące naruszenia prywatności i utraty danych klientów | 119 | ✓ | |\n| Bezpieczeństwo | Bezpieczeństwo | Bezpieczeństwo | Bezpieczeństwo | Bezpieczeństwo | Bezpieczeństwo |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Bezpieczeństwo | 18, 84 | ✓ | |\n| | Własny 1 | Wartość wsparcia udzielonego w ramach programu Bezpieczeństwo strategiczne | 16, 18 | ✓ | |\n| Rozwój społeczności lokalnych | Rozwój społeczności lokalnych | Rozwój społeczności lokalnych | Rozwój społeczności lokalnych | Rozwój społeczności lokalnych | Rozwój społeczności lokalnych |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Rozwój społeczności lokalnych | 20, 77 | ✓ | |\n| | Własny 2 | Wartość wsparcia udzielonego dla programu Spójność społeczna i terytorialna | 16, 20 | ✓ | |\n| Zdrowie i jakość życia | Zdrowie i jakość życia | Zdrowie i jakość życia | Zdrowie i jakość życia | Zdrowie i jakość życia | Zdrowie i jakość życia |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Zdrowie i jakość życia | 19 | ✓ | |\n| | Własny 3 | Wartość wsparcia udzielonego w ramach programu Ochrona zdrowia | 16, 19 | ✓ | |\n| Rozwój przemysłu i infrastruktury | Rozwój przemysłu i infrastruktury | Rozwój przemysłu i infrastruktury | Rozwój przemysłu i infrastruktury | Rozwój przemysłu i infrastruktury | Rozwój przemysłu i infrastruktury |\n| GRI 3: Istotne zagadnienia 2021 | 3-3 | Zarządzanie istotnym tematem: Rozwój przemysłu i infrastruktury | 17 | ✓ | |\n| | Własny 4 | Wartość wsparcia udzielonego w ramach programu Rozwój przemysłu | 16, 17 | ✓ | |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 159,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "IX Raportowanie",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p159_b0",
+          "page": 159,
+          "element_type": "text",
+          "text": "Podpisy członków Zarządu Banku Gospodarstwa Krajowego",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p159_b1",
+          "page": 159,
+          "element_type": "table",
+          "text": "Tabela podpisów członków Zarządu Banku Gospodarstwa Krajowego złożonych kwalifikowanym podpisem elektronicznym.\n\n| Prezes Zarządu | Pierwsza Wiceprezes Zarządu | Wiceprezes Zarządu | Członek Zarządu | Członek Zarządu | Członek Zarządu |\n|---|---|---|---|---|---|\n| Podpisano kwalifikowanym podpisem elektronicznym | Podpisano kwalifikowanym podpisem elektronicznym | Podpisano kwalifikowanym podpisem elektronicznym | Podpisano kwalifikowanym podpisem elektronicznym | Podpisano kwalifikowanym podpisem elektronicznym | Podpisano kwalifikowanym podpisem elektronicznym |\n| Mirosław Czekaj | Marta Postuła | Maciej Kliś | Leszek Stypułkowski | Jarosław Dąbrowski | Mateusz Szczurek |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    }
+  ]
+}

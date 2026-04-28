@@ -3995,7 +3995,7 @@
         {
           "block_id": "p128_b0",
           "page": 128,
-          "element_type": "section-header",
+          "element_type": "subsection-header",
           "text": "Raportowanie incydentów i zdarzeń krytycznych",
           "bbox": {
             "x0": 0,
@@ -4003,7 +4003,7 @@
             "x1": 0,
             "y1": 0
           },
-          "heading_level": 1
+          "heading_level": 2
         },
         {
           "block_id": "p128_b1",

@@ -1,0 +1,2233 @@
+{
+  "chapter_id": "VII",
+  "title": "VII Zarządzanie ryzykiem",
+  "page_start": 131,
+  "page_end": 141,
+  "pages": [
+    {
+      "page_num": 131,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [],
+      "blocks": []
+    },
+    {
+      "page_num": 132,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [
+        "1.  Organizacja procesu zarządzania ryzykiem",
+        "2.  Ryzyko kredytowe i koncentracji"
+      ],
+      "blocks": [
+        {
+          "block_id": "p132_b0",
+          "page": 132,
+          "element_type": "section-header",
+          "text": "1. Organizacja procesu zarządzania ryzykiem",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p132_b1",
+          "page": 132,
+          "element_type": "text",
+          "text": "Ryzykiem w banku zarządzamy systemowo w oparciu o dokumenty strategiczne oraz wewnętrzne procedury i polityki. Wdrożona kultura ryzyka zapewnia wysoką świadomość ryzyka wśród pracowników oraz jest skutecznym mechanizmem kontrolnym. Apetyt na ryzyko banku określają: akceptowalny poziom łącznego współczynnika kapitałowego, wskaźniki płynności krótkoterminowej i długoterminowej oraz koszt ryzyka kredytowego, jak również akceptowalny poziom poszczególnych rodzajów ryzyka.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b2",
+          "page": 132,
+          "element_type": "text",
+          "text": "Nasze cele zarządzania ryzykiem to stabilność i bezpieczeństwo działania, wysoka jakość aktywów oraz osiągnięcie planowanego wyniku finansowego przy akceptowalnym poziomie ryzyka.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b3",
+          "page": 132,
+          "element_type": "text",
+          "text": "| System zarządzania ryzykiem w BGK składa się z pięciu podstawowych elementów:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b4",
+          "page": 132,
+          "element_type": "infographic",
+          "text": "Diagram kołowy przedstawiający pięć elementów systemu zarządzania ryzykiem w BGK.\n\nRaportowanie o ryzyku\nIdentyfikacja ryzyka\nPomiar lub ocena ryzyka\nMonitorowanie ryzyka\nKontrola ryzyka",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b5",
+          "page": 132,
+          "element_type": "text",
+          "text": "Co najmniej raz w roku przeprowadzamy przegląd realizacji Strategii zarządzania ryzykiem oraz funkcjonowania systemu zarządzania ryzykiem. Na podstawie raportu z przeglądu Rada Nadzorcza banku ocenia adekwatność i skuteczność tego systemu.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b6",
+          "page": 132,
+          "element_type": "picture",
+          "text": "Ikona globu z siatką geograficzną, umieszczona w lewym górnym rogu bloku informacyjnego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b7",
+          "page": 132,
+          "element_type": "subsection-header",
+          "text": "ZOBACZ WIĘCEJ",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p132_b8",
+          "page": 132,
+          "element_type": "text",
+          "text": "Więcej informacji o zarządzaniu ryzykiem i adekwatności kapitałowej BGK można znaleźć w Sprawozdaniu w zakresie zarządzania ryzykiem i adekwatności kapitałowej BGK na dzień 31 grudnia 2024 r. (Filar III) oraz w raporcie Ujawnień ryzyka ESG BGK wg stanu na dzień 31.12.2024 (Filar III, ESG), dostępnych na naszej stronie internetowej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b9",
+          "page": 132,
+          "element_type": "picture",
+          "text": "Ikona książek/dokumentów z regulacjami wewnętrznymi, umieszczona obok tekstu o systemie zarządzania ryzykiem.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b10",
+          "page": 132,
+          "element_type": "text",
+          "text": "System zarządzania ryzykiem funkcjonuje na podstawie regulacji wewnętrznych:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b11",
+          "page": 132,
+          "element_type": "list",
+          "text": "- Strategia zarządzania ryzykiem w BGK\n- polityki, zasady, procedury i instrukcje wewnętrzne dotyczące zarządzania innymi rodzajami ryzyk identyfikowanymi w działalności BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b12",
+          "page": 132,
+          "element_type": "section-header",
+          "text": "2. Ryzyko kredytowe i koncentracji",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p132_b13",
+          "page": 132,
+          "element_type": "subsection-header",
+          "text": "Organizacja procesu zarządzania ryzykiem kredytowym i koncentracji",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p132_b14",
+          "page": 132,
+          "element_type": "text",
+          "text": "Ryzyko kredytowe jest najważniejszym elementem ryzyka finansowego. Zarządzamy nim poprzez identyfikację, pomiar lub ocenę, monitorowanie i kontrolę. Skuteczność działań ograniczających ryzyko kredytowe jest oceniana i raportowana.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b15",
+          "page": 132,
+          "element_type": "text",
+          "text": "Zarządzanie ryzykiem kredytowym realizujemy w odniesieniu do:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b16",
+          "page": 132,
+          "element_type": "list",
+          "text": "- ryzyka klienta z uwzględnieniem jednostkowej ekspozycji kredytowej,\n- ryzyka portfela kredytowego,\n- ryzyka kredytowego oraz ryzyka koncentracji kredytowej związanego z działalnością podmiotów zależnych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b17",
+          "page": 132,
+          "element_type": "text",
+          "text": "W BGK wdrożyliśmy ostrożnościowe podejście do zarządzania ryzykiem kredytowym, czyli m.in.:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p132_b18",
+          "page": 132,
+          "element_type": "list",
+          "text": "- oddzielenie funkcji sprzedażowych od oceny ryzyka klienta zarówno na poziomie regionu, jak i w centrali BGK,",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 133,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p133_b0",
+          "page": 133,
+          "element_type": "list",
+          "text": "- kompleksowa ocena ryzyka kredytowego klienta i transakcji, w celu zakwalifikowania do określonej klasy ryzyka kredytowego,\n- stosowanie statystycznych oraz eksperckich metod pomiaru ryzyka kredytowego w zakresie ryzyka transakcji i klienta w szacowaniu prawdopodobieństwa niewywiązania się klienta z zobowiązania wobec BGK oraz wysokości straty w takim przypadku,\n- system pomiaru ryzyka portfelowego poprzez ocenę stopnia jego koncentracji w ujęciu branżowym i sektorowym, przedmiotowym oraz podmiotowym,\n- system kompetencji decyzyjnych,\n- okresowa weryfikacja ryzyka zawartych transakcji uwzględniająca zmiany sytuacji finansowej kredytobiorców oraz warunków otoczenia,\n- dywersyfikacja branżowa i sektorowa, przedmiotowa oraz podmiotowa w ramach ustalonych przez bank limitów angażowania środków,\n- wyznaczanie odpisów aktualizujących na utratę wartości ekspozycji kredytowych,\n- analiza i weryfikacja zasad wyceny prawnych zabezpieczeń spłaty kredytów,\n- system monitorowania ekspozycji oraz ich zabezpieczeń pozwalający na wczesną identyfikację zagrożeń.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b1",
+          "page": 133,
+          "element_type": "text",
+          "text": "W zarządzaniu ryzykiem kredytowym pomaga nam system limitów wdrożony na poziomie operacyjnym i strategicznym. Pozwala on na mitygację ryzyka koncentracji, czyli jednego z najważniejszych elementów ryzyka kredytowego - niezależnie od ustawowych limitów koncentracji w banku wdrożyliśmy dodatkowe ograniczenia zaangażowania, obowiązujące na etapie podejmowania decyzji finansowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b2",
+          "page": 133,
+          "element_type": "subsection-header",
+          "text": "Polityka kredytowa BGK",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p133_b3",
+          "page": 133,
+          "element_type": "text",
+          "text": "Polityka kredytowa to fundament realizacji misji BGK - pozwala nam umacniać rolę BGK jako banku rozwoju i silniej angażować się w finansowanie przedsięwzięć ujętych w strategii. Polityka umożliwia również utrzymanie wysokiej jakości aktywów - zwłaszcza jakości portfela kredytowego - w ramach przyjętego poziomu ryzyka.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b4",
+          "page": 133,
+          "element_type": "text",
+          "text": "Celem polityki kredytowej jest również:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b5",
+          "page": 133,
+          "element_type": "list",
+          "text": "- uzyskanie wpływu na rozwój wybranych branż polskiej gospodarki z uwzględnieniem ryzyka związanego z sytuacją gospodarczą i polityczną w Polsce, czynnikami ESG partnerów oraz koniunkturą światową,\n- wspieranie polityki gospodarczej i celów polityki zagranicznej kraju poprzez wspieranie eksportu i ekspansji polskich firm oraz rozwoju innych państw, w szczególności poprzez pomoc rozwojową,",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b6",
+          "page": 133,
+          "element_type": "list",
+          "text": "- zapewnienie zgodności z wytycznymi w obszarze zrównoważonego rozwoju w odniesieniu do banków,\n- osiągnięcie założonej wielkości i struktury (dywersyfikacji) portfela kredytowego poprzez zwiększenie (lub ograniczenie) zaangażowania środków banku w wybrane podmioty (segmenty, branże) oraz ustalenie limitów koncentracji zaangażowania w wybrane podmioty (segmenty, branże),\n- zapewnienie odpowiedniej jakości portfela kredytowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b7",
+          "page": 133,
+          "element_type": "subsection-header",
+          "text": "Charakterystyka głównych rodzajów ryzyka kredytowego i koncentracji",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p133_b8",
+          "page": 133,
+          "element_type": "text",
+          "text": "Ryzyko kredytowe zostało zdefiniowane jako zagrożenie związane z niewypełnieniem przez kredytobiorcę zobowiązania wynikającego z umowy, czyli niespłaceniem lub tylko częściowym spłaceniem należności z tytułu ekspozycji kredytowej wraz z wynagrodzeniem banku, w terminach określonych w umowie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b9",
+          "page": 133,
+          "element_type": "text",
+          "text": "Ograniczamy ryzyko kredytowe w skali mikro poprzez działania podejmowane w ocenie i procesie monitorowania klienta i transakcji oraz w skali makro - całego portfela - poprzez ustalanie limitów dla poszczególnych segmentów i produktów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b10",
+          "page": 133,
+          "element_type": "text",
+          "text": "Realizacja zasad zarządzania ryzykiem kredytowym odbywa się również z wykorzystaniem testów warunków skrajnych, pozwalających wskazać potencjalne zagrożenia dla portfela kredytowego banku. Jednym z elementów takich testów są testy klientów z branż o szczególnej ekspozycji na czynniki ryzyka ESG. W tym celu bank wyodrębnia klientów z sektorów najbardziej narażonych na czynniki ryzyka ESG. Są to przede wszystkim: elektroenergetyka, ciepłownictwo, sektor paliwowo- gazowy, przemysł chemiczny, szeroko rozumiany transport, produkcja i wydobycie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b11",
+          "page": 133,
+          "element_type": "text",
+          "text": "Pomimo tego, że ryzyko kredytowe ma jednolity charakter, można wyróżnić jego typy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b12",
+          "page": 133,
+          "element_type": "text",
+          "text": "**Ryzyko koncentracji wierzytelności** jest ważnym czynnikiem ryzyka kredytowego. W banku są wprowadzone odpowiednie wewnętrzne zasady i stosowane są procedury w zakresie koncentracji zaangażowań, ze szczególnym uwzględnieniem dużych zaangażowań w odniesieniu do pojedynczych klientów i grup powiązanych klientów. Koncentracja w portfelu poddawana jest monitoringowi w podziale na poszczególnych kredytobiorców, podmioty powiązane ze sobą kapitałowo, gospodarczo lub organizacyjnie, branże itp. Zasady koncentracji wierzytelności odnoszą się do różnych obszarów działalności banku - nie tylko działalności kredytowej, ale również inwestycyjnej czy transakcji na rynku pieniężnym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p133_b13",
+          "page": 133,
+          "element_type": "text",
+          "text": "**Ryzyko częściowego lub całkowitego niewykonania zobowiązania** oznacza sytuację, w której klient nie wywiązuje się z umownych terminów spłaty zobowiązań lub całkowicie takiej spłaty zaniecha. Realizacja tego ryzyka wiąże się z podwyższeniem kosztów poprzez generowanie",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 134,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [
+        "3.  Ryzyko finansowe"
+      ],
+      "blocks": [
+        {
+          "block_id": "p134_b0",
+          "page": 134,
+          "element_type": "text",
+          "text": "odpisów na oczekiwane straty kredytowe, które w przypadku całkowitej niespłacalności przekładają się na zrealizowaną stratę.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b1",
+          "page": 134,
+          "element_type": "text",
+          "text": "Minimalizujemy ryzyko niewykonania zobowiązania poprzez:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b2",
+          "page": 134,
+          "element_type": "list",
+          "text": "- ocenę zdolności kredytowej klienta opierającą się na modelach finansowych, w tym modelach predykcyjnych, skutkującą przyznaniem klientowi ratingu adekwatnego do poziomu ryzyka z nim związanego,\n- okresowy monitoring sytuacji ekonomiczno-finansowej klienta.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b3",
+          "page": 134,
+          "element_type": "text",
+          "text": "Ryzyko zabezpieczenia występuje w przypadku, gdy przyjęte zabezpieczenie ekspozycji jest nieadekwatne do wartości przyznanego finansowania lub gdy wartość zabezpieczenia podlega znacznym wahaniom.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b4",
+          "page": 134,
+          "element_type": "text",
+          "text": "Ryzyko zabezpieczenia minimalizujemy poprzez:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b5",
+          "page": 134,
+          "element_type": "list",
+          "text": "- politykę przyjmowania prawnych zabezpieczeń, określającą warunki brzegowe adekwatności zabezpieczenia dla danego typu ekspozycji, klienta i zabezpieczenia,\n- monitoring wartości zabezpieczeń, w szczególności zabezpieczeń hipotecznych (w formie okresowej weryfikacji wycen nieruchomości),\n- testy warunków skrajnych, obejmujące m.in. symulacje zmian wartości zabezpieczeń.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b6",
+          "page": 134,
+          "element_type": "text",
+          "text": "Ryzyko stopy procentowej i kursu walutowego w ryzyku kredytowym wiąże się bezpośrednio z ryzykiem niewykonania zobowiązania, ponieważ realizacja jednego z nich skutkuje znacznym wzrostem prawdopodobieństwa realizacji drugiego. Ryzyko to oznacza zwiększenie obciążeń klienta w wyniku wzrostu stóp procentowych lub niekorzystną zmianę kursu walutowego, niosące za sobą podwyższenie odpowiednio kosztów obsługi zadłużenia oraz wysokości rat spłaty zobowiązań.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b7",
+          "page": 134,
+          "element_type": "text",
+          "text": "Ograniczamy ryzyko stopy procentowej i kursu walutowego poprzez:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b8",
+          "page": 134,
+          "element_type": "list",
+          "text": "- stosowanie odpowiednich procedur w zakresie udzielania finansowania w walutach obcych, w szczególności podczas weryfikacji źródeł spłaty należności,\n- testy warunków skrajnych, obejmujące m.in. symulacje zmiany wysokości stóp procentowych i kursu walutowego i ich wpływ na zdolność kredytową klientów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b9",
+          "page": 134,
+          "element_type": "subsection-header",
+          "text": "Ekspozycja na ryzyko kredytowe w Ukrainie, Rosji oraz Białorusi",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p134_b10",
+          "page": 134,
+          "element_type": "text",
+          "text": "W związku ze zbrojną agresją Rosji na Ukrainę podjęliśmy decyzję, że BGK nie będzie zaciągał żadnych nowych zobowiązań, w tym nie będzie udzielał jakichkolwiek nowych kredytów dla banków rosyjskich i białoruskich, ani składał ofert kontrahentom rosyjskim i białoruskim.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b11",
+          "page": 134,
+          "element_type": "text",
+          "text": "W lutym 2022 r. zawiesiliśmy limity zaangażowania dla banków rosyjskich i białoruskich oraz limity zaangażowania Rosji i Białorusi, i tym samym zamroziliśmy współpracę z bankami z tych krajów. Jednocześnie kontynuujemy działania opisane w raporcie ubiegłorocznym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b12",
+          "page": 134,
+          "element_type": "section-header",
+          "text": "3. Ryzyko finansowe",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p134_b13",
+          "page": 134,
+          "element_type": "subsection-header",
+          "text": "Organizacja procesu zarządzania ryzykiem finansowym",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p134_b14",
+          "page": 134,
+          "element_type": "text",
+          "text": "Zarządzamy ryzykiem finansowym poprzez zarządzanie:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b15",
+          "page": 134,
+          "element_type": "list",
+          "text": "- ryzykiem płynności,\n- ryzykiem rynkowym:\n  - ryzykiem stopy procentowej w portfelu bankowym oraz w portfelu handlowym,\n  - ryzykiem walutowym,\n  - ryzykiem cen instrumentów kapitałowych,\n  - ryzykiem spreadu kredytowego w portfelu bankowym.\n- ryzykiem dźwigni,\n- adekwatnością kapitałową.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b16",
+          "page": 134,
+          "element_type": "text",
+          "text": "Ryzyko finansowe podlega regularnym pomiarom, a przyjęte przez nas miary obejmują również warunki skrajne. Miary ryzyka wyznaczane są w ujęciu jednostkowym z uwagi na brak konieczności dokonywania konsolidacji ostrożnościowej zgodnie z przepisami CRR. Raporty dotyczące ryzyka finansowego przekazywane są Komitetowi Finansowemu, Zarządowi, Komitetowi ds. Ryzyka, Komitetowi ds. Audytu oraz Radzie Nadzorczej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b17",
+          "page": 134,
+          "element_type": "text",
+          "text": "Ryzyko finansowe jest kontrolowane m.in. poprzez system limitów oraz wartości progowych. Monitorujemy ryzyko poprzez regularne sprawdzanie wykorzystania limitów oraz weryfikację poziomów miar ryzyka. Wdrożone w banku procedury obejmują zasady postępowania w przypadku wystąpienia zwiększonego poziomu zagrożenia ryzykiem finansowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p134_b18",
+          "page": 134,
+          "element_type": "text",
+          "text": "W związku ze stanowiskiem EBA dane porównawcze z zakresu adekwatności kapitałowej, ryzyka dźwigni i ryzyka płynności na 31 grudnia 2023 r. zostały zaprezentowane z uwzględnieniem retrospektywnego zaliczenia zysku za 2023 r. przeznaczonego zgodnie z podziałem zysku na zwiększenie kapitałów własnych banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 135,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p135_b0",
+          "page": 135,
+          "element_type": "subsection-header",
+          "text": "Charakterystyka głównych rodzajów ryzyka finansowego",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p135_b1",
+          "page": 135,
+          "element_type": "text",
+          "text": "Ryzyko płynności to zagrożenie wystąpienia utraty zdolności do terminowego regulowania zobowiązań na skutek niekorzystnego ukształtowania się struktury aktywów i pasywów, transakcji pozabilansowych, niedopasowania terminowego bieżących strumieni pieniężnych, powodujące konieczność poniesienia nieakceptowalnych strat.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b2",
+          "page": 135,
+          "element_type": "text",
+          "text": "Cel zarządzania ryzykiem płynności to:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b3",
+          "page": 135,
+          "element_type": "list",
+          "text": "- zapewnienie i utrzymywanie zdolności banku do wywiązywania się zarówno z bieżących, jak i z przyszłych planowanych zobowiązań, z uwzględnieniem kosztów pozyskania płynności i rentowności kapitałów własnych,\n- zapobieganie wystąpieniu sytuacji kryzysowej,\n- określenie rozwiązań umożliwiających przetrwanie sytuacji kryzysowej w przypadku jej wystąpienia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b4",
+          "page": 135,
+          "element_type": "text",
+          "text": "W BGK kontrolujemy ryzyko płynności dzięki systemowi limitów, obejmującemu m.in. limity strategiczne, wartości progowe i progi analizy wskaźników płynności. Wdrożony system limitowania obejmuje płynność bieżącą, krótko-, średnio- i długoterminową.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b5",
+          "page": 135,
+          "element_type": "text",
+          "text": "Cyklicznie przygotowujemy raporty płynności, w których przedstawiane są m.in. informacje o wykorzystaniu nadzorczych i wewnętrznych limitów płynności, stabilności środków obcych i wynikach stress testów oraz dodatkowe analizy dotyczące m.in. płynności długoterminowej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b6",
+          "page": 135,
+          "element_type": "text",
+          "text": "W 2024 roku rozwijaliśmy zarządzanie ryzykiem płynności m.in. poprzez zmianę modelu stabilności zobowiązań, uwzględnienie czynników ESG, zmianę metodologii oraz rozwój narzędzi do kalkulacji miar. Dostosowaliśmy również system limitów ryzyka płynności do aktualnego profilu ryzyka banku oraz regulacji zewnętrznych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b7",
+          "page": 135,
+          "element_type": "text",
+          "text": "W całym 2024 r. płynność BGK była na bezpiecznym poziomie. Nadzorcze miary płynności określone w CRR, jak również wewnętrzne limity wskaźników płynności, nie zostały przekroczone.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b8",
+          "page": 135,
+          "element_type": "caption",
+          "text": "| Tabela 74. Nadzorcze miary płynności",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b9",
+          "page": 135,
+          "element_type": "table",
+          "text": "Tabela przedstawiająca nadzorcze miary płynności banku na koniec 2024 i 2023 roku, z uwzględnieniem danych z wyłączeniem funduszy przepływowych.\nWartości wyrażone w procentach.\n\n| | limit⁵⁶ | 31.12.2024 | 31.12.2023 | informacja dodatkowa – dane z wyłączeniem funduszy przepływowych 31.12.2024 | informacja dodatkowa – dane z wyłączeniem funduszy przepływowych 31.12.2023 |\n|---|---|---|---|---|---|\n| LCR - wskaźnik pokrycia wpływów netto (ang. liquidity coverage ratio | 100% | 179% | 157% | 199% | 168% |\n| NSFR - wskaźnik stabilnego finansowania netto (ang. net stable funding ratio) | 100% | 167% | 163% | 232% | 184% |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b10",
+          "page": 135,
+          "element_type": "text",
+          "text": "Zmiana miar płynności jest związana przede wszystkim ze wzrostem długoterminowych źródeł finansowania (w tym depozytów, emisji obligacji oraz zaciągniętych kredytów), wzrostem akcji kredytowej banku, wzrostem udzielonych zobowiązań pozabilansowych oraz wzrostem inwestycji kapitałowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b11",
+          "page": 135,
+          "element_type": "text",
+          "text": "W 2024 roku bank przeprowadził testy warunków skrajnych na poziomie instytucji dla trzech alternatywnych do planu finansowego scenariuszy rozwoju sytuacji banku. Oczekiwania dotyczące kształtowania się stóp procentowych oraz rozwój sytuacji banku, uwzględniający okoliczności mogące mieć podobne skutki finansowe jak sytuacja związana z COVID-19 oraz konfliktem zbrojnym w Ukrainie były głównymi czynnikami różnicującymi w zakresie czynników makroekonomicznych. W ramach testów określono wpływ poszczególnych scenariuszy na poziom m.in. ryzyka płynności.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b12",
+          "page": 135,
+          "element_type": "text",
+          "text": "Ryzyko rynkowe rozumiane jest jako zagrożenie pogorszenia się wartości portfela instrumentów finansowych lub wyniku finansowego banku na skutek niekorzystnych zmian parametrów rynkowych (kursów walut, stóp procentowych, spreadów kredytowych, cen instrumentów dłużnych, cen instrumentów kapitałowych).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b13",
+          "page": 135,
+          "element_type": "text",
+          "text": "Celami zarządzania ryzykiem rynkowym są:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b14",
+          "page": 135,
+          "element_type": "list",
+          "text": "- identyfikacja obszarów ryzyka rynkowego, w tym ryzyka związanego z instrumentami pochodnymi,\n- w ramach portfela bankowego: kształtowanie pozycji bilansowych i pozabilansowych banku w celu minimalizacji ryzyka negatywnego odchylenia się wyniku finansowego od założonego w planie finansowo – rzeczowym oraz minimalizacji ryzyka niekorzystnej zmiany wartości aktywów netto, w ramach akceptowalnego poziomu ryzyka rynkowego,",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p135_b15",
+          "page": 135,
+          "element_type": "footnote",
+          "text": "⁵⁶ Wskaźniki wyznaczone są w ujęciu jednostkowym z uwagi na brak konieczności dokonywania konsolidacji ostrożnościowej zgodnie z przepisami CRR.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 136,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p136_b0",
+          "page": 136,
+          "element_type": "list",
+          "text": "- w ramach portfela handlowego: uzyskiwanie korzyści finansowych poprzez zawieranie transakcji dealerskich na rynku międzybankowym oraz zabezpieczanie ryzyka portfela, w ramach akceptowalnego poziomu ryzyka rynkowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b1",
+          "page": 136,
+          "element_type": "text",
+          "text": "W 2024 r. w BGK zachowane były akceptowalne poziomy ryzyka rynkowego oraz ryzyka stopy procentowej w portfelu bankowym, ryzyka stopy procentowej w portfelu handlowym i ryzyka generowanego przez instrumenty pochodne określone przez Radę Nadzorczą (apetyt na ryzyko).",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b2",
+          "page": 136,
+          "element_type": "text",
+          "text": "Kalkulujemy nadzorcze testy wartości skrajnych (SOT) dla miar: wrażliwości wartości ekonomicznej kapitału (SOT EVE) oraz wrażliwości wyniku odsetkowego netto w portfelu bankowym (SOT NII). Wyniki SOT EVE oraz SOT NII w najmniej korzystnych scenariuszach kształtowały się na bezpiecznym poziomie i nie przekraczały limitów nadzorczych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b3",
+          "page": 136,
+          "element_type": "text",
+          "text": "W banku prowadzimy prace nad wdrożeniem nowego systemu do pomiaru ryzyka rynkowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b4",
+          "page": 136,
+          "element_type": "subsection-header",
+          "text": "Ryzyko stopy procentowej i ryzyko spreadu kredytowego w portfelu bankowym (CSRBB)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p136_b5",
+          "page": 136,
+          "element_type": "text",
+          "text": "System limitów w banku obejmuje limity nadzorcze określone w przepisach prawa (limity regulacyjne dla nadzorczego testu wartości odstających dla miar EVE oraz NII) oraz limity wewnętrzne. Limity wewnętrzne obejmują apetyt na ryzyko określony przez Radę Nadzorczą oraz limity strategiczne, określone przez Zarząd Banku. Limity podlegają okresowym przeglądom w celu ich dostosowania do skali i profilu bieżącej i planowanej działalności banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b6",
+          "page": 136,
+          "element_type": "text",
+          "text": "Cyklicznie monitorujemy poziomy miar ryzyka i badamy wykorzystanie limitów. Przygotowujemy bieżące i cykliczne raporty ryzyka.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b7",
+          "page": 136,
+          "element_type": "text",
+          "text": "W 2024 r. rozpoczęliśmy raportowanie sprawozdawczości obligatoryjnej dotyczącej ryzyka stopy procentowej w portfelu bankowym (IRRBB) do Narodowego Banku Polskiego (NBP). W związku z uznaniem ryzyka CSRBB za istotne wprowadziliśmy metodę kalkulacji kapitału wewnętrznego na ryzyko spreadu kredytowego w portfelu bankowym (CSRBB) oraz ustanowiliśmy limity. Wdrożyliśmy również nową Rekomendację G KNF dotyczącą zarządzania ryzykiem stopy procentowej w bankach, dostosowując m.in. zakres raportowania, scenariusze stress testowe oraz ustanawiając poziomy ostrzegawcze dla obowiązujących limitów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b8",
+          "page": 136,
+          "element_type": "text",
+          "text": "Kontynuowaliśmy również modelowanie oraz zabezpieczanie kapitału własnego w celu długookresowej stabilizacji dochodu odsetkowego z inwestowania określonej części tego kapitału w składniki aktywów z oprocentowaniem opartym o bieżące rynkowe stopy procentowe. Zabezpieczenie kapitału jest realizowane zgodnie z planem zabezpieczenia za pomocą transakcji zewnętrznych IRS z zastosowaniem rachunkowości zabezpieczeń przepływów pieniężnych oraz portfela stałoprocentowych obligacji skarbowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b9",
+          "page": 136,
+          "element_type": "text",
+          "text": "Wyniki SOT dla wrażliwości wartości ekonomicznej kapitału (SOT EVE) oraz wrażliwości wyniku odsetkowego netto w portfelu bankowym (SOT NII) w najmniej korzystnych scenariuszach kształtowały się na bezpiecznym poziomie i nie przekraczały limitów nadzorczych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b10",
+          "page": 136,
+          "element_type": "caption",
+          "text": "| Tabela 75. Wybrane miary ryzyka stopy procentowej (w tys. zł)",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b11",
+          "page": 136,
+          "element_type": "table",
+          "text": "Tabela przedstawia wybrane miary ryzyka stopy procentowej na dzień 31.12.2024 i 31.12.2023.\nWartości wyrażone w tys. zł.\n\n| wybrane miary ryzyka stopy procentowej | | 31.12.2024 | 31.12.2023 |\n|---|---|---|---|\n| BPV | port. bankowy | -1 404 | -1 349 |\n| BPV | port. handlowy | -25 | -25 |\n| SOT NII (najgorszy z 2 scenariuszy) | | -846 502 (-2.25% Tier I) | -842 202 (-2.25% Tier I) |\n| SOT EVE (najgorszy z 6 scenariuszy) | | -1 492 639 (-3.96% Tier I) | -1 281 394 (-3.42% Tier I) |\n| VaR 1D 99% | port. handlowy | 2 400 | 3 323 |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b12",
+          "page": 136,
+          "element_type": "subsection-header",
+          "text": "Ryzyko walutowe",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p136_b13",
+          "page": 136,
+          "element_type": "text",
+          "text": "Zgodnie z obowiązującymi w banku zasadami mierzymy ryzyko walutowe – badamy wielkości pozycji walutowych, poziom VaR oraz wynik z tytułu zmian kursów walutowych. Na bieżąco monitorujemy i raportujemy również wykorzystania limitów wewnętrznych dotyczących pozycji walutowych oraz straty.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b14",
+          "page": 136,
+          "element_type": "text",
+          "text": "Całkowita pozycja walutowa BGK na 31 grudnia 2024 r. wyniosła 42 mln zł (0.11% funduszy własnych). Natomiast VaR 1D 99% dla tej pozycji wyniósł 0.23 mln zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b15",
+          "page": 136,
+          "element_type": "subsection-header",
+          "text": "Ryzyko zmiany cen instrumentów kapitałowych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p136_b16",
+          "page": 136,
+          "element_type": "text",
+          "text": "W porównaniu do 2023 r. nastąpił wzrost wartości portfela akcji o 229 mln zł związany ze wzrostem kursu akcji PKO BP S.A. Ponadto w 2024 r. względem 2023 r. nastąpił wzrost zaangażowania w fundusze inwestycyjne w związku z większą liczbą posiadanych certyfikatów inwestycyjnych w wyniku wpłat BGK do funduszy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p136_b17",
+          "page": 136,
+          "element_type": "text",
+          "text": "Pomiar ryzyka zmiany cen instrumentów kapitałowych odbywał się zgodnie z obowiązującymi zasadami i był dokonywany poprzez badanie wartości portfela instrumentów kapitałowych oraz VaR. Na 31 grudnia 2024 r. VaR 1D 99% dla portfela akcji wyniósł 76 mln zł.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 137,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [
+        "4.  Ryzyko operacyjne",
+        "5.  Ryzyko biznesowe"
+      ],
+      "blocks": [
+        {
+          "block_id": "p137_b0",
+          "page": 137,
+          "element_type": "section-header",
+          "text": "4. Ryzyko operacyjne",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p137_b1",
+          "page": 137,
+          "element_type": "subsection-header",
+          "text": "Organizacja procesu zarządzania ryzykiem operacyjnym",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p137_b2",
+          "page": 137,
+          "element_type": "text",
+          "text": "Ryzykiem operacyjnym zarządzamy w całym BGK, fundacjach i podmiotach zależnych. Oceniamy m.in. produkty, procesy i systemy. Pod uwagę brane są m.in. struktura, specyfika działalności, użytkowane systemy informatyczne, specyfika klientów i ich skargi, kadry, zmiany organizacyjne oraz rotacja pracowników. Uwzględniamy też czynniki zewnętrzne. Ryzyko operacyjne jest regularnie raportowane wyższej kadrze kierowniczej, Komitetowi Ryzyka Operacyjnego i Kontroli Wewnętrznej, Zarządowi oraz Radzie Nadzorczej i Komitetowi ds. Ryzyka.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b3",
+          "page": 137,
+          "element_type": "text",
+          "text": "Ryzykiem operacyjnym zarządzamy poprzez:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b4",
+          "page": 137,
+          "element_type": "list",
+          "text": "- funkcję partnera ryzyka, obejmującą ryzyko operacyjne, braku zgodności i utraty reputacji,\n- podejście procesowe do oceny ryzyka operacyjnego (mapa ryzyka operacyjnego),\n- wskaźniki ryzyka operacyjnego (KRI/RI),\n- scentralizowaną bazę wszystkich zaleceń,\n- metodykę oceny ryzyka operacyjnego stron trzecich: pośredników finansowych, dostawców usług outsourcingowych i dostawców usług ICT,\n- ocenę ryzyka w projektach i umowach outsourcingowych,\n- dodatkowy proces oceny ryzyka dla grupy produktów własnych banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b5",
+          "page": 137,
+          "element_type": "text",
+          "text": "Skalę zagrożeń związanych z ryzykiem operacyjnym ustalmy dzięki przyjętym miarom ryzyka. Są to:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b6",
+          "page": 137,
+          "element_type": "list",
+          "text": "- wskaźniki ryzyka operacyjnego (KRI/RI),\n- wymóg kapitałowy obliczany metodą BIA,\n- testy warunków skrajnych,\n- kapitał wewnętrzny,\n- ryzyko stron trzecich:\n  - pośredników finansowych i partnerów finansujących,\n  - wykonawców usług outsourcingowych,\n  - ryzyko w projektach i umowach outsourcingowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b7",
+          "page": 137,
+          "element_type": "text",
+          "text": "Dodatkowo identyfikujemy i oceniamy ryzyko ESG wbudowane w ryzyko operacyjne w ramach: procesu samooceny ryzyka operacyjnego, umów outsourcingowych, umów nieoutsourcingowych, umów istotnych, projektów. Wyznaczamy również kapitał wewnętrzny na ryzyko ESG wbudowane w ryzyko operacyjne.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b8",
+          "page": 137,
+          "element_type": "text",
+          "text": "Komitet Ryzyka Operacyjnego i Kontroli Wewnętrznej pełni w BGK funkcje opiniodawcze i decyzyjne. Komitet umożliwia Zarządowi nadzór i kontrolę poziomu ryzyka operacyjnego, ryzyka braku zgodności oraz funkcji kontroli w BGK oraz ocenę skuteczności systemu zarządzania tym rodzajem ryzyka.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b9",
+          "page": 137,
+          "element_type": "text",
+          "text": "Zmiany w zarządzaniu ryzykiem operacyjnym planowane na rok 2025:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b10",
+          "page": 137,
+          "element_type": "list",
+          "text": "- przystosowanie systemów i procedur do wymogów Rozporządzenia CRR3,\n- wprowadzenie metody SMA w związku z wejściem w życie Rozporządzenia CRR3,\n- dostosowanie wymogów w zakresie bezpieczeństwa cyfrowego zgodnie z Rozporządzeniem „DORA",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b11",
+          "page": 137,
+          "element_type": "subsection-header",
+          "text": "Charakterystyka ryzyka operacyjnego",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p137_b12",
+          "page": 137,
+          "element_type": "text",
+          "text": "Wartość straty netto w ujęciu księgowym z tytułu zdarzeń ryzyka operacyjnego w 2024 r. wyniosła 22 553 tys. zł. W 2024 r. utrzymujemy akceptowalny profil ryzyka operacyjnego oraz nie przekroczyliśmy przyjętych limitów oraz apetytu na ryzyko operacyjne.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b13",
+          "page": 137,
+          "element_type": "section-header",
+          "text": "5. Ryzyko biznesowe",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p137_b14",
+          "page": 137,
+          "element_type": "subsection-header",
+          "text": "Organizacja systemu zarządzania ryzykiem biznesowym",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p137_b15",
+          "page": 137,
+          "element_type": "text",
+          "text": "Ryzyko biznesowe w BGK rozumiemy jako ryzyko nieosiągnięcia założonych i koniecznych celów ekonomicznych, w szczególności wyniku finansowego oraz jako ryzyko braku realizacji celów gospodarczych i społecznych realizowanych w ramach misji i zadań określonych przez właściciela. Ryzyko biznesowe obejmuje ryzyko strategiczne.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p137_b16",
+          "page": 137,
+          "element_type": "text",
+          "text": "W BGK oceniamy ryzyko biznesowe poprzez identyfikację i analizę wpływu faktycznych oraz potencjalnych zagrożeń z otoczenia biznesowego na wynik finansowy i realizację celów strategicznych. Do takich ryzyk zaliczamy m.in. czynniki makroekonomiczne, zmiany w przepisach dotyczących działalności banków, trendy rynkowe oraz zmiany w sektorze bankowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 138,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [
+        "6.  Ryzyko ESG"
+      ],
+      "blocks": [
+        {
+          "block_id": "p138_b0",
+          "page": 138,
+          "element_type": "text",
+          "text": "Pomiar ryzyka biznesowego dotyczący wyniku finansowego dokonywany jest głównie poprzez analizę odchyleń w realizacji strategii oraz planu finansowo-rzeczowego. Przygotowujemy także prospektywną ocenę ryzyka biznesowego na podstawie m.in. wpływu zmian prawnych i regulacyjnych oraz otoczenia makroekonomicznego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b1",
+          "page": 138,
+          "element_type": "text",
+          "text": "Zarządzamy ryzykiem biznesowym tak, aby utrzymywać na akceptowalnym poziomie potencjalne, negatywne konsekwencje finansowe.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b2",
+          "page": 138,
+          "element_type": "text",
+          "text": "Raportowanie głównych elementów ryzyk cząstkowych odbywa się poprzez prezentowanie wyników banku na cyklicznych posiedzeniach Zarządu, Komitetu ds. Audytu, Komitetu ds. Ryzyka, Rady Nadzorczej, a także dla Komitetu Finansowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b3",
+          "page": 138,
+          "element_type": "section-header",
+          "text": "6. Ryzyko ESG",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p138_b4",
+          "page": 138,
+          "element_type": "subsection-header",
+          "text": "Organizacja systemu zarządzania ryzykiem ESG",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p138_b5",
+          "page": 138,
+          "element_type": "identifier",
+          "text": "GRI 3-3 temat: Zmiana klimatu",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b6",
+          "page": 138,
+          "element_type": "identifier",
+          "text": "Wskaźnik własny 5",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b7",
+          "page": 138,
+          "element_type": "identifier",
+          "text": "TCFD 3.C",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b8",
+          "page": 138,
+          "element_type": "text",
+          "text": "W banku zarządzamy ryzykiem ESG zgodnie z przepisami prawa, standardami rynkowymi oraz naszymi własnymi regulacjami. Dzielimy ryzyko ESG na środowiskowe, społeczne i związane z ładem korporacyjnym. Ryzyko środowiskowe obejmuje ryzyko związane z klimatem, w tym ryzyko fizyczne i ryzyko przejścia.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b9",
+          "page": 138,
+          "element_type": "text",
+          "text": "ZOBACZ WIĘCEJ\nWięcej informacji na temat zarządzania ryzykiem ESG publikujemy w raporcie Ujawnienia ryzyka ESG BGK wg stanu na dzień 31.12.2024 r. (Filar III, ESG). Raport jest dostępny na stronie internetowej BGK.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b10",
+          "page": 138,
+          "element_type": "subsection-header",
+          "text": "Wpływ ryzyk i szans na strategię i planowanie finansowe",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p138_b11",
+          "page": 138,
+          "element_type": "identifier",
+          "text": "TCFD 2.A, 2.B, 2.C",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b12",
+          "page": 138,
+          "element_type": "text",
+          "text": "Strategia banku nie ujmowała w 2024 roku ryzyka związanego z klimatem w sposób bezpośredni. Cele ESG oraz ogólne ryzyka klimatyczne oraz społeczne są ujęte w strategiach programów modelu biznesowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b13",
+          "page": 138,
+          "element_type": "text",
+          "text": "Ryzyko ESG jest uwzględniane w planowaniu finansowym pośrednio, poprzez inne rodzaje ryzyk, w które jest wbudowane – głównie ryzyko kredytowe oraz planowanie nowego finansowania w ramach poszczególnych programów modelu biznesowego. Planowanie finansowe obejmuje również koszty i przychody operacyjne, w tym związane z realizacją projektów ESG. Trwająca modyfikacja produktów i procesów umożliwi w przyszłości dokładniejsze ujęcie ryzyk ESG w planie finansowym. W planowaniu finansowym na 2024 r. ryzyko ESG było traktowane łącznie, bez podziału na komponenty środowiskowe, społeczne i związane z ładem korporacyjnym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b14",
+          "page": 138,
+          "element_type": "text",
+          "text": "W 2024 r. po raz kolejny oceniliśmy bieżący i potencjalny wpływ BGK na zmianę klimatu. Przeanalizowaliśmy portfel banku, naszą działalność operacyjną oraz elementy strategii biznesowej, które łączą się z możliwością wpływu na klimat w kolejnych latach - analiza obejmowała negatywne i pozytywne oddziaływanie organizacji. Wpływ na zmiany klimatu oszacowaliśmy jako istotny ze względu na portfel BGK i strategię biznesową banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p138_b15",
+          "page": 138,
+          "element_type": "text",
+          "text": "W 2024 r. po raz pierwszy wykazaliśmy emisje CO₂e w zakresie 3, w kategorii 15, wg GHG Protocol, co dokładniej opisujemy niżej w części Cele i mierniki. Opracowaliśmy także ścieżki dekarbonizacji dla dwóch sektorów elektroenergetyka i transport – staną się one podstawą do opracowania długoterminowych celów dla tych sektorów. W 2025 r. toczyć się będą prace nad ścieżkami dekarbonizacyjnymi dla kolejnych wybranych sektorów.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 139,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [],
+      "blocks": [
+        {
+          "block_id": "p139_b0",
+          "page": 139,
+          "element_type": "subsection-header",
+          "text": "Identyfikacja i ocena ryzyka oraz szans ESG",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p139_b1",
+          "page": 139,
+          "element_type": "identifier",
+          "text": "TCFD 3.A, 3.B, 3.C",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b2",
+          "page": 139,
+          "element_type": "text",
+          "text": "W procesie kredytowym ryzyko oceniane jest na dwóch etapach. Wstępna ocena opiera się na odpowiedziach z ankiety ESG, a ocena pogłębiona - wykonywana dla strategicznych dla BGK finansowań - wykonywana jest przez ekspertów z Biura Ryzyka ESG.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b3",
+          "page": 139,
+          "element_type": "text",
+          "text": "Ankieta ESG będąca podstawą etapu pierwszego została wprowadzona w BGK w 2023 r. Wypełnienie jej jest obowiązkowe przy udzielaniu finansowania oraz wymagane w późniejszym procesie monitoringu. Odpowiedzi - poza analizą ryzyka ESG danego finansowania - wykorzystujemy również do raportowania oraz jako materiał analityczny do oceny portfela.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b4",
+          "page": 139,
+          "element_type": "text",
+          "text": "Pogłębiona ocena ryzyk obejmuje identyfikację i analizę wpływu czynników ESG na pozostałe kategorie ryzyka finansowego. Weryfikowane są także wewnętrzne regulacje ESG podmiotu kredytowanego, podejście do identyfikacji i mitygacji ryzyk, zgodność z Taksonomią UE oraz wkład w osiąganie celów społecznych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b5",
+          "page": 139,
+          "element_type": "text",
+          "text": "Opracowaliśmy listę branż podwyższonego ryzyka ESG, czyli tych, w których potencjalny wpływ środowiskowy i społeczny jest największy. Poszczególne sektory ocenialiśmy pod kątem wpływu środowiskowego i społecznego oraz presji, jakie wywierają na kapitał naturalny. Przygotowaliśmy także listę czynników ESG, które wpływają na sytuację finansową podmiotów w określonych podsektorach gospodarki.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b6",
+          "page": 139,
+          "element_type": "text",
+          "text": "W procesie inwestycyjnym ocena ryzyka ESG pozwala na ustalenie poziomu ryzyka dotyczącego partnerów biznesowych lub inwestycji kapitałowych banku. Do oceny ryzyka ESG w procesie inwestycyjnym stosuje się odpowiednio techniki oceny jak w procesie kredytowym.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b7",
+          "page": 139,
+          "element_type": "subsection-header",
+          "text": "Kompleksowe testy warunków skrajnych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p139_b8",
+          "page": 139,
+          "element_type": "text",
+          "text": "Aspekty ESG są uwzględniane w testach warunków skrajnych przeprowadzanych w banku. Specjalny scenariusz ESG, wdrożony do procedury testowej, obejmuje czynniki społeczne i klimatyczne, w tym zmiany cen uprawnień do emisji CO₂. Jeśli wyniki testów wskazują na wysoką wrażliwość danego sektora na ryzyka ESG, możliwe jest przeklasyfikowanie klientów z tego sektora do fazy 2 w procesie wyznaczania odpisów na oczekiwane straty kredytowe. Taka sytuacja miała miejsce w 2024 r. W okresie sprawozdawczym po raz pierwszy pilotażowo przeprowadziliśmy też stress testy klimatyczne w perspektywie do 2050 r. w oparciu o metodykę Europejskiego Banku Centralnego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b9",
+          "page": 139,
+          "element_type": "text",
+          "text": "Wyniki przeprowadzonych testów zostały zaprezentowane na posiedzeniach Komitetu Finansowego Banku, zaś syntetyczna informacja została przekazana Zarządowi, Komitetowi ds. Ryzyka i Radzie Nadzorczej w ramach rocznego raportu ryzyka finansowego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b10",
+          "page": 139,
+          "element_type": "subsection-header",
+          "text": "Cele i mierniki",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p139_b11",
+          "page": 139,
+          "element_type": "identifier",
+          "text": "TCFD 4.A, 4.B",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b12",
+          "page": 139,
+          "element_type": "text",
+          "text": "Przesłanki taksonomiczne zostały w 2024 r. uwzględnione w naszych wewnętrznych procesach. Wyznaczyliśmy też poziomy wskaźników określających stopień zrównoważenia portfela BGK:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b13",
+          "page": 139,
+          "element_type": "list",
+          "text": "- Wskaźnik zielonych aktywów (Green Asset Ratio, opublikowany w raporcie Ujawnienia ryzyka ESG BGK (Filar III, ESG)).\n- Liczbę i wielkości finansowań wpisujących się w cele środowiskowe określone w art. 9 Taksonomii.\n- Wskaźnik zgodności portfela bankowego z Taksonomią UE (Banking Book Taxonomy Alignment Ratio, BTAR) – wskaźnik ten wyznaczyliśmy po raz pierwszy.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b14",
+          "page": 139,
+          "element_type": "text",
+          "text": "W ramach ujawnień ryzyka ESG prezentujemy nasze ekspozycje w kontekście narażenia na ryzyko klimatyczne. W ujawnieniach wg stanu na 31.12.2024 r. prezentujemy dane dotyczące nieruchomości stanowiących zabezpieczenie udzielonych kredytów. W dalszych etapach będziemy prezentować również poszczególne branże wg miejsca prowadzenia działalności. Szczegółowe informacje na temat ryzyka ESG, o których mowa w art. 449a CRR są zawarte w raporcie z Ujawnień ryzyka ESG BGK wg stanu na dzień 31.12.2024 r. (Filar III, ESG) na stronie internetowej banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b15",
+          "page": 139,
+          "element_type": "text",
+          "text": "Zgodnie z obowiązującymi w 2024 r. Zasadami zarządzania ryzykiem ESG w BGK ustalono strategiczny limit łącznego kapitału wewnętrznego na pokrycie ryzyka ESG, uwzględnionego w ramach innych rodzajów ryzyka, na poziomie nie wyższym niż 3% funduszy własnych banku. Na koniec 2024 r. limit ten nie został przekroczony.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p139_b16",
+          "page": 139,
+          "element_type": "text",
+          "text": "Stosowanym przez naszą organizację miernikiem oceny szans i ryzyk klimatycznych jest ślad węglowy, czyli suma gazów cieplarnianych, do emisji których przyczynił się bank (zarówno w działalności operacyjnej jak i portfelowej). W 2024 r. opracowaliśmy wewnętrzne podejście do zbierania danych i obliczania śladu węglowego portfela BGK (tj. kategorii 15 w zakresie 3 wg GHG Protocol) zgodnie z uznaną i powszechnie stosowaną przez sektor bankowy metodyką opracowaną przez PCAF. W rozdziale VI. Zrównoważony rozwój prezentujemy wyniki kalkulacji sfinansowanych emisji gazów cieplarnianych, przeprowadzonej na potrzeby",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 140,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [
+        "7.  Ryzyko braku zgodności",
+        "8.  Ryzyko utraty reputacji",
+        "9.  Adekwatność kapitałowa i ryzyko dźwigni"
+      ],
+      "blocks": [
+        {
+          "block_id": "p140_b0",
+          "page": 140,
+          "element_type": "text",
+          "text": "przygotowania raportu z Ujawnień ryzyka ESG BGK wg stanu na 31.12.2024 r. (Filar III, ESG). Kluczowym zadaniem w kontekście wyznaczania celów jest opracowanie ścieżek dekarbonizacji i wyznaczenie długoterminowych celów dekarbonizacyjnych, o czym szerzej piszemy w rozdziale V.I. Zrównoważony rozwój.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p140_b1",
+          "page": 140,
+          "element_type": "section-header",
+          "text": "7. Ryzyko braku zgodności",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p140_b2",
+          "page": 140,
+          "element_type": "subsection-header",
+          "text": "Organizacja systemu zarządzania ryzykiem braku zgodności",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p140_b3",
+          "page": 140,
+          "element_type": "text",
+          "text": "Identyfikujemy i oceniamy ryzyko braku zgodności poprzez m.in. zdarzenia operacyjne, wyniki testów zgodności oraz skargi i reklamacje klientów. Dodatkowo, prowadzimy też ankiety oceniające to ryzyko, m.in. w programach modelu biznesowego banku. Ograniczamy ryzyko braku zgodności poprzez projektowanie, wdrażanie lub zlecanie wdrożenia dedykowanych temu ryzyka mechanizmów kontrolnych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p140_b4",
+          "page": 140,
+          "element_type": "text",
+          "text": "Wyniki oceny ryzyka braku zgodności i informacje o realizacji zadań związanych z zarządzaniem ryzykiem raportowane są cyklicznie m.in. do Zarządu i Rady Nadzorczej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p140_b5",
+          "page": 140,
+          "element_type": "section-header",
+          "text": "8. Ryzyko utraty reputacji",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p140_b6",
+          "page": 140,
+          "element_type": "subsection-header",
+          "text": "Organizacja procesu zarządzania ryzykiem utraty reputacji",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 2
+        },
+        {
+          "block_id": "p140_b7",
+          "page": 140,
+          "element_type": "text",
+          "text": "Chronimy wizerunek BGK i ograniczamy straty wynikające z jego naruszania dzięki zarządzaniu ryzykiem utraty reputacji. Identyfikujemy możliwość pojawienia się takiego ryzyka tworząc i modyfikując bankowe produkty, nawiązując relacje biznesowe, przygotowując materiały marketingowe oraz organizując postępowania zakupowe. Dodatkowo uwzględniamy także czynniki ESG. Dbamy o to, aby nasza komunikacja nie wprowadzała w błąd i przestrzegamy naszej Polityki przeciwdziałania greenwashingowi.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p140_b8",
+          "page": 140,
+          "element_type": "text",
+          "text": "Co roku oceniamy ryzyko utraty reputacji uwzględniając negatywne informacje w mediach, zdarzenia operacyjne oraz analizując wewnętrzne opinie na temat relacji biznesowych. Sprawdzamy też pod tym kątem wyniki wewnętrznych i zewnętrznych kontroli. Ograniczamy ryzyko utraty reputacji zarówno w ramach ryzyka inherentnego jak i rezydualnego.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p140_b9",
+          "page": 140,
+          "element_type": "text",
+          "text": "Wyniki oceny ryzyka utraty reputacji i informacje o realizacji zadań związanych z zarządzaniem tym ryzykiem są raportowane cyklicznie m.in. do Zarządu i Rady Nadzorczej.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p140_b10",
+          "page": 140,
+          "element_type": "section-header",
+          "text": "9. Adekwatność kapitałowa i ryzyko dźwigni",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p140_b11",
+          "page": 140,
+          "element_type": "text",
+          "text": "Monitorujemy poziom adekwatności kapitałowej i ryzyka dźwigni za pomocą odpowiednich wskaźników wyznaczonych zgodnie z ustawą Prawo bankowe oraz CRR. W całym 2024 r. adekwatność kapitałowa BGK była na bezpiecznym poziomie. Nadzorcze miary jak również wewnętrzne limity wskaźników kapitałowych nie zostały przekroczone.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p140_b12",
+          "page": 140,
+          "element_type": "text",
+          "text": "W 2024 roku rozpoczęte zostały prace nad wdrożeniem nowego systemu do kalkulacji wymogów kapitałowych. W ramach przeglądu limitów dostosowaliśmy ich poziomy do aktualnego i planowanego profilu ryzyka banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p140_b13",
+          "page": 140,
+          "element_type": "caption",
+          "text": "Tabela 76. Wskaźniki adekwatności kapitałowej i ryzyka dźwigni z funduszami przepływowymi",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p140_b14",
+          "page": 140,
+          "element_type": "table",
+          "text": "Wskaźniki adekwatności kapitałowej i ryzyka dźwigni BGK na koniec 2024 i 2023 roku wraz ze zmianą rok do roku.\nWartości wyrażone w mln zł lub jako wskaźniki procentowe.\n\n| | 31.12.2024 | 31.12.2023 | zmiana r/r |\n|---|---|---|---|\n| Całkowity wymóg kapitałowy (w mln zł) | 9 863 | 8 958 | 905 |\n| Kapitał wewnętrzny (w mln zł)⁵⁷ | 14 466 | 12 102 | 2 364 |\n| Fundusze własne (w mln zł) | 37 660 | 37 420 | 240 |\n| Kapitał Tier I (w mln zł) | 37 660 | 37 420 | 240 |\n| Kapitał podstawowy Tier I (w mln zł) | 37 660 | 37 420 | 240 |\n| Kapitał Tier II (w mln zł) | 0 | 0 | 0 |\n| **Współczynnik kapitału podstawowego Tier I** | **30,55%** | **33,42%** | **-2,87 p.p.** |\n| **Współczynnik kapitału Tier I** | **30,55%** | **33,42%** | **-2,87 p.p.** |\n| **Łączny współczynnik kapitałowy** | **30,55%** | **33,42%** | **-2,87 p.p.** |\n| **Wskaźnik kapitału wewnętrznego** | **38,41%** | **32,34%** | **+6,07 p.p.** |\n| **Wskaźnik dźwigni** | **5,03%** | **5,80%** | **-0,77 p.p.** |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p140_b15",
+          "page": 140,
+          "element_type": "footnote",
+          "text": "⁵⁷ Obejmuje także ekspozycje z tytułu zarządzania programami europejskimi oraz z tytułu działalności poręczeniowo-gwarancyjnej BGK realizowanej w ramach programów rządowych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    },
+    {
+      "page_num": 141,
+      "content_rect": {
+        "x0": 210,
+        "y0": 0.0,
+        "x1": 1920.0,
+        "y1": 1080.0
+      },
+      "chapter": "VII Zarządzanie ryzykiem",
+      "sections": [
+        "10. Inne ryzyka"
+      ],
+      "blocks": [
+        {
+          "block_id": "p141_b0",
+          "page": 141,
+          "element_type": "caption",
+          "text": "Tabela 77. Informacja dodatkowa. Wskaźniki adekwatności kapitałowej i ryzyka dźwigni bez funduszy przepływowych",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p141_b1",
+          "page": 141,
+          "element_type": "table",
+          "text": "Wskaźniki adekwatności kapitałowej i ryzyka dźwigni bez funduszy przepływowych na dzień 31.12.2024 i 31.12.2023 oraz zmiana rok do roku.\n\n| | 31.12.2024 | 31.12.2023 | zmiana r/r |\n|---|---|---|---|\n| Całkowity wymóg kapitałowy (w mln zł) | 9 306 | 8 482 | 824 |\n| Kapitał wewnętrzny (w mln zł) | 13 072 | 11 213 | 1 859 |\n| Fundusze własne (w mln zł) | 37 660 | 37 420 | 240 |\n| Kapitał Tier I (w mln zł) | 37 660 | 37 420 | 240 |\n| Kapitał podstawowy Tier I (w mln zł) | 37 660 | 37 420 | 240 |\n| Kapitał Tier II (w mln zł) | 0 | 0 | 0 |\n| **Współczynnik kapitału podstawowego Tier I** | **32,38%** | **35,29%** | **-2,91 p.p.** |\n| **Współczynnik kapitału Tier I** | **32,38%** | **35,29%** | **-2,91 p.p.** |\n| **Łączny współczynnik kapitałowy** | **32,38%** | **35,29%** | **-2,91 p.p.** |\n| **Wskaźnik kapitału wewnętrznego** | **34,71%** | **29,97%** | **+4,74 p.p.** |\n| **Wskaźnik dźwigni** | **10,89%** | **12,92%** | **-2,03 p.p.** |",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p141_b2",
+          "page": 141,
+          "element_type": "text",
+          "text": "Zmiany wysokości współczynników kapitałowych, wskaźnika kapitału wewnętrznego oraz wskaźnika dźwigni wynikały głównie z:",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p141_b3",
+          "page": 141,
+          "element_type": "list",
+          "text": "- wzrostu wymogu kapitałowego oraz kapitału wewnętrznego z tytułu ryzyka kredytowego, w szczególności w związku ze wzrostem łącznej kwoty ekspozycji na ryzyko wobec przedsiębiorstw i rządów centralnych,\n- wzrostu wymogu kapitałowego z tytułu ryzyka operacyjnego, głównie z uwagi na wzrost średniego wyniku odsetkowego z trzech ostatnich lat,\n- wzrostu miary ekspozycji całkowitej, głównie w wyniku wzrostu źródeł finansowania banku.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p141_b4",
+          "page": 141,
+          "element_type": "section-header",
+          "text": "10. Inne ryzyka",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": 1
+        },
+        {
+          "block_id": "p141_b5",
+          "page": 141,
+          "element_type": "text",
+          "text": "Zgodnie z naszymi procedurami, zarządzamy także innymi rodzajami ryzyka - przede wszystkim ryzykiem modeli oraz ryzykiem zmian warunków makroekonomicznych.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        },
+        {
+          "block_id": "p141_b6",
+          "page": 141,
+          "element_type": "picture",
+          "text": "Czarno-białe zdjęcie wnętrza budynku bankowego z napisem 'KRAJOWY BANK ROLNY' oraz innymi napisami na ścianie.",
+          "bbox": {
+            "x0": 0,
+            "y0": 0,
+            "x1": 0,
+            "y1": 0
+          },
+          "heading_level": null
+        }
+      ]
+    }
+  ]
+}

@@ -190,7 +190,7 @@
         {
           "block_id": "p49_b0",
           "page": 49,
-          "element_type": "section-header",
+          "element_type": "subsection-header",
           "text": "Rynek pracy pozostaje stabilny",
           "bbox": {
             "x0": 0,
@@ -198,7 +198,7 @@
             "x1": 0,
             "y1": 0
           },
-          "heading_level": 1
+          "heading_level": 2
         },
         {
           "block_id": "p49_b1",
