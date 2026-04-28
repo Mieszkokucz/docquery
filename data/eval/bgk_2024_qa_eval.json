@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "question": "Dlaczego część wsparcia BGK nie jest klasyfikowana jako wkład w Cele SDG?",
+    "question_type": "single_hop",
+    "pages": [
+      "7"
+    ],
+    "chapter": "I – Jedyny taki bank",
+    "section": "Podsumowanie 2024 roku",
+    "fragment_text": ["18% wygenerowanej kwoty wsparcia gospodarki nie przyczyniło się do realizacji Celów Zrównoważonego Rozwoju."]
+  },
+  {
+    "id": 2,
+    "question": "Kto został powołany na prezesa Zarządu BGK w 2024 roku?",
+    "question_type": "single_hop",
+    "pages": [
+      "9", "112"
+    ],
+    "chapter": "I – Jedyny taki bank",
+    "section": "Najważniejsze wydarzenia w 2024 roku",
+    "fragment_text": [
+      "Mirosław Czekaj został powołany na prezesa Zarządu BGK.",
+      "Tabela 63. Skład Zarządu BGK"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Jak wygląda struktura Grupy Kapitałowej BGK i jakie podmioty ją tworzą?",
+    "question_type": "single_hop",
+    "pages": [
+      "10"
+    ],
+    "chapter": "I – Jedyny taki bank",
+    "section": "Charakterystyka Grupy Kapitałowej BGK",
+    "fragment_text": ["Vinci S.A"]
+  },
+  {
+    "id": 4,
+    "question": "Jaki priorytet dla Polski wskazuje prezes BGK w kontekście sytuacji geopolitycznej?",
+    "question_type": "single_hop",
+    "pages": [
+      "4"
+    ],
+    "chapter": "I – Jedyny taki bank",
+    "section": "List Prezesa Zarządu",
+    "fragment_text": ["wzmacnianie odporności na zmiany i bezpieczeństwo strategiczne"]
+  },
+  {
+    "id": 5,
+    "question": "Jaka jest łączna moc instalacji OZE współfinansowanych przez BGK w 2024 roku?",
+    "question_type": "single_hop",
+    "pages": [
+      "15", "28"
+    ],
+    "chapter": "II – Tworzenie wartości",
+    "section": "Strategia, czyli co nas wyróżnia",
+    "fragment_text": ["to łączna moc obecnych i przyszłych instalacji OZE na lądzie i morzu współfinansowanych przez BGK w 2024 r"]
+  },
+  {
+    "id": 6,
+    "question": "Jaki jest cel programu Bank Staży?",
+    "question_type": "single_hop",
+    "pages": [
+      "40"
+    ],
+    "chapter": "III – Pracownicy",
+    "section": "Dbałość o pracowników",
+    "fragment_text": ["rozszerzenie kompetencji i lepsze zrozumienie funkcjonowania organizacji."]
+  },
+  {
+    "id": 7,
+    "question": "W jakiej formie klienci mogą skłądać reklamacje?",
+    "question_type": "single_hop",
+    "pages": [
+      "52"
+    ],
+    "chapter": "IV – Otoczenie",
+    "section": "Otoczenie społeczno-gospodarcze",
+    "fragment_text": ["- osobiście,\n - pisemnie,/n - telefonicznie,/n - elektronicznie."]
+  },
+  {
+    "id": 8,
+    "question": "jaka była frekwencja na szkoleniu z obszaru etycznego?",
+    "question_type": "single_hop",
+    "pages": [
+      "119"
+    ],
+    "chapter": "VI – Ład korporacyjny",
+    "section": "Wartości, etyka, zgodność",
+    "fragment_text": ["Tabela 67. Frekwencja na szkoleniu z obszaru etycznego"]
+  },
+  {
+    "id": 9,
+    "question": "Co obejmuje I linia obrony w systemie kontroli ryzyka BGK?",
+    "question_type": "single_hop",
+    "pages": [
+      "126"
+    ],
+    "chapter": "VI – Ład korporacyjny",
+    "section": "System kontroli wewnętrznej",
+    "fragment_text": ["Obejmuje zarządzanie ryzykiem w działalności operacyjnej i opiera się  na funkcjonowaniu komórek organizacyjnych,"]
+  },
+  {
+    "id": 10,
+    "question": "Jakie są cele polityki kredytowej BGK?",
+    "question_type": "single_hop",
+    "pages": [
+      "133"
+    ],
+    "chapter": "VII – Zarządzanie ryzykiem",
+    "section": "Ryzyko kredytowe i koncentracji",
+    "fragment_text": ["Polityka kredytowa to fundament realizacji misji BGK - pozwala nam umacniać rolę BGK jako banku rozwoju i silniej angażować się w finansowanie przedsięwzięć ujętych w strategii."]
+  },
+  {
+    "id": 11,
+    "question": "Jakie czynniki będą hamować tempo wzrostu gospodarczego w 2025 r.?",
+    "question_type": "single_hop",
+    "pages": [
+      "143"
+    ],
+    "chapter": "VIII – Perspektywy",
+    "section": "Otoczenie gospodarcze",
+    "fragment_text": ["Jednocześnie tempo wzrostu będzie osłabiane przez ujemną kontrybucję eksportu netto i utrzymującą się restrykcyjną politykę monetarną"]
+  },
+  {
+    "id": 12,
+    "question": "Jakie czynności BGK wykonuje w ramach obsługi funduszy przepływowych?",
+    "question_type": "single_hop",
+    "pages": [
+      "161"
+    ],
+    "chapter": "X – Załączniki",
+    "section": "Fundusze przepływowe",
+    "fragment_text": ["W BGK jesteśmy operatorem funduszy przepływowych, z których środki są przeznaczane na konkretne cele ustalane przez rząd - BGK nie sprawuje kontroli nad funduszami przepływowymi i nie ponosi ryzyka kredytowego związanego z ich aktywami."]
+  },
+  {
+    "id": 13,
+    "question": "Ile nowych aktów prawnych zidentyfikowano jako wymagające implementacji w 2024 r. w porównaniu do 2023 r.?",
+    "question_type": "single_hop",
+    "pages": [
+      "106"
+    ],
+    "chapter": "VI – Ład korporacyjny",
+    "section": "Zmiany w otoczeniu regulacyjnym",
+    "fragment_text": ["Tabela 59. Zmiany w prawie"]
+  },
+  {
+    "id": 14,
+    "question": "Jakie zmiany w składzie zarządu nastąpiły w 2024 r.?",
+    "question_type": "single_hop",
+    "pages": [
+      "112"
+    ],
+    "chapter": "VI – Ład korporacyjny",
+    "section": "Zasady, zadania i zakres działania organów i komitetów",
+    "fragment_text": ["Prezes Rady Ministrów odwołał: z dniem 11 stycznia 2024 r. Beatę Daszyńską-Muzyczka ze stanowiska prezesa Zarządu BGK; z dniem 11 kwietnia 2024 r. Pawła Nieradę ze stanowiska pierwszego wiceprezesa Zarządu; z dniem 12 kwietnia 2024 r. Marka Tomczuka ze stanowiska członka Zarządu; z dniem 27 czerwca 2024 r. Radosława Kwietnia ze stanowiska członka Zarządu; z dniem 2 lipca 2024 r. Tomasza Robaczyńskiego ze stanowiska członka Zarządu;"]
+  }
+]
