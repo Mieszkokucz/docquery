@@ -22,8 +22,10 @@ from backend.app.document.models import (
 PATTERN_CHAPTER_NUM = re.compile(r"^[IVXLCDM]+\s*$")
 PATTERN_CHAPTER_FULL = re.compile(r"^([IVXLCDM]+)\s+(.+?)\s*$")
 PATTERN_PAGE_ONLY = re.compile(r"^\d+\s*$")
-PATTERN_SUB_FULL = re.compile(r"^\d+\.\s+(.+?)\s*\.{2,}\s*(\d+)\s*$")
-PATTERN_SUB_START = re.compile(r"^\d+\.\s+(.+)$")
+# PATTERN_SUB_FULL = re.compile(r"^\d+\.\s+(.+?)\s*\.{2,}\s*(\d+)\s*$")
+# PATTERN_SUB_START = re.compile(r"^\d+\.\s+(.+)$")
+PATTERN_SUB_FULL = re.compile(r"^(\d+\.\s+.+?)\s*\.{2,}\s*(\d+)\s*$")
+PATTERN_SUB_START = re.compile(r"^(\d+\.\s+.+)$")
 RE_DOTS_END = re.compile(r"^(.*?)\s*\.{2,}\s*(\d+)\s*$")
 RE_ROMAN = re.compile(r"^([IVXLCDM]+)\s")
 

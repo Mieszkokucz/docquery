@@ -7,12 +7,13 @@ DATA_DIR = ROOT_DIR / "data"
 
 PDF_PATH = DATA_DIR / "raw" / "raport_2024_pl.pdf"
 
-VISION_CACHE_DIR = DATA_DIR / "extraction"
-VISION_MODEL = "claude-haiku-4-5-20251001"
+# Ekstrakcja (Claude Vision) — pozostaje pod "vision", bo dosłownie używa Vision API.
+VISION_CACHE_DIR = DATA_DIR / "extraction_v2"
+VISION_MODEL = "claude-sonnet-4-6"
 
+# Konwersacja i retrieval (v2 pipeline RAG).
 CHAT_MODEL = "claude-sonnet-4-20250514"
-EMBEDDING_MODEL = "intfloat/multilingual-e5-small"
-
-CHUNK_SIZE = 999999
-CHUNK_OVERLAP = 50
-TOP_K = 5
+V2_EMBEDDING_MODEL = "text-embedding-3-small"
+V2_CHUNK_MAX_CHARS = 800
+V2_CHUNK_OVERLAP_CHARS = 0
+V2_TOP_K = 5

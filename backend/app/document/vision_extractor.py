@@ -21,10 +21,15 @@ from backend.app.document.models import (
     ExtractedPage,
 )
 from backend.app.document.structure_extractor import extract_structure
-from backend.app.document.vision_prompt import VISION_SYSTEM_PROMPT
+from backend.app.document.vision_prompt import (
+    VISION_SYSTEM_PROMPT_v2 as VISION_SYSTEM_PROMPT,
+)
 from backend.app.document.vision_response import (
     build_section_hint,
     clean_response,
+    normalize_heading_texts,
+    promote_matching_subsection_headers,
+    reclassify_spurious_section_headers,
     vision_elements_to_blocks,
 )
 
@@ -71,7 +76,8 @@ def _extract_single_chapter(
     model: str = VISION_MODEL,
     ch_path: Path | None = None,
 ) -> None:
-    """Ekstrahuje treść z jednego rozdziału, pomijając title page.
+    """Ekstrahuje treść z jednego rozdziału, pomijając title page
+    oraz strony które zawierają już bloki treści.
 
     Modyfikuje chapter in-place. Błędy pojedynczych stron są logowane jako
     WARNING i pomijane — nie przerywają przetwarzania pozostałych stron.
@@ -99,6 +105,27 @@ def _extract_single_chapter(
             parsed = clean_response(raw)
             elements = parsed.get("elements", [])
             page.blocks = vision_elements_to_blocks(page.page_num, elements)
+            normalized = normalize_heading_texts(page)
+            if normalized:
+                logger.info(
+                    "  [postprocess] p%d: %d nagłówków znormalizowanych (\\n→spacja)",
+                    page.page_num,
+                    normalized,
+                )
+            spurious = reclassify_spurious_section_headers(page)
+            if spurious:
+                logger.info(
+                    "  [postprocess] p%d: %d section-header → subsection-header",
+                    page.page_num,
+                    spurious,
+                )
+            promoted = promote_matching_subsection_headers(page)
+            if promoted:
+                logger.info(
+                    "  [postprocess] p%d: %d subsection-header → section-header",
+                    page.page_num,
+                    promoted,
+                )
         except Exception as exc:
             logger.warning(
                 "  [%d/%d] Strona %d: błąd ekstrakcji — %s. Strona pominięta.",
