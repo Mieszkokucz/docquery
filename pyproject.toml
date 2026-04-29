@@ -28,7 +28,7 @@ dev = [
     "pymupdf-layout>=1.27.2.2",
     "pymupdf4llm>=1.27.2.2",
     "pytest>=9.0.2",
-    "rapidfuzz>=3.14.5",
+    "rapidfuzz>=3.14.5",  # tylko notebooki eksperymentalne — brak użycia w backend/
     "ruff>=0.15.7",
 ]
 
