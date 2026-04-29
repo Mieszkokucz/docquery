@@ -12,7 +12,7 @@ VISION_CACHE_DIR = DATA_DIR / "extraction_v2"
 VISION_MODEL = "claude-sonnet-4-6"
 
 # Konwersacja i retrieval (v2 pipeline RAG).
-CHAT_MODEL = "claude-sonnet-4-20250514"
+CHAT_MODEL = "claude-sonnet-4-6"
 V2_EMBEDDING_MODEL = "text-embedding-3-small"
 V2_CHUNK_MAX_CHARS = 800
 V2_CHUNK_OVERLAP_CHARS = 0

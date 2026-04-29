@@ -1,18 +1,21 @@
+import os
 from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 
 from backend.app.api.routes import router
-from backend.app.config import CHUNK_OVERLAP, CHUNK_SIZE, PDF_PATH
-from backend.app.document.naive_processor import chunk_pages, extract_pages
-from backend.app.retrieval.vector_store import index_chunks
+from backend.app.retrieval.bootstrap import load_and_index_v2_corpus
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    pages = extract_pages(str(PDF_PATH))
-    chunks = chunk_pages(pages, chunk_size=CHUNK_SIZE, overlap=CHUNK_OVERLAP)
-    index_chunks(chunks)
+    if not os.environ.get("OPENAI_API_KEY"):
+        raise RuntimeError(
+            "Brak OPENAI_API_KEY — indeksowanie v2 wymaga kluczy OpenAI "
+            "(embeddingi text-embedding-3-small)."
+        )
+
+    load_and_index_v2_corpus()
     yield
 
 
