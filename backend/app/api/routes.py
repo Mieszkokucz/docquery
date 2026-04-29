@@ -1,12 +1,14 @@
-import re
-
 from fastapi import APIRouter
 
 from backend.app.api.models import ChatRequest, ChatResponse, Source
 from backend.app.conversation.history import add_message, get_history
 from backend.app.conversation.llm_client import ask
-from backend.app.conversation.prompt_builder import build_prompt
-from backend.app.retrieval.vector_store import search
+from backend.app.conversation.prompt_builder_v2 import (
+    build_prompt_v2,
+    match_sources,
+    parse_citations,
+)
+from backend.app.retrieval.vector_store_v2 import search_v2
 
 router = APIRouter()
 
@@ -19,17 +21,21 @@ def health():
 @router.post("/chat", response_model=ChatResponse)
 def chat(request: ChatRequest):
     history = get_history(request.session_id)
-    chunks = search(request.question)
-    system, messages = build_prompt(request.question, chunks, history)
+    chunks = search_v2(request.question)
+    system, messages = build_prompt_v2(request.question, chunks, history)
     answer = ask(messages, system)
 
     add_message(request.session_id, "user", request.question)
     add_message(request.session_id, "assistant", answer)
 
-    cited_pages = set(map(int, re.findall(r"\[Strona (\d+)\]", answer)))
     sources = [
-        Source(page=c["page"], text=c["text"])
-        for c in chunks
-        if c["page"] in cited_pages
+        Source(
+            pages=c["pages"],
+            element_type=c["element_type"],
+            chapter=c["chapter"],
+            section=c["section"],
+            content=c["content"],
+        )
+        for c in match_sources(chunks, parse_citations(answer))
     ]
     return ChatResponse(answer=answer, sources=sources)

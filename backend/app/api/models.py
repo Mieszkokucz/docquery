@@ -4,8 +4,11 @@ from pydantic import BaseModel, Field
 
 
 class Source(BaseModel):
-    page: int
-    text: str
+    pages: list[int]
+    element_type: str
+    chapter: str | None = None
+    section: str | None = None
+    content: str
 
 
 class ChatRequest(BaseModel):

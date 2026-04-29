@@ -17,7 +17,7 @@ for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
         if msg.get("sources"):
-            pages = sorted(set(s["page"] for s in msg["sources"]))
+            pages = sorted({p for s in msg["sources"] for p in s["pages"]})
             st.caption(f"Źródła: strony {', '.join(map(str, pages))}")
 
 # Input
@@ -39,7 +39,7 @@ if question := st.chat_input("Zadaj pytanie o raport BGK..."):
     with st.chat_message("assistant"):
         st.markdown(data["answer"])
         if data.get("sources"):
-            pages = sorted(set(s["page"] for s in data["sources"]))
+            pages = sorted({p for s in data["sources"] for p in s["pages"]})
             st.caption(f"Źródła: strony {', '.join(map(str, pages))}")
 
     st.session_state.messages.append(
